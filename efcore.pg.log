@@ -1,0 +1,1358 @@
+/Users/roji/projects/test/Test.csproj : warning NU1504: Duplicate 'PackageReference' items found. Remove the duplicate items or use the Update functionality to ensure a consistent restore behavior. The duplicate 'PackageReference' items are: Microsoft.Extensions.Logging.Console 9.0.5, Microsoft.Extensions.Logging.Console 9.0.5.
+/Users/roji/projects/test/Test.csproj : warning NU1504: Duplicate 'PackageReference' items found. Remove the duplicate items or use the Update functionality to ensure a consistent restore behavior. The duplicate 'PackageReference' items are: Microsoft.Extensions.Logging.Console 9.0.5, Microsoft.Extensions.Logging.Console 9.0.5.
+Fetching available issue types...
+Found issue type: Task (ID: IT_kwDOAFf9Yc4ABwMX)
+Found issue type: Bug (ID: IT_kwDOAFf9Yc4ABwMb)
+Found issue type: Feature (ID: IT_kwDOAFf9Yc4ABwMe)
+Available issue types: Task, Bug, Feature
+
+Processing issues without issue types (limit: 5)...
+Fetching next page of issues (processed so far: 0)...
+Processing issue #7: Expose PostgreSQL XML functions
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #22: PostgreSQL composite type support
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #113: Optimize multiple insertions
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #115: Enable bad data test(s)
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #119: Support for expression indices
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Reached processing limit of 5 issues. Stopping.
+Processing complete. Processed 5 issues, updated 4 issues.
+/Users/roji/projects/test/Test.csproj : warning NU1504: Duplicate 'PackageReference' items found. Remove the duplicate items or use the Update functionality to ensure a consistent restore behavior. The duplicate 'PackageReference' items are: Microsoft.Extensions.Logging.Console 9.0.5, Microsoft.Extensions.Logging.Console 9.0.5.
+/Users/roji/projects/test/Test.csproj : warning NU1504: Duplicate 'PackageReference' items found. Remove the duplicate items or use the Update functionality to ensure a consistent restore behavior. The duplicate 'PackageReference' items are: Microsoft.Extensions.Logging.Console 9.0.5, Microsoft.Extensions.Logging.Console 9.0.5.
+Fetching available issue types...
+Found issue type: Task (ID: IT_kwDOAFf9Yc4ABwMX)
+Found issue type: Bug (ID: IT_kwDOAFf9Yc4ABwMb)
+Found issue type: Feature (ID: IT_kwDOAFf9Yc4ABwMe)
+Available issue types: Task, Bug, Feature
+
+Processing issues without issue types (limit: 100)...
+Fetching next page of issues (processed so far: 0)...
+Processing issue #115: Enable bad data test(s)
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #212: Translate hstore access to SQL
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #248: postgres-xl support for 'DISTRIBUTE BY'
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #296: Warn if AutoPrepare isn't on
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #314: Fully support multi-dimensional arrays
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #316: Benchmark suite
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #356: Translate Array.Exists() and Any()
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #435: Better error message when scaffolding composite types
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #436: Improve translation of .Any(s => s.StartsWith()) to use LIKE ANY
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #458: Model PostgreSQL domain types
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #467: Provider-specific date/time types (e.g. NpgsqlDate) not supported in 2.1.0
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #480: Support for compatibility versioning
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #508: DB-first generation leads to incorrect DeleteBehavior mapping
+Labels: blocked
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #563: Support mapping ValueTuple with row constructors 
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #627: Allow users to control null sorting first/last
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #628: Translate binary string functions and operators
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #629: Translate new functions for text search 
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #730: Consider redoing extensions, enums, ranges via ModelDiffer
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #736: Consider modifying enum/range/extension annotation style
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #829: Add the ST_Scale method support
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #837: Reverse engineer CHECK constraints
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #871: Start publishing snupkg
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #886: NpgsqlTsQueryEmpty cannot roundtrip to C#
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #894: Generate PostgreSQL DISTINCT ON
+Labels: enhancement, performance, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #895: Multiple database connections cause enumeration type to default to int after first first call
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #898: Generate IN expression for tuples
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #946: Stored vs. calculated generated columns
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1004: Organise member translation for spatial types
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1020: NodaTime constructor translation
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1035: Support for table partitioning
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1107: Serialization options for System.Text.Json support
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1113: Can't intercept via wrapping reader because NpgsqlModificationCommandBatch depends casts to NpgsqlDataReader, and it is sealed
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1176: Variadic function support
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1232: Query string and DbCommand support
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1259: Add support for ST_Force2D
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1281: InvalidCastException when using unmapped parameterized enum
+Labels: bug, blocked
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1297: Convert.ToDateTime not working
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1313: Provide mapping for `Envelope`
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1318: The type mapping for 'Dictionary<string, string>' has not implemented code literal generation.
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1321: EFCore 3.1.3 with NodaTime Instant.MinValue and HasData throws Npgsql.PostgresException (0x80004005): 22009: time zone displacement out of range
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1360: Add UseCockroachDb to NpgsqlDbContextOptions
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1393: Provide an optional value comparer for JsonDocument/JsonElement
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1404: Unexpected query generated on simple string Contains
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1478: Fix issues with line breaks in string literals
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1487: Translate to PostgreSQL date_trunc
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1490: Update NodaTimeTests and add BCL types to verify BCL type handler forwarding
+Labels: enhancement, test
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1529: No translation for dictionary indexer on jsonb columns
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1595: Support seeding for JSON POCOs
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1605: Index included properties not working with `dotnet ef dbcontext scaffold`
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1613: Missing metadata namespace when scaffolding
+Labels: bug, blocked
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1616: JsonContains and sub-properties
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1648: Ability to configure identity options at the model level
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1668: Cache the Windows EnterpriseDB PostgreSQL distribution
+Labels: infrastructure
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1671: Support mapping NodaTime's Interval to PG tsrange/tstzrange
+Labels: enhancement, nodatime
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1691: Translate queries where a row includes a collection to use arrays instead of being implemented through joins
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1692: ArgumentOutOfRangeException for query on CockroachDB?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1724: Missing operations on ts_query?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1753: Fluent API for creating Indexes on jsonb
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1814: NpgsqlRelationalConnection.CloneWith should return instance owning the connection
+Labels: bug, blocked
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1825: Allow mapping JSON to Dictionary<string,string>
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1850: Add support for the new System.Text.Json writable DOM
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1851: Optimized nullability processing for JSON POCO mapping
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1878: UseDatabaseTemplate and Database.Migrate when template already has "__EFMigrationsHistory"
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1912: Model support for Citus Data
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1916: Problem with nested type in jsonb column
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1922: Switch to using the new batching API
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1923: Switch to using positional parameters
+Labels: enhancement, performance, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1938: Support for cube
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1975: Support PostgreSQL exclusion constraints
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1976: Enums with same names cause migrations failing to build
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1993: Support range SQL literal generation
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2008: Full Text Search Documentation 
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2015: User-defined PG14 multiranges
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2019: Look into translating Queryable.Zip via PostgreSQL ROWS FROM
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2029: Optimize StartsWith with starts_with in PG15
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2031: When looking up methods via reflection, be trimming/AOT-friendly
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2040: Testing debt for 6.0
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2049: Pessimistic concurrency via row locking with SELECT FOR UPDATE
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2082: HasPostgresArrayConversion cannot map an array nested inside value object
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2085: Is it possible to use System.Text.Json source generators to serialize from/to POCO?
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2092: Suggestion - allow HasGeneratedTsVectorColumn to reference navigation properties in its LINQ expression in order to support table splitting
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2097: Look into supporting temporal data
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2103: Investigate the perf of EnsuredDeleted/EnsureCreated
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2109: Annotate all parameters as nullable in EF.Functions extensions
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2163: Dynamic `config` parameter for `HasGeneratedTsVectorColumn`
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2194: Scaffold index included/covered properties
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2231: Translation of method 'Microsoft.EntityFrameworkCore.NpgsqlDbFunctionsExtensions.ILike' failed
+Labels: bug, blocked
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2234: Support collations not in the default schema
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2257: Add migration tests for idempotency
+Labels: enhancement, test
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2270: When using a custom schema in CockroachDb error - "At or near "do": syntax error"
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2276: Support ltree array query?
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2307: Query issues with HasPostgresArrayConversion
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2323: Array slice/subset translation
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2340: Optimize insertion of principal and dependent in one round-trip when the principal ID is database-generated
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2364: Support for json_array_elements
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2368: Tests: connection interception tests are skipped because NpgsqlConnection doesn't fire Dispose event
+Labels: test
+  No relevant labels found (bug or enhancement). Skipping.
+
+Fetching next page of issues (processed so far: 96)...
+Processing issue #2391: Support table splitting with HasGeneratedTsVectorColumn
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2394: Translate aggregate bit_and, bit_or and bit_xor
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2418: Migrations: add support for specifying column storage
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2424: Implement sum/average over interval via generic math
+Labels: blocked
+  No relevant labels found (bug or enhancement). Skipping.
+
+Reached processing limit of 100 issues. Stopping.
+Processing complete. Processed 100 issues, updated 81 issues.
+Fetching available issue types...
+Found issue type: Task (ID: IT_kwDOAFf9Yc4ABwMX)
+Found issue type: Bug (ID: IT_kwDOAFf9Yc4ABwMb)
+Found issue type: Feature (ID: IT_kwDOAFf9Yc4ABwMe)
+Available issue types: Task, Bug, Feature
+
+Processing issues without issue types (limit: none)...
+Fetching next page of issues (processed so far: 0)...
+Processing issue #115: Enable bad data test(s)
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #316: Benchmark suite
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #435: Better error message when scaffolding composite types
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #508: DB-first generation leads to incorrect DeleteBehavior mapping
+Labels: blocked
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #730: Consider redoing extensions, enums, ranges via ModelDiffer
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #736: Consider modifying enum/range/extension annotation style
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1668: Cache the Windows EnterpriseDB PostgreSQL distribution
+Labels: infrastructure
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1692: ArgumentOutOfRangeException for query on CockroachDB?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1724: Missing operations on ts_query?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1753: Fluent API for creating Indexes on jsonb
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1976: Enums with same names cause migrations failing to build
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2008: Full Text Search Documentation 
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2040: Testing debt for 6.0
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2103: Investigate the perf of EnsuredDeleted/EnsureCreated
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2307: Query issues with HasPostgresArrayConversion
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2323: Array slice/subset translation
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2340: Optimize insertion of principal and dependent in one round-trip when the principal ID is database-generated
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2368: Tests: connection interception tests are skipped because NpgsqlConnection doesn't fire Dispose event
+Labels: test
+  No relevant labels found (bug or enhancement). Skipping.
+
+Fetching next page of issues (processed so far: 18)...
+Processing issue #2424: Implement sum/average over interval via generic math
+Labels: blocked
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2435: Global option to always use PostgreSQL native enums?
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2453: Map support out-of-range date/time mappings
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2454: Make scaffolding work for Redshift
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2495: Move away from parsing/serializing annotations
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2517: Support enums in scaffolding
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2538: Automatically recreate indexes when an unalterable facet is altered
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2567: Add provider value comparers for all supported types
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2568: Make HasIndex work on JSON properties
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2570: Support LINQ to JSONPATH querying
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2577: Support for IReadOnlyList List Types (IList / IReadOnlyList / ImmutableList)
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2584: UseHilo For Not PK Property
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2588: Analyzer detecting instantiation of NpgsqlDataSourceBuilder inside OnConfiguring/AddDbContext
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2590: Sequence not updated when seeding data to tables using TPC
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2607: IndexAttribute: Name property is treated incorrectly for migrations
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2615: Make HasGeneratedTsVectorColumn convert non-text columns in the includeExpression to text.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2617: ValueGeneratorFactory throws an exception using Npgsql provider and Hilo
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2623: HasGeneratedTsVectorColumn depends on call order
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2632: New (PostGIS) functions request/advice
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2633: Translate array_agg over records/tuples
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2634: Broken Redshift compatibility in 7.0.1
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2645: Translate LINQ Count() (in addition to the Count property)
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2668: API for raw JSONPATH queries
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2669: Translate System.Text.Json JSONPATH APIs when they become available
+Labels: blocked
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2696: Converting a column to not null for jsonb type throws error.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2702: Type missmatch for array_append for PG 13.10
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2925: Make sure index facets are also available on keys
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2724: Specialized translation from LINQ Append to PG array_append
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2729: 7.0.4 - Existing base table name lead character being upper cased
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2746: DbConnectionInterceptor.ConnectionOpened behavior when pooling is enabled
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2752: Replace PostgresRowValueExpression with the new EF Core RowValueExpression
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2756: Translate DegreesToRadians
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2770: Npgsql.NpgsqlOperationInProgressException (0x80004005): A command is already in progress
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2771: Refrain from using transactions in migrations when targeting YugabyteDB
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2793: BitArray Bitwise operators
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2797: NpgsqlArrayConverter not support RepeatedField<string>
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2804: Translating string.Split with StringSplitOptions
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2821: Double logging of SQL when using EF and Npgsql in DI
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2836: Translate methods on BitArray
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2850: Queryable geometry collections
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2860: Implement or block JSON primitive collections
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2867: Make discrete ranges queryable
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2869: React to inet/cidr changes
+Labels: breaking change
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2906: Translations for the PG built-in geometry types (e.g. box)
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2915: Provide translaction for jsonb_object_keys
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2917: Database.Migrate() not work when connectionstring containe a schema name with param SearchPath
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2926: Complete owned entity JSON support for all type mappings
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2934: Recognize partitions in scaffolding
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2949: Support advanced type mappings in the compiled model
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2963: Incorrect C# enums mapping to postgres enum with non-default schema
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2997: .HasColumnType("jsonb[]") in EF 8 not working
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3016: Translate ST_AsMVT
+Labels: enhancement, NetTopologySuite
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3021: Support for mapping JsonNode properties like JsonDocument
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3036: Standard AspNetUserRoles table doesn't scaffold correctly. Works in MSSQL
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3040: Migrations called twice
+Labels: blocked
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3041: Full Text Search method "Matches" fails when not using a string query
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3050: `TargetInvocationException` error during query after update to .NET 8
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3074: NpgsqlArrayConverter.ArrayConversionExpression throws IndexOutOfRangeException when TInput is string
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3075: NpgsqlTsVector HasGeneratedTsVectorColumn with Json Columns migration creation fails
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3082: Make sure we support IList<T>, not just array/List<T>
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3092: NpgsqlArrayConverter.ArrayConversionExpression throws IndexOutOfRangeException when using a custom derived type for the collection
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3098: Stop wrapping SaveChanges exceptions with InvalidOperationException
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3104: Array value converters are incompatible with the compiled model
+Labels: bug, blocked
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3107: Migrations blocked by: The type mapping for 'JsonElement' has not implemented code literal generation
+Labels: bug, blocked
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3116: string.PadLeft and string.PadRight wrong translation
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3122: Support primitive collections as JSON (instead of an array)
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3177: Fully support extensions create in non-default schemas
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3180: All migrations detected as Pending if you don't have a versioned public schema. 
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3184: Translate range construction, e.g. NpgsqlRange<DateTime> to daterange() 
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3186: Look into TimescaleDB support
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3198: Add support for foreign key match types (FULL, PARTIAL, SIMPLE)
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3206: Look into IS DISTINCT FROM as an alternative to nullability semantics compensation
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3208: Translate primitive collections with composed LINQ operators via PG array constructor
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3224: Replace type reloading mechanism with the new EF migration extensibility mechanism
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3245: Extension missing for method ST_SetsRID
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3250: Fix null semantics for row value comparison
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3257: Precompiled query/NativeAOT work
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3268: Add new overload for `EnableRetryOnFailure` that allows to pass in `maxRetryCount` and `maxRetryDelay`.
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3269: Stop PG from using a generic plan when an array is parameterized
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3304: Switch to the new SQL/JSON PG17 JSON_VALUE/JSON_QUERY functions
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3311: Support `INCLUDE` for primary keys
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3314: Consider doing full change tracking with JSON DOM mapping
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3321: Support cidr<->IPNetwork mapping
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3347: Behavior of ToString on enums in query
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3352: Storing Auto-generated TS Vector from Unmapped Fields
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3358: UseCollation gives error invalid LC_COLLATE locale name
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3359: Migration does not work with custom default schema
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3366: Support non-default NpgsqlTypeMappings as element type mappings in the compiled model
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3375: Mapping enum issues with multiple DbContext's
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3379: NpgsqlDbContextOptionsBuilder.MapEnum<T> doesn't respect PgNameAttribute
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3380: Resolving Application Services From NpgsqlMigrationsSqlGenerator
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3383: Array indexing over SqlExpression not translated
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3384: System.InvalidOperationException  : The ConnectionString property has not been initialized.  .net 8 isolated worker 
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3385: Using FrozenSet.Contains and enums throws ArgumentNullException: Value cannot be null (Parameter 'constructor')
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3396: Add compatibility for Amazon Aurora DSQL
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3398: Consider ordering enum labels based on the .NET label value instead of alphabetically
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Fetching next page of issues (processed so far: 114)...
+Processing issue #3406: Translate DateTime.Microsecond and Nanosecond members
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3407: Reexamine migration table detection/creation
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3408: Fix parameter collections of nullable structs
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3426: Using HasData to seed an Entity with a mapped Enum creates a migration that errors with: PostgresException (0x80004005) 42703: column "{{enum value}}"
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3429: UserManager.AddToRoleAsync with enable options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking) throw exception
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3436: It is impossible to use a user transaction during the migration process
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3449: DateTime.AddMilliseconds(and DateTime.AddMicroseconds )
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3455: NpgsqlDatabaseCreator.Exist doesn't like DbConnectionInterceptor to open the connection
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3472: Unable to save entities with enum with a special string converter
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3473: Annotation("Npgsql:CreatedConcurrently", true) works but IsCreatedConcurrently(true) does not
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3475: Specifying ToJson().HasColumnType("json") make querying throw an exception
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3485: Translation for PostGIS && operator
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3489: Json converter is ignored when reading from jsonb column
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3491: Consider switching to the PG17 JSON_TABLE() function
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3495: Have a better story for EFCore.PG and multihost
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3511: Incorrect checking of JSONB null values
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3514: Unable to cast object of type 'System.Double[]' to type 'System.Double[,]'  for empty values in 'double precision multi dimensional array'
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3515: Cannot convert annotation of "TsVectorProperties" to snake case for NpgsqlTsVector
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3518: Using MapEnum doesn't seem to work properly
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3524: Fuzzy text search: support for Daitch-Mokotoff function
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3526: Support for 'WITH ENCODING' during database creation?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3529: Failed to save string value to PostgreSQL enum column
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3531: ArgumentNullException when inserting record contains nested objects
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3532: LocalDate for BCE dates transform into the invalid date
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3533: Dictionary<string, string> JSONB property, nothing is persisted.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3534: Npgsql.PostgresException : 42804: column "execution_result" is of type rule_execution_result_type but default expression is of type integer
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3535: Consider transferring logger factory to internal constructed data sources
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3537: Removing schema name from ToTable does not work as expected
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3538: Serializing an LTree value to a JSON string results in an exception
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3542: Data seeding involving extension types fail on migration
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3550: Improved error message requested: Npgsql.NpgsqlException (0x80004005): Unknown message code: 187
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing complete. Processed 145 issues, updated 76 issues.
