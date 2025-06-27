@@ -1,0 +1,1275 @@
+Fetching available issue types...
+Found issue type: Task (ID: IT_kwDOAFf9Yc4ABwMX)
+Found issue type: Bug (ID: IT_kwDOAFf9Yc4ABwMb)
+Found issue type: Feature (ID: IT_kwDOAFf9Yc4ABwMe)
+Available issue types: Task, Bug, Feature
+
+Processing issues without issue types (limit: none)...
+Fetching next page of issues (processed so far: 0)...
+Processing issue #462: Implement MARS (Multiple Active Result Set)
+Labels: enhancement, research
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #495: TransactionScope timeout does not work
+Labels: documentation
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #496: Support NpgsqlParameter.Precision and Scale for numeric
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #698: Support for the cube type
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #867: Support for read-only and deferrable transactions
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1072: Add driver-side error codes to NpgsqlException
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1127: Issues with user locking around connection open/close
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1160: Add foreign key and constraint information to GetSchema()
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1162: Design ideas for proper thread-safe shutdown procedure
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1323: Write errors in later statements aren't handled
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1378: Durable distributed transaction recovery
+Labels: enhancement, system.transactions, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1502: Connector lock not acquired when changing state to Fetching
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #1606: Cancel running queries on all connectors on process exit
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1611: Synchronization for avoiding concurrent connection use with TransactionScope
+Labels: enhancement, system.transactions
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1625: Npgsql needlessly prepare transactions in some cases
+Labels: system.transactions, blocked
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1712: Zero-copy binary reading from the reader's buffer
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1727: Investigate one-pass parameter writing
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #1785: Consider bringing back automatic dereferencing of cursors
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1800: Get the currently running command from a connection
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1830: NpgsqlDataAdapter doesn't support batches
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1877: New API for notification handling
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #1943: Determining if NpgsqlRange<T> is implicitly empty
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2032: Support protocol minor version negotation
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2055: Consider including search_path in prepared Statements cache key
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2090: Accept connecting with PostgreSQL URLs instead of connection strings
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2155: Elevation to distributed Transaction when using EnlistmentOptions.None
+Labels: system.transactions
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2225: Enable ADO.NET spec tests in CI
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2237: Use ThrowHelper instead of inline exception throwing
+Labels: performance, up for grabs
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2252: Investigate exact expected output parameter behavior
+Labels: breaking change, cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2307: Factory methods for ADO.NET objects should recycle
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2314: Range API improvement
+Labels: discussion
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2565: Make properties about database types public
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2586: Money handler doesn't respect the server currency format
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #2598: NetTopologySuite I/O isn't async (and writing is inefficient)
+Labels: performance, blocked, plugin:nts
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2618: Replace NpgsqlTransaction.IsCompleted with NpgsqlConnection.IsTransactionInProgress
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2687: Some classes could have a `DebuggerDisplayAttribute`
+Labels: discussion
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2696: Don't check passwords length during authentication
+Labels: enhancement, breaking change
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2737: Issues with klist file location and multiple tickets
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2801: Analyzer warnings about the bitwise-or with NpgsqlDbType
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2813: Idle connection pruning kills too many connections.
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2818: Zero-copy JsonDocument and JsonElement reading
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2825: SchemaOnly for command with multiple statements
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2910: Prevent LOH allocs by implementing ReadOnlySequence on specific type handlers
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #2929: Allow users to specify extra capacity in the pool
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #2973: Document the provider-specific date/time types
+Labels: documentation
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3029: Investigate sending DISCARD ALL message asynchronously on Close()
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3060: NpgsqlLogManager.IsParameterLoggingEnabled Duplicates Connection String Property LogParameters
+Labels: enhancement, breaking change
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3110: Design behavior around timeouts and multiplexing
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3125: Implement proper error handling for Unprepare
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3150: Look at the current mapping of SQLSTATEs to the new IsTransient property of PostgresException 
+Labels: research
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3162: Enable code quality analyzers
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3187: Break the connection when sync cancellation fails
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3255: Review/redo concurrency detection strategy
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3277: Improve connector's cancellation request
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3294: Allow executing a query and consuming the results via the simple protocol
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3302: Minor replication test cleanup tasks
+Labels: replication
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3303: Consider allowing unmapped enums to be written as int/string
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3341: Add timeouts for every different user action
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3346: Additional tasks for cancellation/timeout
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3387: Make ClearAllPools complete remove pools from memory
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3422: Improve test coverage for NpgsqlParameter.Clone
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3457: The currently running command prevents the driver from disposing
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3484: Allow closing connections while a command is in progress
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3493: Add support for the PostgreSQL Connection Service File
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3608: Include unpooled connections in event counters
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3610: Consider connecting to multiple hosts in parallel instead of sequentially
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3613: Further improvements to multiple hosts
+Labels: epic
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3620: Consider applying timeouts per IP for multi-IP host connection
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3635: Hand out additional non-pooled connections with pooling enabled
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3657: Stop waiting for physical connection open in the pool
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3677: Add a support for client der certificates and private keys
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3696: Consider doing cancellation as fire-and-forget
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3698: Make an async version of NpgsqlConnector.SkipUntil
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3699: Optimize NpgsqlConnector.SkipUntil by not parsing the message
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3701: Make Npgsql 100% reliable in the face of accidental concurrent use
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3735: Reset the connection whenever it's closed inside of a TransactionScope
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3806: Access the state of a transaction given the NpgsqlConnection
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3841: Support parameters in COPY
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3850: Modifying parameter list doesn't invalidate prepared statements
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #3922: Support AllResultTypesAreUnknown/UnknownResultTypeList on NpgsqlBatch/NpgsqlBatchCommand
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3925: ImmutableArray read support for pg arrays
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3936: Clean up cancellation token strategy
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #3957: Make COPY aware of column types
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #3991: Productize multiplexing to make it user-ready
+Labels: epic
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4025: Suggestion to add documentation on how to build npgsql.
+Labels: documentation
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4038: Telemetry and observability improvements in 9.0
+Labels: epic, diagnostics
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4052: Allow any type to be written as binary
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4053: Allow writing parameters in text format (with a specific type OID)
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4103: Make more tests parallelizable
+Labels: test
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4158: OpenTelemetry: when tracing command execution, specify whether it's prepared or not
+Labels: enhancement, diagnostics
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4159: Do same logging/tracing in multiplexing as in non-multiplexing
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #4180: Exclusive connection openers get starved in multiplexing over-capacity mode
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #4181: Load Balance Hosts balances imperfectly if one server is down
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #4232: OpenTelemetry: logging
+Labels: enhancement, diagnostics
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4351: API to batch transaction commit with a command/batch
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4389: PostgresException.BatchCommand.CommandText is not being populated 
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4432: Add a metric to OpenTelemetry to track autoprepare's pool saturation
+Labels: enhancement, diagnostics
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4445: New PG14 SQL-standard function bodies break our SQL parser
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #4451: Connections not reset properly if connection is opened/closed within a transactionscope.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Fetching next page of issues (processed so far: 99)...
+Processing issue #4462: Consider allowing connections with an empty connection string
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4496: Reimplement multiplexing via NpgsqlDataSource.CreateCommand
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4499: Implement ClearAsync in data sources
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4509: API to specify prepared statements at the NpgsqlDataSource level
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4511: Consider reloading types after suspected failovers
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4514: Is there any plan to support Apache AGE extension?
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4516: Look into implementing (non-multiplexing) connection-less commands directly via NpgsqlConnector
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4522: Expose user-facing API to prepend/defer commands
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4523: DbDataSource, dependency injection and multi-tenancy
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4536: Visual Studio 2019 not longer work with the new release extension. 
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4544: Determining if connection pool was exhausted based on exception
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4554: Multiplexing: consider using scatter/gather I/O
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4574: RFC 9266: Channel Bindings for TLS 1.3 support
+Labels: enhancement, blocked
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4628: Consider changing the default for the `Include Realm` connection string parameter to true.
+Labels: breaking change
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4636: Including IsPrepared in TraceCommandStart
+Labels: enhancement, diagnostics
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4647: Implement cancellation and timeout on write
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4648: Support prepared execution of identical SQL with different parameter types
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4668: Deadlock when network fails during cancellation and connection timeout = 0
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #4683: Multiplexing bugs
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4690: Consider our story for user-exposed type inference/mapping information
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4696: Activity.Current is not changd after calling synchronous LINQ query when Npgsql tracing is used with opentelemetry-dotnet's AddEntityFrameworkCoreInstrumentation
+Labels: bug, diagnostics
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #4738: Discuss offering different load balancing algorithms for multiple hosts or even making that pluggable
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4763: Look into correct failure diagnostics for later batched commands
+Labels: enhancement, diagnostics
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4798: Missing EventCounter when using Npgsql.DependencyInjection
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #4818: Manage Idle connections with a Deque/Stack instead of a Channel/Queue
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4823: Integrating Testcontainers for .NET
+Labels: test
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4853: Recycle NpgsqlConnection instances when using NpgsqlDataSource
+Labels: enhancement, performance
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4865: Add different exception message while handling nulls in NpgsqlBatchCommandCollection and NpgsqlParameterCollection
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4871: Explore bypassing the type handler mechanism for basic types
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #4895: Read remaining result sets from batch with error barrier
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4909: Gracefully handle prepended query cancellation
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #4950: Support for pg_service.conf
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5029: Consider allowing to make another attempt to connect to postgresql without ssl on network errors with SslMode.Prefer
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5064: Dynamically updated MultiHostDataSource host list
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5067: Consider supporting configuration via the options pattern
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5070: Make query cancellation fully asynchronous
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #5075: Consider mapping Int128/UInt128 to pg numeric
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5079: Random exception on TransactionScope timeout
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5093: Add diagnostics for ParameterStatus messages
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5124: [F#] [Discriminated union] How to map F# discriminated union to PostgeSQL enum?
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5145: Custom tracing templates
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5146: React better to connection state changes at runtime (e.g. client_encoding)
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #5164: Metrics: show "top 10 SQLs" in metrics
+Labels: diagnostics
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5187: Possibly use IMeterFactory when targeting net8.0
+Labels: diagnostics
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5268: Support user-defined timestamp ranges
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5270: Test and potentially bring back direct write for byte[]
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5276: Add detailed tracing for connection open/close events
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5303: Make composite POCO mapping compatible with NativeAOT
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5317: Document NpgsqlSlimDataSourceBuilder
+Labels: documentation
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5355: Enable NativeAOT-compatible usage of S.T.Json POCO serialization
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5377: Allow registering readonly/read-write data source for multihost via keyed DI service
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5378: Move prepared statement tracking to the data source
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5407: Document ClearAllPools doesn't work with user created NpgsqlDataSources
+Labels: documentation
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5415: Mechanism for writing unmapped composites
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5426: Support ReadOnlyMemory across all array mappings
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5451: Extend AssertType to test sync reads/writes
+Labels: test
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5491: ExecuteReader doesn't retrieve the AllowDBNull value for partition tables
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5501: No way to hook up the Notice handler when using NpgsqlDataSource
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5564: Feature Request: Per-connection Npgsql.EnableLegacyTimestampBehavior 
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5591: Lack a default Type Mapping for short array in composite to PostgreSQL smallint[] 
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5605: InvalidOperationException instead of NpgsqlException when client disconnects
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5606: SocketException not wrapped into NpgsqlException when hostname can not be resolved.
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5623: v6.0.8 - Unable to read data from the server - System.TimeoutException
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5655: Add Support For Immutable Collection Properties When Binding to .NET Types
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5672: Suggestion:  Add  `Deconstruct()` for Npgsql types
+Labels: enhancement, good first issue
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5691: TransactionScope, SET CONSTRAINTS all DEFERRED, COPY, foreign key evaluation issue
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5692: Integrate `ReplicationConnection` with `NpgsqlDataSource`
+Labels: enhancement, replication
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5697: Schema lookup on temp tables
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5705: DISCARD SEQUENCES is useless and not scalable
+Labels: enhancement, up for grabs
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5710: Support quoted type names in NpgsqlParameter.DataTypeName
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5720: DataSource usage with password rotation
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5725: Question: Customize Mapping Handlers for Base types
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5745: Allow rotating usernames on NpgsqlDataSource in addition to passwords
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5748: `Missing type info or binding info` when executing prepared batch for `pg_notify`
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #5752: Misleading exception when a replication connection is aborted due to server shutdown.
+Labels: bug, replication
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #5757: Received backend message CommandComplete while expecting ParseCompleteMessage
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5758: CommandTimeout still affects BeginTextImport (and maybe BeginTextExport)
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5759: Support exporting data via LogicalReplicationConnection
+Labels: enhancement, replication
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5766: Npgsql.NpgsqlException: No suitable host was found.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5769: Add a loop for connecting during failover
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5771: Evaluate skipped macOS tests
+Labels: test
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5772: Support the PG17 ALTER_REPLICATION_SLOT syntax and the failover option in ReplicationConnection
+Labels: enhancement, replication
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5773: Improve error message when connection to Postgres fails
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5780: Error messages should not have built-in formatting
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5789: Connection pool blocked while refreshing hosts state cache?
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #5799: Potential Unaligned Read Exception - NpgsqlReadBuffer.cs
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #5802: Add option for disable read postgres role from frontend stream
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5803: Received unexpected backend message DataRow when using Npgsql version 8.0.3
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5804: NpgsqlConnection.Wait()  is broken in PG v16
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5807: Data source keeps connections in the pool if it can't find a suitable host
+Labels: enhancement, breaking change
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5812: View activity related to retrieving a password?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5825: Decide what to do with ParameterDirection.ReturnValue
+Labels: breaking change
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5826: Add support for ParadeDB pg_search
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5838: Instrument NpgsqlBinaryImporter
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5839: Instrument transactions
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5859: Common Language Runtime detected an invalid program after upgrade from 2.2.7 to 4.0.0
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5877: Potential memory leak due to MetricsExporter
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5876: Question about metrics
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5865: Stop supporting synchronous I/O by default
+Labels: breaking change
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5866: System.InvalidOperationException: Missing type info, ResolveTypeInfo needs to be called before Bind.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Fetching next page of issues (processed so far: 199)...
+Processing issue #5871: LogicalReplicationConnection PgOutputReplicationMessage does not contain the Data property
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5888: Cannot use composite type as parameter for query
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5895: Can't provide safe (without downtimes) deployment with migration when using table composite types
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5896: Regclass type support in Npgsql
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5899: Error in the process of inserting large amounts of data using Npgsql.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5900: Possibility to get size of query result for particular command
+Labels: diagnostics
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5906: Cancellation Token not being honored in NpgsqlConnection.WaitAsync(Token) after calling CancellationTokenSource.Cancel() 
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5916: Connection Failure to PostgreSQL using Visual Studio and Npgsql in .NET8 MAUI cross platform app
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5936: New Npgsql configuration story
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5939: Tracing options lost on data source when setting connection string
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5943: Performance issues and timeouts
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5958: Migrations Error - Failed executing DbCommand (1ms) Version [9.0.1]
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5959: Timeouts and high open connections count during deployment after migrating from version 6 to 8
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5966: Explore directions in enforcing Min Pool Size more reliably
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5970: impossible to configure `LogicalReplicationConnection` from a given `NpgsqlConnection` without persisting security information.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5973: Just a question: how does the connection string get passed?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5975: Deadlock while cancelling NpgsqlConnection.WaitAsync
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #5978: Consider using 65536 as streaming threshold for JsonConverter
+Labels: performance
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5979: Intermittent "Unknown message code: X" exceptions
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5991: option to include query in error when syntax exception is thrown
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #5996: Consider explicitly closing socket with timeout = 0 on connection cleanup
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #5997: Fix pooled connection reset
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6001: Array parameters too slow
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6004: Missing support for VARBINARY with Redshift in DataReader.GetValue(int)
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6010: Adding numeric converter via alias name throws exception
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6012: Consider making NpgsqlConnector.Cleanup asynchronous
+Labels: cleanup
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6013: Consider setting socket options before connecting to postgres
+Labels: bug
+Updating issue type to Bug...
+Successfully updated issue type to: Bug
+  ✓ Updated to Bug
+
+Processing issue #6017: Override GetColumnSchemaAsync
+Labels: breaking change
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6018: Npgsql version 8.0.4 is giving unsupported frontend protocol 65363.19778: server supports 2.0 to 3.0 when using certificates to connect to server
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6020: Question: Multi tenancy support for Single database shared schema
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6026: Npgsql throws "Exception while reading from stream" during opening connection
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6029: Connection Pooling Deadlocks
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6042: `PostgresException` `BatchCommand` property includes raw parameter values when `Include Error Detail` is disabled in connection string
+Labels: enhancement, breaking change
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #6044: NpgsqlDataReader GetBytes/GetStream has `0x01` as prefix for jsonb
+Labels: breaking change
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6052: Support for mapping mutable JSON DOM (JsonNode) in addition JsonElement/JsonDocument
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #6064: Evolve tracing support for the latest version of the OpenTelemetry semantic conventions
+Labels: diagnostics
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6069: NpgsqlDataSourceBuilder MapEnum<T> doesn't take a schema
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6080: Edge Case Exception tstzrange With Infinity And Inclusive Bounds
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6086: Discussion; multiplexer core : async vs sync
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6093: Queries regarding error behaviour with NpgsqlBatch
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6096: dotnet-counters Not Showing Used Connections Count for Npgsql
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6112: Un-seal NpgsqlBatchCommand class?
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6118: Sharp increase in database connections (according to npgsql-metrics)
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6121: Enum type of the same name but different namespace collide
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6125: Consider an opt-in behavior to truncate out-of-range PG numeric types to read them as decimal
+Labels: enhancement
+Updating issue type to Feature...
+Successfully updated issue type to: Feature
+  ✓ Updated to Feature
+
+Processing issue #6128: Exception while writing to stream
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6133: Support for libpq's PGAPPNAME
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing issue #6134: How to get an empty value for the type NpgsqlTsVector? NpgsqlTsVector.Parse("") gives a warning.
+Labels: 
+  No relevant labels found (bug or enhancement). Skipping.
+
+Processing complete. Processed 247 issues, updated 138 issues.

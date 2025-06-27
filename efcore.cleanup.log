@@ -1,0 +1,3521 @@
+Fetching available issue types...
+Found issue type: Task (ID: IT_kwDOAIt-yc4AEKsw)
+Found issue type: Bug (ID: IT_kwDOAIt-yc4AEKsy)
+Found issue type: Feature (ID: IT_kwDOAIt-yc4AEKs2)
+Found issue type: Epic (ID: IT_kwDOAIt-yc4BhJrh)
+Available issue types: Task, Bug, Feature, Epic
+
+Processing issues without issue types (limit: 1)...
+Fetching next page of issues (processed so far: 0)...
+Processing issue #218: Logging: Design all up logging approach
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Reached processing limit of 1 issues. Stopping.
+Processing complete. Processed 1 issues, updated 1 issues.
+Fetching available issue types...
+Found issue type: Task (ID: IT_kwDOAIt-yc4AEKsw)
+Found issue type: Bug (ID: IT_kwDOAIt-yc4AEKsy)
+Found issue type: Feature (ID: IT_kwDOAIt-yc4AEKs2)
+Found issue type: Epic (ID: IT_kwDOAIt-yc4BhJrh)
+Available issue types: Task, Bug, Feature, Epic
+
+Processing issues without issue types (limit: none)...
+Fetching next page of issues (processed so far: 0)...
+Processing issue #702: Make appropriate use of ToList and ToArray
+Labels: area-perf, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #734: Consistenly format CLR types in exceptions messages and logging
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1015: Remove QueryBugsTest class
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1073: API consistency checks don't check that protected methods are virtual
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1089: Testing: Decisions from Design Meeting
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1175: Consider using product code to create databases
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1268: Remove workaround for DI throwing TargetInvocationException
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1300: Clean up Performance test/runner
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1379: Tests that share a database should not do multiple EnsureDeleted/EnsureCreated calls
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1559: DRY up duplicated SQL generation
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1613: Metadata: Align entity name properties with CLR
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1615: Metadata: DRY up helper methods as extensions on the metadata interface type
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1671: Reverse Engineer: Merge code which does similar things in Migrations
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1675: Remove SqlServerSimpleCommandExecutor and IDbCommandExecutor
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1714: Infra: Remove entity materializer cache
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1771: Commands: Combine Handlers.cs & IHandlers.cs
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #1800: Remove usage of IConfiguration from EF
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2024: Flow IServiceProvider to ContextTool
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2054: Use of shared repo for TypeNameHelper
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2076: Be consistent about Check.NotNull in constructor calls
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2416: Model validation: ModelValidator refactored to separate validation and reporting concerns
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2615: Test infrastructure does not support test database schema changes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2667: Replace FunctionEvaluationDisablingVisitor and FunctionEvaluationEnablingVisitor with EvaluatableExpressionFilter
+Labels: type-cleanup, help wanted, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2739: Migrations: Remove batching
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2759: ApiConsistencyTest should ensure no attributes on value types
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2930: AsyncLock deadlocks - Remove AsyncLock
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #2941: Make FromSqlQuery tests provider-agnostic
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3000: Test: Revisit workaround that deletes database files in DeleteDatabase and DeleteDatabaseAsync on SqlServerTestStore
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3007: Cleanup MonsterFixup tests
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3058: Query: Caching: DRY up cache key generation
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3172: DbContextOptions: Consider making runtime consumption happen through immutable interfaces
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3247: Reveng: update metadata fetching for SQL Server
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3269: Code cleanup: Standarize how we detect EF.Property<T>() in expression visitors
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3287: RevEng: Validation Step
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3288: RevEng: ModelBuilder Approach?
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3294: Consider obtaining method infos from compiler generated expressions (may help with UWP/.NET Native)
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3368: Tests: Dead code in ChangeTrackingTestBase
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3374: Be consistent about namespaces
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3383: Review scoped service scoping
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3424: Query with Non-nullable parameter for nullable predicate generates incorrect SQL in some situations
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3454: Cleanup implementation of SqlServerDatabaseModelFactory
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3457: Provide abstraction for scaffolding default values
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3477: Update workarounds for .NET Native 
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3490: Scaffolding: move implementation of code gen into Commands project
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3561: Optimize .NET Native directives
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3583: Exception Messages: Name of entityType
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #3704: RelationalCommand: stricter separation of construction and execution
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4016: [Conventions] Validating conventions should be moved to ModelValidator
+Labels: area-perf, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4253: Cleanup code generated in ModelSnapshot (extra line breaks, etc.)
+Labels: type-cleanup, help wanted, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4413: Cleanup TFMs
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4416: Make the 'foreign key column gets indexed' a IForeignKeyConvention
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4449: Simplify required provider services
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4552: Stop generating ~/.klog/data-test.log 
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4662: Enable OSX on Travis
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4730: Review usages of NotSupportedException
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #4850: EntityTypeNameEqualityComparer should be in Core
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5074: Be consistent and correct with metadata extensions
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5135: Consider moving SqlDataReaderExtension and SqlServerTableSelectionSetExtensions to internal namespace
+Labels: type-cleanup, providers-beware
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5190: CLI Commands: cleanup code
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5308: Hanging tests on single threaded Ubuntu environment
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5352: RevEng: Use Builder Approach to build *Configuration Classes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5353: Change namespace M.EFCore.Tools.Core.Scaffolding.Internal.Configuration
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5472: All command logging code is internal
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5495: NuGet Commands: Remove Apply-Migration
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5508: Fix build warnings caused by outdated project.json options
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5584: Update Pipeline: Use query generator to generate SQL for updates 
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5669: Investigate removal of relational LiteralExpression
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5684: Don't use Sake to re-pack the tooling nupkgs
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5830: Running a full build takes too long
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #5847: Unused method on ISqlGenerationHelper
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6305: Add DotNetCli package type to .Tools.DotNet nuspec
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6371: CLI commands: database drop throws ObjectDisposedException
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6497: Test layering issues
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6628: Don't depend on System.Reflection.TypeExtensions
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6643: Commands: Improve reporting architecture
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6697: Commands: Show full log
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6700: Clean API of IRelationalCommand and related classes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6775: PMC Commands: Remove Invoke-Process Cmdlet
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6802: Logger event IDs can be ambiguous
+Labels: type-cleanup, providers-beware, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6850: Use System.CommandLine
+Labels: type-cleanup, blocked
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6871: Migrations Design: Don't use nameof in CSharpSnapshotGenerator
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6886: Commands: Retire project.json/xproj support
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6946: Logging: Use template based format string to log structured DbCommand log data
+Labels: type-cleanup, providers-beware, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6988: Simplify relational ADO interaction code
+Labels: area-perf, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #6996: Test: Integrate API Check to help avoid unintentional API breaking changes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7004: Dissolve Relational.Design into just Relational and Design
+Labels: type-cleanup, providers-beware, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7022: Merge Tools.DotNet back into Tools
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7097: Some wrinkles in async compiled queries
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7134: Infrastructure: Enhance issue template with provider info
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7166: Re-consider One Model to Rule Them All
+Labels: type-cleanup, providers-beware, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7201: Exception message review
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7204: Infrastructure: Make RequiresValueGenerator readonly
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7263: Design: More structured data
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7264: Design: Review reported messages
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7329: Update to Microsoft.NETCore.App 1.2.0 in EF.Tools once shared runtime issue is solved.
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7445: Use Task.FromResult consistently
+Labels: type-cleanup, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7520: Query: List of refactoring ideas
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7538: Infrastructure: Upgrade to VS 2017
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7624: Infrastructure: Bring back Tools
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7625: Infrastructure: Bring back Benchmarks
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Fetching next page of issues (processed so far: 100)...
+Processing issue #7627: Stop using MOQ
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7656: Query: Remove StartsWith, EndsWith, Contains translator for 2.0
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7692: Query: Add option to ExpressionPrinter to highlight non-reducible nodes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7716: Query: Improve HandlesQuerySource logic
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7778: Infrastructure: Fix Resources.tt
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7831: Query: Optimize QueryOptimizer
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7958: Infrastructure: Track recent breaking changes in `exceptions.net*.json` files
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7987: Refactor exception catching to use catch-when
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #7988: Query: Move QuerySqlServerTest.Member_init_expressions_are_compared_correctly_in_query_cache to unit test
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8050: Test: Multi-level hierarchy of tests requires Fact attributes to be specified again
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8131: Query: Undo Distinct/Offset/Limit ExplodeStarProjection change caused by Include Compiler binding
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8150: New specification test fails with SQLCE provider
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8159: Remove DbContextFactoryOptions.ContentRootPath
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8173: Delete old data from perf machines
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8178: Test: Re-enable SqlServer tests on Windows7/Server2008
+Labels: area-test, type-cleanup, area-external
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8243: Consider combining EntityEqualityRewritingExpressionVisitor with NavigationRewritingExpressionVisitor
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8256: Consider replacing IQueryOptimizer with IQueryOptimizerFactory in DI
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8257: Investigate de-scoping QueryCompiler
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8294: SqlServer: Switch to managed code for SqlClient
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8297: Generate boilerplate logging code from metadata file
+Labels: type-cleanup, area-logging
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8318: Query: Clean-up logic around RemoveConvert
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8328: Tools: Remove logic to invoke Startup.ConfigureServices
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8394: Update Roadmap to reflect current state as of EF 2.0.0 Preview 1
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8409: Summery Docs for RelationalQueryContextFactory
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8471: Review and update CUD APIs for migrations
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8490: Scan for obsolete methods
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8499: Move and rename IDbContextFactory
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8537: Remove remaining primitive type assumptions from Core
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8548: InMemory: Consider bringing back overload of UseInMemoryDatabase() that takes no parameters as obsolete
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8552: Make EventId containers more robust against ID changes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8558: Propose name/location for non-interpolating string type
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8560: API Review: Andriy Edition
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8561: Make EntityQueryModelVisitor internal, with appropriate refactoring
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8599: Constant strings for warnings/exceptions should be stored in resource files
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8664: Test: Remove or improve  OrderBy_coalesce_skip_take_distinct_take
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8671: API Review: Rename DIET methods
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8672: API Review: ConventionSet changes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8673: API Review: Review/rename query EventData classes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8674: Remove DIET references
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8686: Design: Remove all logging
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8689: Scaffolding: Handle/Remove annotations which are there just to generate code
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8690: SqlServer.Design: Clean up scaffolding metadata annotations/extensions
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8691: RevEng: Introduce interface/Dependency objects
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8713: RevEng: Clean up TableSelectionSet
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8714: RevEng: Clean up DatabaseModel
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8715: Clean up DesignTimeServices
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8718: Generating Literal values for Enum type
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8733: Clean up Relational Metadata API
+Labels: type-cleanup, providers-beware, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8739: API Review: Scaffolding changes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8752: RevEng: Pass language to provider code generators
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8762: Consider renaming this repo to EntityFrameworkCore or EFCore
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8773: RevEng: Should it be async?
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8783: Remove EF.AppInsights package
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8842: Benchmarks: Rework Benchmark Infra
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8853: RevEng: Clean up internal code
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8902: Test: change the location for test databases
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8924: Remove EF code from Entropy
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8926: Remove pragmas for non-obsolete ILogger.AddProvider
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8942: API Review Updates for HasDbFunction, etc.
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #8997: Doc comments on builders refer to internal metadata types
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9098: Revisit functional test pattern
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9110: Test cleanup for query
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9113: Make sure all PRs are ported from CodePlex
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9114: Move more tests to spec tests
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9119: Update API baselines for 2.0.0
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9121: RevEng: AnnotationCodeGenerator API is possibly insufficient
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9147: Test: CSharpMigrationsGeneratorTests are newline dependent 
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9207: Remove reference to NETStandard.Library.NETFramework
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9228: Unit test suite questions
+Labels: area-test, type-cleanup, help wanted, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9320: Test: UdfDbFunctionSqlServerTests class should not use northwind database
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9333: RevEng: Warnings for null names for objects which requires name
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9334: RevEng: Warnings for skipped table
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9352: Test: Remove dependency on SqlServer from EFCore.Design.Tests
+Labels: type-cleanup, help wanted, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9358: Some functional tests fail with pooling
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9370: Logging: Remove unused resources 
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9388: Design: Make OperationBase.Execute() protected
+Labels: type-cleanup, help wanted, breaking-change, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9456: DataReaderDisposing inconsistency
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9512: Review RelationalPropertyAnnotations methods
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9518: Time to update "Getting and Building the Code" :-) 
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9562: Query: Cleanup custom method implementations 
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9745: Test fails on system with Danish formatting settings
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9824: Query: Remove TaskBlockingExpressionVisitor
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9911: Fix R#/VS settings so they don't conflict
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #9957: Test: UdfDbFunctionSqlServerTests should use AssertSql pattern
+Labels: area-test, type-cleanup, help wanted, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10073: Misspelled identifiers
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10104: Query: Include should use a robust way to identity nullable QSRE in IncludeResultOperator
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10162: Cleanup defensive code
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10163: Query: improve ValueBuffer logic
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10176: Already defined null (Suggestion)
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10202: Query: ExpressionPrinter is not flexible
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10216: [dotnet-ef] Consider using MSBuild properties for locating deps file and runtime config
+Labels: type-cleanup, area-tools
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10232: Make SqlServerHistoryRepository non-Internal
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10431: Why are AppendIdentityWhereCondition and AppendRowsAffectedWhereCondition abstract and rest is virtual?
+Labels: type-cleanup, providers-beware, customer-reported, area-save-changes
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10566: Investigate tests with with [FrameworkSkipCondition]
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10671: Make the static Build method on IConventionSetBuilder implementations be more resilient
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10672: Merge ICoreConventionSetBuilder with IConventionSetBuilder
+Labels: type-cleanup, providers-beware
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10771: Query: optimize CorrelateSubquery method for entities that don't have composite keys - we can use actual key type instead of AnonymousObjects
+Labels: area-perf, type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10805: Investigate skipped tests: InheritanceRelationshipsQuerySqlServerTest
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10847: Consolidate candidate property logic
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10856: Update transient error message
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Fetching next page of issues (processed so far: 200)...
+Processing issue #10897: Simplify internal service notifications
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10913: Split InternalModelBuilder.Entity overloads
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #10982: Review naming of SetPropertyAccessMode
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11124: Move detection of ColumnAttribute in RelationalTypeMappingInfo to conventions
+Labels: area-perf, type-cleanup, area-conventions
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11290: Build warnings after changes to EFCore.Tools nuspec
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11307: Remove CoreStrings.ArgumentIsEmpty() and CollectionArgumentIsEmpty()
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11373: Code warnings in Visual studio
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11408: Migrations/Scaffolding: Internal code usage in providers
+Labels: type-cleanup, providers-beware
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11556: Convert API consistentcy checks to analyzers
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11599: Flaky: ComplexNavigationsWeakQuerySqlServerTest.Level4_Include
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11633: 2.1 preview2 - why so many packages
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11660: Try and remove SqlServerOptions
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11670: MQ: improve ExpressionPrinter debug mode to add unique IDs for query sources referenced by qsres
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11671: MQ: improve expression printer by adding lines connecting nodes (similar to EF6 DbExpression printer)
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11765: An new ArgumentException is throw(already catched) with Navigation Property in EFCore2.1?
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #11793: MQ: ExpressionPrinter incorrectly prints nested NullConditional expression on a method call
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12075: SqlServerXXXXTypeMapping::Clone(string storeType, int? size)
+Labels: type-cleanup, customer-reported
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12089: Query: Refactor GroupBy aggregate to avoid dependency on Requires Materialization
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12191: Don't use .DisplayName() for anything else than exception messages
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12405: Remove precision and scale type mapping fallback
+Labels: type-cleanup, providers-beware
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12495: Query: EntityTrackingInfo depends on QSRE which is not valid for owned entities
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12564: Query: invalid SQL for queries with GroupBy, OrderBy group key projecting a constant
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12800: Test: Re-enable tests in master which are blocked by PoolBlockingPeriod in SqlClient
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12879: Remove ITypeBase
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #12989: Obsolete FallbackTypeMappingSource
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13001: Fix errors or remove EditorConfig
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13072: Don't use DynamicInvoke in GeometryValueComparer
+Labels: area-perf, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13282: Spatial Query: Normalize method calls
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13292: RevEng: Remove infra around underlyingstoretype which was to support type aliases
+Labels: type-cleanup, providers-beware, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13352: SqlServer Migrations: Consolidate ValueGenerationStrategy, IdentitySeed & IdentityIncrement
+Labels: type-cleanup, help wanted, poachable
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13470: Relational Query: Unify CASE generation
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13560: Query: "Value can not be null" in runtime for complex query with weak entities, SelectMany on navigation chain with DefaultIf Empty
+Labels: area-test, type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13670: Switch Cosmos to no-ship for RTM
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13730: API review: SqlFunctionExpression
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #13958: Finish merging Microsoft.Data.Sqlite
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14017: Migrations Design: Simplify ScaffoldedMigration
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14103: Store all sequences in one annotation
+Labels: type-cleanup, providers-beware, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14433: Ensure TypeMapping is always present on IProperty
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14568: Remove all Jetbrains nullability annotations
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14571: Remove or internalize JSON.NET in tooling
+Labels: type-cleanup, help wanted, good first issue
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14585: Consider using TheoryData for combinations of tests
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14770: Remove Microsoft.DotNet.PlatformAbstractions
+Labels: type-cleanup, blocked
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #14842: SqlServer/SqliteServiceCollectionExtensions are in different folder structure
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #15092: Consolidate LocalDetectChanges logic
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #15406: Consider collapsing providers-beware and providers-fyi into one label.
+Labels: type-cleanup, providers-beware, customer-reported
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #15501: Remove DbFunction.DefaultSchema
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #15701: Ensure explicit interface implementations have API docs
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #15891: Query: Introduce factory to apply optimizations on SelectExpression which are based on parameter values
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #15914: Investigate IValueBufferFactoryFactory
+Labels: type-cleanup, providers-beware
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #15964: Query: Are these client evaluated?
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16164: Move RelationalStrings.NoElements exception message to core
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16180: Query: move subquery member pushdown from navigation expansion to a separate visitor
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16300: Compare to all Queryable/Enumerable methods via MethodInfo, not by name
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16310: Cleanup for indexed properties punting
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16324: Query: remove legacy codepath in NavigationExpansionHelpers.AddNavigationJoin
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16616: EF Core PS Module Manifest is duplicated internally 29 times
+Labels: type-cleanup, customer-reported
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16654: Consolidate overloads in MigrationsSqlGenerator
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16705: Add NotNull attributes to query code
+Labels: type-cleanup, customer-reported, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16707: Cosmos provider makes extensive use of InternalEntityEntry
+Labels: type-cleanup, area-cosmos
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16708: Review internal constructors
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16712: Create resource strings for exception messages
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16742: Tiny: duplicate test cases
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16771: Move wiki pages to .md files in the repo
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16773: Remove provider prefix from low-level metadata APIs
+Labels: type-cleanup, providers-beware, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16799: Comment removal in migrations
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #16988: Query: Aggregate result operators should return appropriate type from server side
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17000: Query: Service scope for new query dependency objects
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17013: StateManager.BeginTrackingQuery is never called
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17106: InMemory: Use single query to server
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17164: Remove CanReduce/Reduce from NullConditionalExpression
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17204: Stop using Debug.Assert
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17235: Scrub skipped test issue numbers
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17360: Make sure that the metadata API is consistent
+Labels: type-cleanup, providers-beware, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17529: Remove RemoveConvert API
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17534: Remove the prefix on Cosmos Metadata API extentions
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17845: Don't expose ICurrentDbContext on QueryCompilationContextDependencies
+Labels: type-cleanup, providers-beware
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17874: Rename Cosmos Metadata extensions 
+Labels: type-cleanup, breaking-change, area-cosmos
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17896: Cleanup nullable reference type issues in test infra
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17923: FormatParameterValue results in @__prm='' for parameters whose value is NULL
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #17962: Ensure converters and comparers are handled by type mapping
+Labels: type-cleanup, area-change-tracking
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18413: Query: clean-up expression printer when we can do breaking changes
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18454: Review regex usages
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18490: Remove *.rd.xml files
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18522: Query: SqlFunctionExpression instance should be SqlExpression rather than Expression
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18539: Remove IRelationalConnection.IsMultipleActiveResultSetsEnabled
+Labels: type-cleanup, breaking-change
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18561: Change the IInfrastructure on Fluent API classes to be of a public interface
+Labels: type-cleanup, breaking-change, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18587: CLI Tool: remove dependency group from nuspec 
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18685: ExpressionEqualityComparer cleanup
+Labels: type-cleanup, good first issue, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18700: Remove row-number paging code
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18711: Remove creative programming 
+Labels: type-cleanup, providers-beware
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18714: Query: add default implementation for SqlExpressionVisitor
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18751: Review Azure database use
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18784: Remove obsolete APIs for 5.0
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18820: Move issues from preview milestones after GA
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18849: Test: Improve result verification in null semantics
+Labels: area-test, type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18938: UseMemoryCache API
+Labels: type-cleanup, customer-reported, area-api-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #18951: Normalize specification test classes
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #19066: Seal private classes
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Fetching next page of issues (processed so far: 298)...
+Processing issue #19227: Query: Relational: Make translation of Coalesce a SqlFunction
+Labels: type-cleanup, providers-beware, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #19668: Remaining clean up for migration tests
+Labels: area-test, type-cleanup, area-migrations
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #19874: Benchmarks: remove Sqlite from benchmark name
+Labels: area-perf, type-cleanup, blocked, area-benchmarks
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #19878: Benchmarks: remove EF6 benchmarks
+Labels: area-perf, type-cleanup, area-benchmarks
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #19879: Remove cold start benchmarks
+Labels: area-perf, type-cleanup, area-benchmarks
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #19908: Perf regression test for exponential hash code calculation
+Labels: area-perf, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20068: Update to security template
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20128: Ensure C.I. is running SQL Server free-text tests
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20166: Branch cleanup
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20274: Test: Features which can be detected should not be overridden from env vars
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20275: Add an API consistency test for conventions
+Labels: area-test, type-cleanup, area-conventions
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20381: Move MetadataDebugStringOptions to .Infrastructure namespace
+Labels: type-cleanup, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20382: Internal: Multigraph and related API
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20383: IndentedStringBuilder is internal
+Labels: type-cleanup, providers-beware, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20384: Relational Update pipeline utilizes several methods from KeyValueFactories
+Labels: type-cleanup, area-save-changes
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20385: TableNameFromDbSetConventions uses IDbSetFinder which is internal
+Labels: type-cleanup, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20386: Temporary value generators are internal
+Labels: type-cleanup, area-change-tracking
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20387: Comparers are internal
+Labels: type-cleanup, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20409: 5.0 API Reviews
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20561: InternalSequenceBuilder uses internal API to obtain the IConventionModelBuilder
+Labels: type-cleanup, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20565: Consider making AnonymousObject public
+Labels: type-cleanup, providers-beware, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20566: Sqlite.NTS uses SqliteOptionsExtension
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20629: Make ReferenceEqualityComparer real internal
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20631: Move method info lookups to shared internal classes
+Labels: type-cleanup, good first issue, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20749: Should DbFunctions extensions be annotated with [NotNull] or [CanBeNull]?
+Labels: type-cleanup, needs-design, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20849: Review our usage of <code> in XML docs
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20891: Review usage of <c></c> for keywords in XML docs
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #20897: Move enum constraints convention out of EF Core to a plugin
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21072: Rename GetName(table, schema) to GetDatabaseName(table, schema) for Indexes
+Labels: type-cleanup, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21211: Clean up execution strategy in QueryingEnumerables
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21226: Query/Cleanup: DRY SelectExpression.AddJoin methods
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21290: Query: remove redundant WHERE 0 > x.row from APPLY converted to ROW_NUMBER
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21348: Cosmos: Make Value projection first class in SelectExpression
+Labels: type-cleanup, area-query, area-cosmos
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21379: Remove nullability context from public surface
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21498: Query: EntityProjection.AddNavigationBinding/BindNavigation should only work with owned navigation
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21624: Move defining query implementation to InMemory
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21636: Ordering issue in ManyToMany?
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21712: Reformat code
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #21882: Design: Generate more code using IAnnotationCodeGenerator
+Labels: type-cleanup, area-migrations, area-scaffolding
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22047: Consider disabling GitHub discussions
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22061: Ensure all TODO comments have a tracking issue
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22063: Don't depend on change tracking for data seeding
+Labels: type-cleanup, area-migrations-seeding
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22076: Convert dependency objects to records
+Labels: type-cleanup, area-infrastructure
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22156: Update Resources.tt to sort the .resx file
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22230: Enable xunit analyzers
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22232: Exception serialization tests
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22304: Upgrade to RC1 SDK
+Labels: type-cleanup, area-infrastructure
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22410: Merge AsyncFromSqlQueryTestBase and FromSqlQueryTestBase
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22467: Update fwlink owners
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22508: Remove QueryFailed
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22516: RevEng: Verbose logs are too verbose
+Labels: type-cleanup, area-scaffolding
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22549: Remove Obsolete code
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #22588: Update benchmarking infrastructure and plan/organize perf testing
+Labels: area-perf, type-cleanup, area-benchmarks
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #23270: Clean up examples for AddDbContext
+Labels: type-cleanup, area-docs, customer-reported, area-dbcontext
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #23318: Remove code from description of API
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #23349: Test: Implement entity sorters/asserts for Spatial test base
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #24044: Look into IPatchServiceInjectionSite and InjectServices
+Labels: type-cleanup, area-infrastructure
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #24058: Remove internal entry usage in ModelValidator
+Labels: type-cleanup, area-migrations-seeding
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #24456: Make setting the default warning behavior easier
+Labels: type-cleanup, customer-reported
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #24473: Query: Make ColumnExpression.Table consistent in what it refers to
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #24744: Switch to the standard reflection API for decoding nullability information
+Labels: type-cleanup, area-model-building
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #25384: Incorrect use of "an" in the XML docs
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #25426: Minor grammar/spelling issue
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #25546: RevEng: Dedupe code in scaffolding code generator
+Labels: type-cleanup, area-scaffolding
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #25766: Run SqlClient test passes for 7.0
+Labels: area-test, type-cleanup, area-sqlserver
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26052: Review and refactor how dependencies are stored and exposed in `StateManager`
+Labels: type-cleanup, needs-design, area-change-tracking
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26076: Update snapshots when a shared-identity entry is added
+Labels: type-cleanup, area-save-changes, area-change-tracking
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26442: Remove tabs from T4 templates
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26443: Use hrefs for links
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26444: Check and update service lifetime docs
+Labels: type-cleanup, area-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26508: Review use of EF internal code in relational, providers and extensions
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26510: Convert more unit tests to use DI
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26544: Remove / Obsolete usages of ValueBuffer
+Labels: area-perf, type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26578: Move issues from 7.0.0 preview milestones to 7.0.0 after GA 
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26618: InMemory: Use deferredOwnedExpansionExpression 
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26672: Use EqualsExact in DefaultDateTimeOffsetValueComparer
+Labels: type-cleanup, customer-reported, area-change-tracking, community-contribution
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26760: Use expression bodies for query tests
+Labels: area-test, type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26772: Use file scoped namespaces
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26773: Use implicit usings
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26805: Fix issues raised by static analysis
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #26995: Static analysis indicates issues with either NRT annotations or usage
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27416: Replace our null checks with C# 11 !!
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27459: SQL Server Migrations: Review temporal table annotations
+Labels: type-cleanup, area-temporal-tables
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27475: Run the string resources T4 files on build
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27582: Collapse some `closed-` labels
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27598: Investigate slow text templating tests on Linux
+Labels: area-perf, area-test, type-cleanup, area-scaffolding
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27640: Clean up SaveChanges/batching tests
+Labels: area-test, type-cleanup, area-save-changes
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27715: Remove System.Diagnostics.DiagnosticSource and System.Collections.Immutable for reference and runtime pack version.
+Labels: type-cleanup, customer-reported, area-global, community-contribution
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27827: Tools: Add dotnet-ef shims arm64
+Labels: type-cleanup, Servicing-approved, area-tools
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #27895: Switch to Microsoft.CodeAnalysis.CSharp 4.2.0 and unskip suppressor tests
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28098: Query: Reduce indentation in SqlTranslator
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28259: Why is there a GitHub Project in this repo
+Labels: type-cleanup, customer-reported
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28293: Revert update of Microsoft.Data.SqlClient to 5.0.0-preview3.22168.1
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28682: Don't store temporal data in expression annotations
+Labels: type-cleanup, area-query, area-temporal-tables
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28737: Cleanup exception message for bulk updates
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28783: Clean up method comparison for EF.Property
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28838: Remove this method and let different instances of ColumnExpression exist
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28887: JsonScalarExpression: Remove jsonColumnMadeNullable
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28938: Move internal extension method classes
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #28964: Reformat code
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Fetching next page of issues (processed so far: 398)...
+Processing issue #29016: Move issues from 8.0.0 preview milestones to 8.0.0 after GA
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #29017: Perform code cleanup before 8.0.0 GA release
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #29037: Fix test namespaces
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #29125: Typo on the page
+Labels: type-cleanup, customer-reported, area-api-docs
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #29115: DRY opportunities in weak entity projection generation in SelectExpression
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #29428: Stop using LegacyReferenceEqualityComparer
+Labels: type-cleanup, area-change-tracking
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #30301: Merge hierarchyid tests into existing suites
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #30305: HierarchyId: Don't go through SqlBytes
+Labels: type-cleanup, area-hierarchyid
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #30712: Handle entity Contains via queryable constant/parameter parameter roots
+Labels: area-perf, type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #30768: Stop creating empty JsonScalarExpressions
+Labels: type-cleanup, area-query, area-json
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #31015: DRY around getting the projection from ShapedQueryExpression
+Labels: type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #31037: Make EngineEdition easier to understand
+Labels: type-cleanup, customer-reported, area-scaffolding, area-sqlserver, community-contribution
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #31063: Cosmos: remove null semantics compensation for InExpression
+Labels: type-cleanup, area-query, area-cosmos
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #31268: Use new .NET 8 exception helpers
+Labels: type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #31269: Use CreateTempSubdirectory
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #31300: EFCore pulls latest packages from dotnet/runtime but LKG shared framework from the SDK
+Labels: type-cleanup, customer-reported, area-infrastructure
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #32185: Change partial update JSON path to be be structured instead of a string JSONPATH
+Labels: type-cleanup, area-save-changes, area-json
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #32186: UpdateSqlGenerator.AppendUpdateColumnValue needs to throw for unimplemented JSON partial update
+Labels: type-cleanup, area-save-changes, area-json
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #32191: ModificationCommand.HandleJson hard-coded to send parameter with relational NULL for non-property partial update
+Labels: type-cleanup, area-save-changes, area-json
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #32293: Move issues from 9.0.0 preview milestones to 9.0.0 after rc.2
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #32392: SqlServerDateOnlyMemberTranslator referencing DateTime instead of DateOnly
+Labels: type-cleanup, customer-reported, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #32568: Test/Cleanup: move adhoc groupby tests into separate file
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #32570: Test/Cleanup: some adhoc tests that are provider only because hardcoded column types etc can be moved from provider to relational/core 
+Labels: area-test, type-cleanup
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #33526: Consider allowing non-shared (ad-hoc) tests within regular QueryTestBase classes
+Labels: area-test, type-cleanup, needs-design
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34090: Simplify HistoryRepository implementation
+Labels: type-cleanup, area-migrations
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34230: Cleanup migrations event data
+Labels: type-cleanup, area-migrations
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34400: Improve creation of RelationalCommandCache expression in RelationalShapedQueryCompilingExpressionVisitor
+Labels: type-cleanup, area-query, area-aot
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34414: SQL Server: Reference .NET 9.0 SqlDbType.Json instead of (SqlDbType)35
+Labels: type-cleanup, area-sqlserver, consider-for-next-release, area-json
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34467: Remove obsolete attributes at the start of EF10
+Labels: type-cleanup, area-global, preview-4
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34647: Remove usage of the obsolete XUnitVerifier
+Labels: area-test, type-cleanup, customer-reported, area-analyzer
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34827: [dnceng-bot] Branch `efcore/release/8.0` can't be merged to Azdo internal branch
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34848: [dnceng-bot] Branch `efcore/release/8.0` can't be merged to Azdo internal branch
+Labels: type-cleanup, area-global
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34872: Reorganize translation tests by declaring type, with a dedicated model
+Labels: area-test, type-cleanup, preview-1
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #34893: AOT / cleanup : add resource strings for LinqToCSharpSyntaxTranslator exceptions
+Labels: type-cleanup, customer-reported
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #35477: Query/Test: convert most of our left join tests to use the new LeftJoin operator
+Labels: area-test, type-cleanup, area-query
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #35573: [dnceng-bot] Branch `efcore/release/9.0` can't be mirrored to Azdo fast forward branch
+Labels: type-cleanup, area-infrastructure
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #35886: Cleanup code around experimental features that are no longer experimental (e.g. vector search for cosmos)
+Labels: type-cleanup, area-cosmos, preview-4
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing issue #35897: Cosmos: cleanup CosmosModelValidator to use helper methods rather than FindAnnotation in various validation methods
+Labels: type-cleanup, area-cosmos, preview-4
+Updating issue type to Task...
+Successfully updated issue type to: Task
+Removing 'type-cleanup' label...
+Successfully removed label: type-cleanup
+  ✓ Updated to Task and removed 'type-cleanup' label
+
+Processing complete. Processed 436 issues, updated 436 issues.

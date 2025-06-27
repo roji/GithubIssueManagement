@@ -1,0 +1,3789 @@
+Fetching issue type node IDs...
+Found BUG issue type ID: IT_kwDOAFf9Yc4ABwMb
+Found FEATURE issue type ID: IT_kwDOAFf9Yc4ABwMe
+Testing mode: Processing issue #3430
+Issue #3430 has relevant labels - processing...
+Processing issue #3417
+Issue #3417: Found last label 'bug' at 12/18/2020 10:10:16 PM +01:00, setting type to BUG
+Successfully updated issue #3417
+/Users/roji/projects/NpgsqlIssueRescue/Program.cs(231,30): warning CS8602: Dereference of a possibly null reference. [/Users/roji/projects/NpgsqlIssueRescue/NpgsqlIssueRescue.csproj]
+/Users/roji/projects/NpgsqlIssueRescue/Program.cs(389,26): warning CS8602: Dereference of a possibly null reference. [/Users/roji/projects/NpgsqlIssueRescue/NpgsqlIssueRescue.csproj]
+/Users/roji/projects/NpgsqlIssueRescue/Program.cs(44,5): warning CS0162: Unreachable code detected [/Users/roji/projects/NpgsqlIssueRescue/NpgsqlIssueRescue.csproj]
+Fetching issue type node IDs...
+Found BUG issue type ID: IT_kwDOAFf9Yc4ABwMb
+Found FEATURE issue type ID: IT_kwDOAFf9Yc4ABwMe
+Production mode: Processing all issues without type
+Fetching closed issues with full details...
+Found 5 issues without type to process
+Processing issue #3423
+Issue #3423: Found last label 'bug' at 1/7/2021 10:32:07 AM +01:00, setting type to BUG
+Successfully updated issue #3423
+Processing issue #3430
+Issue #3430: Found last label 'bug' at 12/29/2020 8:06:36 AM +01:00, setting type to BUG
+Successfully updated issue #3430
+/Users/roji/projects/NpgsqlIssueRescue/Program.cs(231,30): warning CS8602: Dereference of a possibly null reference. [/Users/roji/projects/NpgsqlIssueRescue/NpgsqlIssueRescue.csproj]
+/Users/roji/projects/NpgsqlIssueRescue/Program.cs(377,26): warning CS8602: Dereference of a possibly null reference. [/Users/roji/projects/NpgsqlIssueRescue/NpgsqlIssueRescue.csproj]
+/Users/roji/projects/NpgsqlIssueRescue/Program.cs(44,5): warning CS0162: Unreachable code detected [/Users/roji/projects/NpgsqlIssueRescue/NpgsqlIssueRescue.csproj]
+Fetching issue type node IDs...
+Found BUG issue type ID: IT_kwDOAFf9Yc4ABwMb
+Found FEATURE issue type ID: IT_kwDOAFf9Yc4ABwMe
+Production mode: Processing all issues without type
+Fetching closed issues with full details...
+Fetching issue type node IDs...
+Found BUG issue type ID: IT_kwDOAFf9Yc4ABwMb
+Found FEATURE issue type ID: IT_kwDOAFf9Yc4ABwMe
+Production mode: Processing all issues without type
+Fetching closed issues with full details...
+Fetching issue type node IDs...
+Found BUG issue type ID: IT_kwDOAFf9Yc4ABwMb
+Found FEATURE issue type ID: IT_kwDOAFf9Yc4ABwMe
+Production mode: Processing all issues without type
+Processing closed issues with full details (page by page)...
+Fetching page 1...
+Fetching issue type node IDs...
+Found BUG issue type ID: IT_kwDOAFf9Yc4ABwMb
+Found FEATURE issue type ID: IT_kwDOAFf9Yc4ABwMe
+Production mode: Processing all issues without type
+Processing closed issues with full details (page by page)...
+Fetching page 1...
+Page 1: Found 2 issues without type to process
+Processing issue #5994
+Issue #5994: Found last label 'bug' at 1/14/2025 1:42:21 PM +01:00, setting type to BUG
+Successfully updated issue #5994
+Processing issue #5993
+Issue #5993: Found last label 'bug' at 1/13/2025 8:10:03 AM +01:00, setting type to BUG
+Successfully updated issue #5993
+Completed page 1. Total processed so far: 2
+Fetching page 2...
+Page 2: Found 15 issues without type to process
+Processing issue #5942
+Issue #5942: Found last label 'bug' at 11/20/2024 12:47:22 PM +01:00, setting type to BUG
+Successfully updated issue #5942
+Processing issue #5940
+Issue #5940: Found last label 'bug' at 11/19/2024 10:59:30 AM +01:00, setting type to BUG
+Successfully updated issue #5940
+Processing issue #5937
+Issue #5937: Found last label 'enhancement' at 11/18/2024 2:34:50 PM +01:00, setting type to FEATURE
+Successfully updated issue #5937
+Processing issue #5956
+Issue #5956: Found last label 'enhancement' at 11/26/2024 4:39:50 PM +01:00, setting type to FEATURE
+Successfully updated issue #5956
+Processing issue #5926
+Issue #5926: Found last label 'enhancement' at 11/12/2024 2:24:21 PM +01:00, setting type to FEATURE
+Successfully updated issue #5926
+Processing issue #5913
+Issue #5913: Found last label 'bug' at 11/7/2024 11:15:29 AM +01:00, setting type to BUG
+Successfully updated issue #5913
+Processing issue #5911
+Issue #5911: Found last label 'enhancement' at 11/4/2024 7:05:01 PM +01:00, setting type to FEATURE
+Successfully updated issue #5911
+Processing issue #5905
+Issue #5905: Found last label 'enhancement' at 10/29/2024 4:55:14 PM +01:00, setting type to FEATURE
+Successfully updated issue #5905
+Processing issue #5902
+Issue #5902: Found last label 'enhancement' at 10/27/2024 9:58:13 PM +01:00, setting type to FEATURE
+Successfully updated issue #5902
+Processing issue #5893
+Issue #5893: Found last label 'bug' at 10/18/2024 10:56:00 AM +02:00, setting type to BUG
+Successfully updated issue #5893
+Processing issue #5891
+Issue #5891: Found last label 'enhancement' at 10/17/2024 6:41:56 PM +02:00, setting type to FEATURE
+Successfully updated issue #5891
+Processing issue #5873
+Issue #5873: Found last label 'bug' at 10/8/2024 10:08:45 AM +02:00, setting type to BUG
+Successfully updated issue #5873
+Processing issue #5867
+Issue #5867: Found last label 'bug' at 10/5/2024 4:03:46 AM +02:00, setting type to BUG
+Successfully updated issue #5867
+Processing issue #5864
+Issue #5864: Found last label 'bug' at 10/5/2024 8:29:16 PM +02:00, setting type to BUG
+Successfully updated issue #5864
+Processing issue #5855
+Issue #5855: Found last label 'enhancement' at 9/27/2024 1:30:19 PM +02:00, setting type to FEATURE
+Successfully updated issue #5855
+Completed page 2. Total processed so far: 17
+Fetching page 3...
+Page 3: Found 12 issues without type to process
+Processing issue #5854
+Issue #5854: Found last label 'bug' at 10/1/2024 2:58:45 PM +02:00, setting type to BUG
+Successfully updated issue #5854
+Processing issue #5852
+Issue #5852: Found last label 'enhancement' at 9/24/2024 10:58:58 PM +02:00, setting type to FEATURE
+Successfully updated issue #5852
+Processing issue #5848
+Issue #5848: Found last label 'bug' at 9/24/2024 9:48:45 AM +02:00, setting type to BUG
+Successfully updated issue #5848
+Processing issue #5844
+Issue #5844: Found last label 'bug' at 9/19/2024 12:27:31 PM +02:00, setting type to BUG
+Successfully updated issue #5844
+Processing issue #5835
+Issue #5835: Found last label 'bug' at 9/13/2024 10:33:45 AM +02:00, setting type to BUG
+Successfully updated issue #5835
+Processing issue #5832
+Issue #5832: Found last label 'enhancement' at 9/12/2024 1:38:37 PM +02:00, setting type to FEATURE
+Successfully updated issue #5832
+Processing issue #5821
+Issue #5821: Found last label 'enhancement' at 9/4/2024 6:01:10 PM +02:00, setting type to FEATURE
+Successfully updated issue #5821
+Processing issue #5820
+Issue #5820: Found last label 'bug' at 9/13/2024 10:58:31 AM +02:00, setting type to BUG
+Successfully updated issue #5820
+Processing issue #5793
+Issue #5793: Found last label 'bug' at 7/31/2024 2:01:44 PM +02:00, setting type to BUG
+Successfully updated issue #5793
+Processing issue #5783
+Issue #5783: Found last label 'bug' at 7/10/2024 10:20:43 AM +02:00, setting type to BUG
+Successfully updated issue #5783
+Processing issue #5764
+Issue #5764: Found last label 'bug' at 6/25/2024 10:08:59 AM +02:00, setting type to BUG
+Successfully updated issue #5764
+Processing issue #5760
+Issue #5760: Found last label 'enhancement' at 6/22/2024 9:48:13 AM +02:00, setting type to FEATURE
+Successfully updated issue #5760
+Completed page 3. Total processed so far: 29
+Fetching page 4...
+Page 4: Found 14 issues without type to process
+Processing issue #5754
+Issue #5754: Found last label 'enhancement' at 6/28/2024 5:03:33 PM +02:00, setting type to FEATURE
+Successfully updated issue #5754
+Processing issue #5733
+Issue #5733: Found last label 'bug' at 5/30/2024 3:14:26 PM +02:00, setting type to BUG
+Successfully updated issue #5733
+Processing issue #5730
+Issue #5730: Found last label 'bug' at 5/29/2024 1:36:28 PM +02:00, setting type to BUG
+Successfully updated issue #5730
+Processing issue #5722
+Issue #5722: Found last label 'enhancement' at 6/19/2024 4:44:34 PM +02:00, setting type to FEATURE
+Successfully updated issue #5722
+Processing issue #5718
+Issue #5718: Found last label 'enhancement' at 5/21/2024 4:51:01 PM +02:00, setting type to FEATURE
+Successfully updated issue #5718
+Processing issue #5716
+Issue #5716: Found last label 'bug' at 5/30/2024 9:13:12 PM +02:00, setting type to BUG
+Successfully updated issue #5716
+Processing issue #5715
+Issue #5715: Found last label 'bug' at 5/30/2024 10:18:48 AM +02:00, setting type to BUG
+Successfully updated issue #5715
+Processing issue #5707
+Issue #5707: Found last label 'bug' at 5/15/2024 8:42:49 PM +02:00, setting type to BUG
+Successfully updated issue #5707
+Processing issue #5702
+Issue #5702: Found last label 'bug' at 5/14/2024 8:06:47 PM +02:00, setting type to BUG
+Successfully updated issue #5702
+Processing issue #5696
+Issue #5696: Found last label 'enhancement' at 5/9/2024 2:18:27 PM +02:00, setting type to FEATURE
+Successfully updated issue #5696
+Processing issue #5690
+Issue #5690: Found last label 'bug' at 5/18/2024 7:00:28 PM +02:00, setting type to BUG
+Successfully updated issue #5690
+Processing issue #5677
+Issue #5677: Found last label 'enhancement' at 4/17/2024 2:26:30 PM +02:00, setting type to FEATURE
+Successfully updated issue #5677
+Processing issue #5674
+Issue #5674: Found last label 'bug' at 4/21/2024 10:25:09 PM +02:00, setting type to BUG
+Successfully updated issue #5674
+Processing issue #5671
+Issue #5671: Found last label 'bug' at 6/19/2024 6:42:42 PM +02:00, setting type to BUG
+Successfully updated issue #5671
+Completed page 4. Total processed so far: 43
+Fetching page 5...
+Page 5: Found 13 issues without type to process
+Processing issue #5660
+Issue #5660: Found last label 'bug' at 5/15/2024 7:46:21 PM +02:00, setting type to BUG
+Successfully updated issue #5660
+Processing issue #5650
+Issue #5650: Found last label 'bug' at 3/28/2024 5:37:34 AM +01:00, setting type to BUG
+Successfully updated issue #5650
+Processing issue #5642
+Issue #5642: Found last label 'bug' at 3/25/2024 2:36:33 PM +01:00, setting type to BUG
+Successfully updated issue #5642
+Processing issue #5638
+Issue #5638: Found last label 'bug' at 3/22/2024 11:02:46 AM +01:00, setting type to BUG
+Successfully updated issue #5638
+Processing issue #5628
+Issue #5628: Found last label 'bug' at 3/16/2024 1:54:17 PM +01:00, setting type to BUG
+Successfully updated issue #5628
+Processing issue #5620
+Issue #5620: Found last label 'enhancement' at 3/13/2024 10:04:30 AM +01:00, setting type to FEATURE
+Successfully updated issue #5620
+Processing issue #5616
+Issue #5616: Found last label 'bug' at 3/11/2024 4:06:55 PM +01:00, setting type to BUG
+Successfully updated issue #5616
+Processing issue #5614
+Issue #5614: Found last label 'bug' at 3/9/2024 2:29:45 PM +01:00, setting type to BUG
+Successfully updated issue #5614
+Processing issue #5613
+Issue #5613: Found last label 'enhancement' at 3/7/2024 8:44:29 AM +01:00, setting type to FEATURE
+Successfully updated issue #5613
+Processing issue #5599
+Issue #5599: Found last label 'bug' at 3/11/2024 2:02:13 PM +01:00, setting type to BUG
+Successfully updated issue #5599
+Processing issue #5595
+Issue #5595: Found last label 'enhancement' at 2/26/2024 7:21:11 AM +01:00, setting type to FEATURE
+Successfully updated issue #5595
+Processing issue #5582
+Issue #5582: Found last label 'bug' at 2/16/2024 3:19:44 PM +01:00, setting type to BUG
+Successfully updated issue #5582
+Processing issue #5577
+Issue #5577: Found last label 'bug' at 2/14/2024 11:59:55 PM +01:00, setting type to BUG
+Successfully updated issue #5577
+Completed page 5. Total processed so far: 56
+Fetching page 6...
+Page 6: Found 23 issues without type to process
+Processing issue #5552
+Issue #5552: Found last label 'bug' at 1/31/2024 5:01:46 PM +01:00, setting type to BUG
+Successfully updated issue #5552
+Processing issue #5550
+Issue #5550: Found last label 'bug' at 2/1/2024 9:09:15 PM +01:00, setting type to BUG
+Successfully updated issue #5550
+Processing issue #5543
+Issue #5543: Found last label 'bug' at 1/25/2024 12:59:58 PM +01:00, setting type to BUG
+Successfully updated issue #5543
+Processing issue #5540
+Issue #5540: Found last label 'bug' at 1/21/2024 8:39:49 PM +01:00, setting type to BUG
+Successfully updated issue #5540
+Processing issue #5522
+Issue #5522: Found last label 'bug' at 1/17/2024 8:51:54 PM +01:00, setting type to BUG
+Successfully updated issue #5522
+Processing issue #5521
+Issue #5521: Found last label 'bug' at 1/17/2024 8:57:23 PM +01:00, setting type to BUG
+Successfully updated issue #5521
+Processing issue #5520
+Issue #5520: Found last label 'bug' at 1/24/2024 9:10:52 PM +01:00, setting type to BUG
+Successfully updated issue #5520
+Processing issue #5518
+Issue #5518: Found last label 'bug' at 1/31/2024 4:15:13 PM +01:00, setting type to BUG
+Successfully updated issue #5518
+Processing issue #5517
+Issue #5517: Found last label 'bug' at 1/17/2024 8:52:46 PM +01:00, setting type to BUG
+Successfully updated issue #5517
+Processing issue #5512
+Issue #5512: Found last label 'bug' at 1/5/2024 9:42:32 AM +01:00, setting type to BUG
+Successfully updated issue #5512
+Processing issue #5509
+Issue #5509: Found last label 'bug' at 1/17/2024 8:52:29 PM +01:00, setting type to BUG
+Successfully updated issue #5509
+Processing issue #5503
+Issue #5503: Found last label 'bug' at 3/5/2024 2:08:40 PM +01:00, setting type to BUG
+Successfully updated issue #5503
+Processing issue #5500
+Issue #5500: Found last label 'bug' at 1/31/2024 5:52:52 PM +01:00, setting type to BUG
+Successfully updated issue #5500
+Processing issue #5484
+Issue #5484: Found last label 'bug' at 12/7/2023 3:24:13 PM +01:00, setting type to BUG
+Successfully updated issue #5484
+Processing issue #5478
+Issue #5478: Found last label 'enhancement' at 7/26/2024 3:17:38 PM +02:00, setting type to FEATURE
+Successfully updated issue #5478
+Processing issue #5475
+Issue #5475: Found last label 'bug' at 12/6/2023 1:14:10 AM +01:00, setting type to BUG
+Successfully updated issue #5475
+Processing issue #5468
+Issue #5468: Found last label 'bug' at 11/29/2023 7:45:43 PM +01:00, setting type to BUG
+Successfully updated issue #5468
+Processing issue #5465
+Issue #5465: Found last label 'bug' at 11/27/2023 11:03:44 PM +01:00, setting type to BUG
+Successfully updated issue #5465
+Processing issue #5460
+Issue #5460: Found last label 'bug' at 11/27/2023 7:28:36 PM +01:00, setting type to BUG
+Successfully updated issue #5460
+Processing issue #5458
+Issue #5458: Found last label 'bug' at 11/27/2023 2:18:54 PM +01:00, setting type to BUG
+Successfully updated issue #5458
+Processing issue #5457
+Issue #5457: Found last label 'bug' at 11/27/2023 10:11:37 PM +01:00, setting type to BUG
+Successfully updated issue #5457
+Processing issue #5562
+Issue #5562: Found last label 'enhancement' at 2/9/2024 6:26:42 PM +01:00, setting type to FEATURE
+Successfully updated issue #5562
+Processing issue #5450
+Issue #5450: Found last label 'bug' at 11/24/2023 11:28:42 PM +01:00, setting type to BUG
+Successfully updated issue #5450
+Completed page 6. Total processed so far: 79
+Fetching page 7...
+Page 7: Found 26 issues without type to process
+Processing issue #5446
+Issue #5446: Found last label 'bug' at 11/24/2023 11:28:27 PM +01:00, setting type to BUG
+Successfully updated issue #5446
+Processing issue #5445
+Issue #5445: Found last label 'bug' at 11/24/2023 11:28:58 PM +01:00, setting type to BUG
+Successfully updated issue #5445
+Processing issue #5439
+Issue #5439: Found last label 'bug' at 11/22/2023 1:28:05 PM +01:00, setting type to BUG
+Successfully updated issue #5439
+Processing issue #5430
+Issue #5430: Found last label 'bug' at 11/24/2023 11:29:12 PM +01:00, setting type to BUG
+Successfully updated issue #5430
+Processing issue #5428
+Issue #5428: Found last label 'bug' at 11/21/2023 2:05:01 PM +01:00, setting type to BUG
+Successfully updated issue #5428
+Processing issue #5492
+Issue #5492: Found last label 'bug' at 12/11/2023 10:58:40 AM +01:00, setting type to BUG
+Successfully updated issue #5492
+Processing issue #5409
+Issue #5409: Found last label 'bug' at 11/17/2023 5:09:34 PM +01:00, setting type to BUG
+Successfully updated issue #5409
+Processing issue #5406
+Issue #5406: Found last label 'bug' at 11/16/2023 12:43:29 PM +01:00, setting type to BUG
+Successfully updated issue #5406
+Processing issue #5402
+Issue #5402: Found last label 'bug' at 11/16/2023 12:41:37 PM +01:00, setting type to BUG
+Successfully updated issue #5402
+Processing issue #5382
+Issue #5382: Found last label 'bug' at 11/9/2023 10:36:29 AM +01:00, setting type to BUG
+Successfully updated issue #5382
+Processing issue #5369
+Issue #5369: Found last label 'bug' at 11/2/2023 10:53:19 AM +01:00, setting type to BUG
+Successfully updated issue #5369
+Processing issue #5363
+Issue #5363: Found last label 'bug' at 10/31/2023 4:06:22 PM +01:00, setting type to BUG
+Successfully updated issue #5363
+Processing issue #5356
+Issue #5356: Found last label 'bug' at 10/28/2023 6:14:43 PM +02:00, setting type to BUG
+Successfully updated issue #5356
+Processing issue #5351
+Issue #5351: Found last label 'bug' at 10/26/2023 2:47:11 PM +02:00, setting type to BUG
+Successfully updated issue #5351
+Processing issue #5362
+Issue #5362: Found last label 'bug' at 10/29/2023 2:59:56 PM +01:00, setting type to BUG
+Successfully updated issue #5362
+Processing issue #5346
+Issue #5346: Found last label 'bug' at 10/22/2023 3:16:00 PM +02:00, setting type to BUG
+Successfully updated issue #5346
+Processing issue #5345
+Issue #5345: Found last label 'bug' at 10/22/2023 4:53:47 PM +02:00, setting type to BUG
+Successfully updated issue #5345
+Processing issue #5343
+Issue #5343: Found last label 'enhancement' at 10/20/2023 6:02:31 PM +02:00, setting type to FEATURE
+Successfully updated issue #5343
+Processing issue #5342
+Issue #5342: Found last label 'enhancement' at 11/8/2024 6:56:34 PM +01:00, setting type to FEATURE
+Successfully updated issue #5342
+Processing issue #5340
+Issue #5340: Found last label 'bug' at 10/18/2023 12:39:31 PM +02:00, setting type to BUG
+Successfully updated issue #5340
+Processing issue #5332
+Issue #5332: Found last label 'bug' at 10/16/2023 12:03:31 PM +02:00, setting type to BUG
+Successfully updated issue #5332
+Processing issue #5330
+Issue #5330: Found last label 'bug' at 10/16/2023 9:33:24 AM +02:00, setting type to BUG
+Successfully updated issue #5330
+Processing issue #5328
+Issue #5328: Found last label 'enhancement' at 10/12/2023 2:43:28 PM +02:00, setting type to FEATURE
+Successfully updated issue #5328
+Processing issue #5326
+Issue #5326: Found last label 'bug' at 10/12/2023 3:01:22 PM +02:00, setting type to BUG
+Successfully updated issue #5326
+Processing issue #5323
+Issue #5323: Found last label 'bug' at 11/7/2023 6:40:56 PM +01:00, setting type to BUG
+Successfully updated issue #5323
+Processing issue #5321
+Issue #5321: Found last label 'bug' at 10/10/2023 8:28:24 AM +02:00, setting type to BUG
+Successfully updated issue #5321
+Completed page 7. Total processed so far: 105
+Fetching page 8...
+Page 8: Found 23 issues without type to process
+Processing issue #5308
+Issue #5308: Found last label 'bug' at 10/30/2023 1:07:19 PM +01:00, setting type to BUG
+Successfully updated issue #5308
+Processing issue #5297
+Issue #5297: Found last label 'bug' at 10/4/2023 10:57:17 PM +02:00, setting type to BUG
+Successfully updated issue #5297
+Processing issue #5293
+Issue #5293: Found last label 'enhancement' at 9/27/2023 5:10:31 PM +02:00, setting type to FEATURE
+Successfully updated issue #5293
+Processing issue #5289
+Issue #5289: Found last label 'enhancement' at 9/27/2023 2:55:23 PM +02:00, setting type to FEATURE
+Successfully updated issue #5289
+Processing issue #5288
+Issue #5288: Found last label 'enhancement' at 9/27/2023 2:41:10 PM +02:00, setting type to FEATURE
+Successfully updated issue #5288
+Processing issue #5284
+Issue #5284: Found last label 'bug' at 9/27/2023 10:14:23 AM +02:00, setting type to BUG
+Successfully updated issue #5284
+Processing issue #5272
+Issue #5272: Found last label 'enhancement' at 9/20/2023 8:28:27 PM +02:00, setting type to FEATURE
+Successfully updated issue #5272
+Processing issue #5264
+Issue #5264: Found last label 'enhancement' at 9/15/2023 2:57:35 PM +02:00, setting type to FEATURE
+Successfully updated issue #5264
+Processing issue #5246
+Issue #5246: Found last label 'bug' at 9/14/2023 6:50:54 AM +02:00, setting type to BUG
+Successfully updated issue #5246
+Processing issue #5239
+Issue #5239: Found last label 'bug' at 8/28/2023 9:59:29 PM +02:00, setting type to BUG
+Successfully updated issue #5239
+Processing issue #5238
+Issue #5238: Found last label 'enhancement' at 8/28/2023 3:53:04 PM +02:00, setting type to FEATURE
+Successfully updated issue #5238
+Processing issue #5229
+Issue #5229: Found last label 'bug' at 8/26/2023 12:32:52 PM +02:00, setting type to BUG
+Successfully updated issue #5229
+Processing issue #5227
+Issue #5227: Found last label 'bug' at 8/25/2023 10:08:10 PM +02:00, setting type to BUG
+Successfully updated issue #5227
+Processing issue #5223
+Issue #5223: Found last label 'bug' at 8/25/2023 2:20:34 PM +02:00, setting type to BUG
+Successfully updated issue #5223
+Processing issue #5220
+Issue #5220: Found last label 'bug' at 8/25/2023 1:12:46 PM +02:00, setting type to BUG
+Successfully updated issue #5220
+Processing issue #5218
+Issue #5218: Found last label 'bug' at 8/25/2023 12:43:32 PM +02:00, setting type to BUG
+Successfully updated issue #5218
+Processing issue #5214
+Issue #5214: Found last label 'enhancement' at 8/25/2023 11:26:26 AM +02:00, setting type to FEATURE
+Successfully updated issue #5214
+Processing issue #5210
+Issue #5210: Found last label 'bug' at 8/24/2023 7:01:19 PM +02:00, setting type to BUG
+Successfully updated issue #5210
+Processing issue #5209
+Issue #5209: Found last label 'bug' at 8/25/2023 11:15:19 AM +02:00, setting type to BUG
+Successfully updated issue #5209
+Processing issue #5208
+Issue #5208: Found last label 'bug' at 8/27/2023 3:27:49 PM +02:00, setting type to BUG
+Successfully updated issue #5208
+Processing issue #5199
+Issue #5199: Found last label 'bug' at 8/17/2023 4:37:48 PM +02:00, setting type to BUG
+Successfully updated issue #5199
+Processing issue #5191
+Issue #5191: Found last label 'bug' at 7/1/2024 3:39:37 PM +02:00, setting type to BUG
+Successfully updated issue #5191
+Processing issue #5186
+Issue #5186: Found last label 'enhancement' at 8/4/2023 11:10:36 AM +02:00, setting type to FEATURE
+Successfully updated issue #5186
+Completed page 8. Total processed so far: 128
+Fetching page 9...
+Page 9: Found 16 issues without type to process
+Processing issue #5181
+Issue #5181: Found last label 'enhancement' at 7/1/2024 3:23:58 PM +02:00, setting type to FEATURE
+Successfully updated issue #5181
+Processing issue #5180
+Issue #5180: Found last label 'enhancement' at 9/22/2023 3:21:01 PM +02:00, setting type to FEATURE
+Successfully updated issue #5180
+Processing issue #5179
+Issue #5179: Found last label 'enhancement' at 8/28/2023 6:27:46 PM +02:00, setting type to FEATURE
+Successfully updated issue #5179
+Processing issue #5169
+Issue #5169: Found last label 'enhancement' at 7/20/2023 11:07:26 AM +02:00, setting type to FEATURE
+Successfully updated issue #5169
+Processing issue #5151
+Issue #5151: Found last label 'enhancement' at 10/6/2023 8:50:41 PM +02:00, setting type to FEATURE
+Successfully updated issue #5151
+Processing issue #5142
+Issue #5142: Found last label 'enhancement' at 7/4/2023 3:24:22 PM +02:00, setting type to FEATURE
+Successfully updated issue #5142
+Processing issue #5141
+Issue #5141: Found last label 'bug' at 7/4/2023 2:43:50 PM +02:00, setting type to BUG
+Successfully updated issue #5141
+Processing issue #5139
+Issue #5139: Found last label 'bug' at 7/4/2023 7:50:06 AM +02:00, setting type to BUG
+Successfully updated issue #5139
+Processing issue #5136
+Issue #5136: Found last label 'enhancement' at 6/30/2023 8:47:51 PM +02:00, setting type to FEATURE
+Successfully updated issue #5136
+Processing issue #5138
+Issue #5138: Found last label 'enhancement' at 7/4/2023 6:09:47 AM +02:00, setting type to FEATURE
+Successfully updated issue #5138
+Processing issue #5134
+Issue #5134: Found last label 'enhancement' at 6/28/2023 9:07:54 AM +02:00, setting type to FEATURE
+Successfully updated issue #5134
+Processing issue #5128
+Issue #5128: Found last label 'enhancement' at 6/23/2023 8:44:57 AM +02:00, setting type to FEATURE
+Successfully updated issue #5128
+Processing issue #5121
+Issue #5121: Found last label 'bug' at 6/21/2023 3:54:08 PM +02:00, setting type to BUG
+Successfully updated issue #5121
+Processing issue #5112
+Issue #5112: Found last label 'bug' at 6/19/2023 11:54:23 AM +02:00, setting type to BUG
+Successfully updated issue #5112
+Processing issue #5110
+Issue #5110: Found last label 'bug' at 6/18/2023 8:37:57 PM +02:00, setting type to BUG
+Successfully updated issue #5110
+Processing issue #5108
+Issue #5108: Found last label 'enhancement' at 11/20/2023 7:46:07 PM +01:00, setting type to FEATURE
+Successfully updated issue #5108
+Completed page 9. Total processed so far: 144
+Fetching page 10...
+Page 10: Found 8 issues without type to process
+Processing issue #5073
+Issue #5073: Found last label 'enhancement' at 5/25/2023 9:23:00 AM +02:00, setting type to FEATURE
+Successfully updated issue #5073
+Processing issue #5055
+Issue #5055: Found last label 'bug' at 5/11/2023 8:28:21 PM +02:00, setting type to BUG
+Successfully updated issue #5055
+Processing issue #5046
+Issue #5046: Found last label 'enhancement' at 5/5/2023 5:56:36 AM +02:00, setting type to FEATURE
+Successfully updated issue #5046
+Processing issue #5041
+Issue #5041: Found last label 'enhancement' at 1/2/2025 3:42:06 PM +01:00, setting type to FEATURE
+Successfully updated issue #5041
+Processing issue #5032
+Issue #5032: Found last label 'bug' at 4/12/2023 9:16:51 PM +02:00, setting type to BUG
+Successfully updated issue #5032
+Processing issue #5005
+Issue #5005: Found last label 'enhancement' at 3/20/2023 10:15:45 PM +01:00, setting type to FEATURE
+Successfully updated issue #5005
+Processing issue #5004
+Issue #5004: Found last label 'enhancement' at 3/20/2023 11:17:01 AM +01:00, setting type to FEATURE
+Successfully updated issue #5004
+Processing issue #4999
+Issue #4999: Found last label 'bug' at 3/18/2023 4:13:07 PM +01:00, setting type to BUG
+Successfully updated issue #4999
+Completed page 10. Total processed so far: 152
+Fetching page 11...
+Page 11: Found 22 issues without type to process
+Processing issue #4988
+Issue #4988: Found last label 'enhancement' at 3/10/2023 12:39:27 PM +01:00, setting type to FEATURE
+Successfully updated issue #4988
+Processing issue #4979
+Issue #4979: Found last label 'enhancement' at 3/7/2023 10:52:15 PM +01:00, setting type to FEATURE
+Successfully updated issue #4979
+Processing issue #4977
+Issue #4977: Found last label 'enhancement' at 3/6/2023 11:36:58 PM +01:00, setting type to FEATURE
+Successfully updated issue #4977
+Processing issue #4974
+Issue #4974: Found last label 'enhancement' at 3/4/2023 6:18:59 PM +01:00, setting type to FEATURE
+Successfully updated issue #4974
+Processing issue #4972
+Issue #4972: Found last label 'enhancement' at 3/4/2023 12:40:40 PM +01:00, setting type to FEATURE
+Successfully updated issue #4972
+Processing issue #4969
+Issue #4969: Found last label 'bug' at 3/3/2023 10:22:23 PM +01:00, setting type to BUG
+Successfully updated issue #4969
+Processing issue #4966
+Issue #4966: Found last label 'enhancement' at 3/3/2023 10:45:25 AM +01:00, setting type to FEATURE
+Successfully updated issue #4966
+Processing issue #4965
+Issue #4965: Found last label 'enhancement' at 3/3/2023 10:41:42 AM +01:00, setting type to FEATURE
+Successfully updated issue #4965
+Processing issue #4963
+Issue #4963: Found last label 'bug' at 3/2/2023 9:29:37 AM +01:00, setting type to BUG
+Successfully updated issue #4963
+Processing issue #4944
+Issue #4944: Found last label 'enhancement' at 3/18/2024 8:21:21 AM +01:00, setting type to FEATURE
+Successfully updated issue #4944
+Processing issue #4927
+Issue #4927: Found last label 'enhancement' at 2/12/2023 5:35:16 PM +01:00, setting type to FEATURE
+Successfully updated issue #4927
+Processing issue #4920
+Issue #4920: Found last label 'bug' at 2/8/2023 7:38:06 PM +01:00, setting type to BUG
+Successfully updated issue #4920
+Processing issue #4919
+Issue #4919: Found last label 'enhancement' at 2/13/2023 10:29:00 AM +01:00, setting type to FEATURE
+Successfully updated issue #4919
+Processing issue #4911
+Issue #4911: Found last label 'bug' at 1/31/2023 10:25:21 AM +01:00, setting type to BUG
+Successfully updated issue #4911
+Processing issue #4906
+Issue #4906: Found last label 'bug' at 1/28/2023 5:49:48 PM +01:00, setting type to BUG
+Successfully updated issue #4906
+Processing issue #4898
+Issue #4898: Found last label 'enhancement' at 1/21/2023 1:46:34 PM +01:00, setting type to FEATURE
+Successfully updated issue #4898
+Processing issue #4896
+Issue #4896: Found last label 'enhancement' at 1/21/2023 1:40:31 PM +01:00, setting type to FEATURE
+Successfully updated issue #4896
+Processing issue #4888
+Issue #4888: Found last label 'bug' at 4/7/2023 1:31:59 PM +02:00, setting type to BUG
+Successfully updated issue #4888
+Processing issue #4884
+Issue #4884: Found last label 'enhancement' at 1/18/2023 10:00:07 AM +01:00, setting type to FEATURE
+Successfully updated issue #4884
+Processing issue #4862
+Issue #4862: Found last label 'enhancement' at 1/9/2023 7:07:40 PM +01:00, setting type to FEATURE
+Successfully updated issue #4862
+Processing issue #4861
+Issue #4861: Found last label 'bug' at 1/9/2023 7:16:01 PM +01:00, setting type to BUG
+Successfully updated issue #4861
+Processing issue #4859
+Issue #4859: Found last label 'enhancement' at 1/9/2023 12:58:54 PM +01:00, setting type to FEATURE
+Successfully updated issue #4859
+Completed page 11. Total processed so far: 174
+Fetching page 12...
+Page 12: Found 18 issues without type to process
+Processing issue #4840
+Issue #4840: Found last label 'bug' at 12/29/2022 11:58:15 AM +01:00, setting type to BUG
+Successfully updated issue #4840
+Processing issue #4833
+Issue #4833: Found last label 'enhancement' at 12/23/2022 12:01:02 AM +01:00, setting type to FEATURE
+Successfully updated issue #4833
+Processing issue #4830
+Issue #4830: Found last label 'bug' at 12/22/2022 8:32:53 AM +01:00, setting type to BUG
+Successfully updated issue #4830
+Processing issue #4827
+Issue #4827: Found last label 'bug' at 12/21/2022 10:52:54 AM +01:00, setting type to BUG
+Successfully updated issue #4827
+Processing issue #4822
+Issue #4822: Found last label 'enhancement' at 3/20/2023 9:33:57 AM +01:00, setting type to FEATURE
+Successfully updated issue #4822
+Processing issue #4815
+Issue #4815: Found last label 'enhancement' at 12/14/2022 3:59:07 PM +01:00, setting type to FEATURE
+Successfully updated issue #4815
+Processing issue #4810
+Issue #4810: Found last label 'enhancement' at 12/12/2022 1:20:56 PM +01:00, setting type to FEATURE
+Successfully updated issue #4810
+Processing issue #4808
+Issue #4808: Found last label 'bug' at 12/11/2022 3:10:52 PM +01:00, setting type to BUG
+Successfully updated issue #4808
+Processing issue #4804
+Issue #4804: Found last label 'bug' at 12/8/2022 11:02:27 AM +01:00, setting type to BUG
+Successfully updated issue #4804
+Processing issue #4802
+Issue #4802: Found last label 'enhancement' at 12/6/2022 6:22:01 PM +01:00, setting type to FEATURE
+Successfully updated issue #4802
+Processing issue #4800
+Issue #4800: Found last label 'enhancement' at 12/3/2022 1:35:07 PM +01:00, setting type to FEATURE
+Successfully updated issue #4800
+Processing issue #4799
+Issue #4799: Found last label 'enhancement' at 12/3/2022 1:20:48 PM +01:00, setting type to FEATURE
+Successfully updated issue #4799
+Processing issue #4795
+Issue #4795: Found last label 'enhancement' at 12/5/2022 11:53:49 AM +01:00, setting type to FEATURE
+Successfully updated issue #4795
+Processing issue #4789
+Issue #4789: Found last label 'enhancement' at 11/26/2022 8:52:11 AM +01:00, setting type to FEATURE
+Successfully updated issue #4789
+Processing issue #4777
+Issue #4777: Found last label 'bug' at 11/20/2022 6:54:48 PM +01:00, setting type to BUG
+Successfully updated issue #4777
+Processing issue #4771
+Issue #4771: Found last label 'bug' at 11/28/2022 11:00:31 PM +01:00, setting type to BUG
+Successfully updated issue #4771
+Processing issue #4766
+Issue #4766: Found last label 'bug' at 11/17/2022 6:25:00 AM +01:00, setting type to BUG
+Successfully updated issue #4766
+Processing issue #4764
+Issue #4764: Found last label 'enhancement' at 11/16/2022 11:42:21 AM +01:00, setting type to FEATURE
+Successfully updated issue #4764
+Completed page 12. Total processed so far: 192
+Fetching page 13...
+Page 13: Found 18 issues without type to process
+Processing issue #4757
+Issue #4757: Found last label 'bug' at 11/15/2022 8:39:27 AM +01:00, setting type to BUG
+Successfully updated issue #4757
+Processing issue #4752
+Issue #4752: Found last label 'bug' at 11/12/2022 8:59:46 AM +01:00, setting type to BUG
+Successfully updated issue #4752
+Processing issue #4748
+Issue #4748: Found last label 'enhancement' at 11/17/2022 3:07:01 PM +01:00, setting type to FEATURE
+Successfully updated issue #4748
+Processing issue #4727
+Issue #4727: Found last label 'enhancement' at 10/20/2022 11:09:00 AM +02:00, setting type to FEATURE
+Successfully updated issue #4727
+Processing issue #4719
+Issue #4719: Found last label 'enhancement' at 10/14/2022 2:53:59 PM +02:00, setting type to FEATURE
+Successfully updated issue #4719
+Processing issue #4715
+Issue #4715: Found last label 'bug' at 10/14/2022 11:20:37 AM +02:00, setting type to BUG
+Successfully updated issue #4715
+Processing issue #4712
+Issue #4712: Found last label 'bug' at 10/12/2022 11:02:24 PM +02:00, setting type to BUG
+Successfully updated issue #4712
+Processing issue #4711
+Issue #4711: Found last label 'bug' at 3/9/2023 10:09:23 AM +01:00, setting type to BUG
+Successfully updated issue #4711
+Processing issue #4705
+Issue #4705: Found last label 'bug' at 10/10/2022 11:00:12 AM +02:00, setting type to BUG
+Successfully updated issue #4705
+Processing issue #4693
+Issue #4693: Found last label 'bug' at 10/6/2022 11:41:00 AM +02:00, setting type to BUG
+Successfully updated issue #4693
+Processing issue #4688
+Issue #4688: Found last label 'enhancement' at 10/3/2022 8:38:29 AM +02:00, setting type to FEATURE
+Successfully updated issue #4688
+Processing issue #4686
+Issue #4686: Found last label 'bug' at 9/30/2022 11:06:19 AM +02:00, setting type to BUG
+Successfully updated issue #4686
+Processing issue #4672
+Issue #4672: Found last label 'bug' at 9/19/2022 10:29:42 PM +02:00, setting type to BUG
+Successfully updated issue #4672
+Processing issue #4661
+Issue #4661: Found last label 'bug' at 9/15/2022 8:51:49 AM +02:00, setting type to BUG
+Successfully updated issue #4661
+Processing issue #4654
+Issue #4654: Found last label 'bug' at 9/14/2022 7:16:51 PM +02:00, setting type to BUG
+Successfully updated issue #4654
+Processing issue #4649
+Issue #4649: Found last label 'enhancement' at 9/11/2022 4:31:08 PM +02:00, setting type to FEATURE
+Successfully updated issue #4649
+Processing issue #4633
+Issue #4633: Found last label 'bug' at 9/6/2022 2:21:42 PM +02:00, setting type to BUG
+Successfully updated issue #4633
+Processing issue #4626
+Issue #4626: Found last label 'bug' at 9/25/2022 9:28:15 AM +02:00, setting type to BUG
+Successfully updated issue #4626
+Completed page 13. Total processed so far: 210
+Fetching page 14...
+Page 14: Found 18 issues without type to process
+Processing issue #4621
+Issue #4621: Found last label 'bug' at 8/28/2022 8:47:00 AM +02:00, setting type to BUG
+Successfully updated issue #4621
+Processing issue #4985
+Issue #4985: Found last label 'enhancement' at 3/9/2023 11:21:23 AM +01:00, setting type to FEATURE
+Successfully updated issue #4985
+Processing issue #4612
+Issue #4612: Found last label 'enhancement' at 8/16/2022 8:29:11 AM +02:00, setting type to FEATURE
+Successfully updated issue #4612
+Processing issue #4609
+Issue #4609: Found last label 'enhancement' at 8/13/2022 2:59:39 PM +02:00, setting type to FEATURE
+Successfully updated issue #4609
+Processing issue #4605
+Issue #4605: Found last label 'bug' at 8/15/2022 8:23:43 AM +02:00, setting type to BUG
+Successfully updated issue #4605
+Processing issue #4603
+Issue #4603: Found last label 'bug' at 8/11/2022 9:13:52 AM +02:00, setting type to BUG
+Successfully updated issue #4603
+Processing issue #4595
+Issue #4595: Found last label 'enhancement' at 8/8/2022 11:24:54 AM +02:00, setting type to FEATURE
+Successfully updated issue #4595
+Processing issue #4581
+Issue #4581: Found last label 'enhancement' at 8/2/2022 2:12:52 PM +02:00, setting type to FEATURE
+Successfully updated issue #4581
+Processing issue #4578
+Issue #4578: Found last label 'enhancement' at 8/2/2022 8:04:56 AM +02:00, setting type to FEATURE
+Successfully updated issue #4578
+Processing issue #4582
+Issue #4582: Found last label 'bug' at 8/2/2022 4:17:45 PM +02:00, setting type to BUG
+Successfully updated issue #4582
+Processing issue #4577
+Issue #4577: Found last label 'bug' at 8/1/2022 3:06:54 PM +02:00, setting type to BUG
+Successfully updated issue #4577
+Processing issue #4557
+Issue #4557: Found last label 'enhancement' at 9/25/2022 9:37:52 AM +02:00, setting type to FEATURE
+Successfully updated issue #4557
+Processing issue #4556
+Issue #4556: Found last label 'bug' at 3/9/2023 10:05:17 AM +01:00, setting type to BUG
+Successfully updated issue #4556
+Processing issue #4549
+Issue #4549: Found last label 'enhancement' at 7/10/2022 7:20:40 AM +02:00, setting type to FEATURE
+Successfully updated issue #4549
+Processing issue #4548
+Issue #4548: Found last label 'enhancement' at 9/25/2022 9:43:35 AM +02:00, setting type to FEATURE
+Successfully updated issue #4548
+Processing issue #4537
+Issue #4537: Found last label 'bug' at 6/27/2022 4:53:39 PM +02:00, setting type to BUG
+Successfully updated issue #4537
+Processing issue #4533
+Issue #4533: Found last label 'enhancement' at 6/23/2022 9:38:11 AM +02:00, setting type to FEATURE
+Successfully updated issue #4533
+Processing issue #4525
+Issue #4525: Found last label 'bug' at 6/20/2022 8:54:09 PM +02:00, setting type to BUG
+Successfully updated issue #4525
+Completed page 14. Total processed so far: 228
+Fetching page 15...
+Page 15: Found 25 issues without type to process
+Processing issue #4518
+Issue #4518: Found last label 'bug' at 6/19/2022 4:00:36 PM +02:00, setting type to BUG
+Successfully updated issue #4518
+Processing issue #4513
+Issue #4513: Found last label 'enhancement' at 9/25/2022 9:56:22 AM +02:00, setting type to FEATURE
+Successfully updated issue #4513
+Processing issue #4503
+Issue #4503: Found last label 'enhancement' at 6/6/2022 3:53:43 PM +02:00, setting type to FEATURE
+Successfully updated issue #4503
+Processing issue #4498
+Issue #4498: Found last label 'enhancement' at 6/1/2022 12:04:31 PM +02:00, setting type to FEATURE
+Successfully updated issue #4498
+Processing issue #4497
+Issue #4497: Found last label 'enhancement' at 6/1/2022 12:03:51 PM +02:00, setting type to FEATURE
+Successfully updated issue #4497
+Processing issue #4494
+Issue #4494: Found last label 'enhancement' at 6/1/2022 11:46:13 AM +02:00, setting type to FEATURE
+Successfully updated issue #4494
+Processing issue #4493
+Issue #4493: Found last label 'enhancement' at 6/1/2022 11:43:48 AM +02:00, setting type to FEATURE
+Successfully updated issue #4493
+Processing issue #4489
+Issue #4489: Found last label 'enhancement' at 5/30/2022 10:31:23 AM +02:00, setting type to FEATURE
+Successfully updated issue #4489
+Processing issue #4479
+Issue #4479: Found last label 'bug' at 5/24/2022 10:39:04 AM +02:00, setting type to BUG
+Successfully updated issue #4479
+Processing issue #4466
+Issue #4466: Found last label 'enhancement' at 6/19/2022 3:05:49 PM +02:00, setting type to FEATURE
+Successfully updated issue #4466
+Processing issue #4465
+Issue #4465: Found last label 'bug' at 5/17/2022 9:18:23 PM +02:00, setting type to BUG
+Successfully updated issue #4465
+Processing issue #4460
+Issue #4460: Found last label 'bug' at 5/16/2022 10:47:57 AM +02:00, setting type to BUG
+Successfully updated issue #4460
+Processing issue #4458
+Issue #4458: Found last label 'bug' at 5/15/2022 2:28:07 PM +02:00, setting type to BUG
+Successfully updated issue #4458
+Processing issue #4456
+Issue #4456: Found last label 'enhancement' at 5/15/2022 2:18:33 PM +02:00, setting type to FEATURE
+Successfully updated issue #4456
+Processing issue #4454
+Issue #4454: Found last label 'bug' at 5/15/2022 2:01:44 PM +02:00, setting type to BUG
+Successfully updated issue #4454
+Processing issue #4453
+Issue #4453: Found last label 'enhancement' at 5/15/2022 10:04:48 AM +02:00, setting type to FEATURE
+Successfully updated issue #4453
+Processing issue #4442
+Issue #4442: Found last label 'enhancement' at 5/7/2022 8:01:28 PM +02:00, setting type to FEATURE
+Successfully updated issue #4442
+Processing issue #4441
+Issue #4441: Found last label 'bug' at 5/10/2022 10:46:52 AM +02:00, setting type to BUG
+Successfully updated issue #4441
+Processing issue #4434
+Issue #4434: Found last label 'bug' at 4/25/2022 9:02:12 AM +02:00, setting type to BUG
+Successfully updated issue #4434
+Processing issue #4429
+Issue #4429: Found last label 'bug' at 4/19/2022 1:41:10 PM +02:00, setting type to BUG
+Successfully updated issue #4429
+Processing issue #4427
+Issue #4427: Found last label 'bug' at 4/19/2022 12:30:17 PM +02:00, setting type to BUG
+Successfully updated issue #4427
+Processing issue #4425
+Issue #4425: Found last label 'bug' at 4/19/2022 11:43:44 AM +02:00, setting type to BUG
+Successfully updated issue #4425
+Processing issue #4417
+Issue #4417: Found last label 'bug' at 4/16/2022 5:25:22 PM +02:00, setting type to BUG
+Successfully updated issue #4417
+Processing issue #4414
+Issue #4414: Found last label 'enhancement' at 4/15/2022 6:06:00 PM +02:00, setting type to FEATURE
+Successfully updated issue #4414
+Processing issue #4412
+Issue #4412: Found last label 'bug' at 4/15/2022 12:51:07 PM +02:00, setting type to BUG
+Successfully updated issue #4412
+Completed page 15. Total processed so far: 253
+Fetching page 16...
+Page 16: Found 20 issues without type to process
+Processing issue #4409
+Issue #4409: Found last label 'bug' at 4/15/2022 11:51:44 AM +02:00, setting type to BUG
+Successfully updated issue #4409
+Processing issue #4404
+Issue #4404: Found last label 'bug' at 4/5/2022 2:45:36 PM +02:00, setting type to BUG
+Successfully updated issue #4404
+Processing issue #4392
+Issue #4392: Found last label 'bug' at 3/30/2022 8:19:00 AM +02:00, setting type to BUG
+Successfully updated issue #4392
+Processing issue #4385
+Issue #4385: Found last label 'enhancement' at 3/21/2022 10:10:36 AM +01:00, setting type to FEATURE
+Successfully updated issue #4385
+Processing issue #4384
+Issue #4384: Found last label 'bug' at 3/21/2022 10:07:56 AM +01:00, setting type to BUG
+Successfully updated issue #4384
+Processing issue #4378
+Issue #4378: Found last label 'bug' at 3/11/2022 8:11:19 PM +01:00, setting type to BUG
+Successfully updated issue #4378
+Processing issue #4377
+Issue #4377: Found last label 'enhancement' at 9/10/2022 2:43:51 PM +02:00, setting type to FEATURE
+Successfully updated issue #4377
+Processing issue #4376
+Issue #4376: Found last label 'bug' at 3/25/2022 8:29:51 AM +01:00, setting type to BUG
+Successfully updated issue #4376
+Processing issue #4373
+Issue #4373: Found last label 'bug' at 3/10/2022 1:35:21 PM +01:00, setting type to BUG
+Successfully updated issue #4373
+Processing issue #4365
+Issue #4365: Found last label 'bug' at 4/5/2022 2:19:37 PM +02:00, setting type to BUG
+Successfully updated issue #4365
+Processing issue #4363
+Issue #4363: Found last label 'bug' at 3/1/2022 10:49:47 AM +01:00, setting type to BUG
+Successfully updated issue #4363
+Processing issue #4359
+Issue #4359: Found last label 'bug' at 2/25/2022 6:08:02 PM +01:00, setting type to BUG
+Successfully updated issue #4359
+Processing issue #4347
+Issue #4347: Found last label 'bug' at 2/22/2022 2:12:49 PM +01:00, setting type to BUG
+Successfully updated issue #4347
+Processing issue #4345
+Issue #4345: Found last label 'bug' at 2/22/2022 10:29:44 AM +01:00, setting type to BUG
+Successfully updated issue #4345
+Processing issue #4344
+Issue #4344: Found last label 'bug' at 2/22/2022 10:25:44 AM +01:00, setting type to BUG
+Successfully updated issue #4344
+Processing issue #4342
+Issue #4342: Found last label 'bug' at 4/15/2022 1:08:46 PM +02:00, setting type to BUG
+Successfully updated issue #4342
+Processing issue #4340
+Issue #4340: Found last label 'bug' at 3/9/2023 10:00:02 AM +01:00, setting type to BUG
+Successfully updated issue #4340
+Processing issue #4330
+Issue #4330: Found last label 'bug' at 2/16/2022 9:43:57 AM +01:00, setting type to BUG
+Successfully updated issue #4330
+Processing issue #4321
+Issue #4321: Found last label 'enhancement' at 2/12/2022 2:32:22 PM +01:00, setting type to FEATURE
+Successfully updated issue #4321
+Processing issue #4315
+Issue #4315: Found last label 'bug' at 2/5/2022 11:34:31 AM +01:00, setting type to BUG
+Successfully updated issue #4315
+Completed page 16. Total processed so far: 273
+Fetching page 17...
+Page 17: Found 25 issues without type to process
+Processing issue #4309
+Issue #4309: Found last label 'bug' at 2/1/2022 11:11:47 PM +01:00, setting type to BUG
+Successfully updated issue #4309
+Processing issue #4305
+Issue #4305: Found last label 'bug' at 2/13/2022 10:23:48 AM +01:00, setting type to BUG
+Successfully updated issue #4305
+Processing issue #4299
+Issue #4299: Found last label 'bug' at 1/28/2022 4:22:55 PM +01:00, setting type to BUG
+Successfully updated issue #4299
+Processing issue #4295
+Issue #4295: Found last label 'bug' at 1/28/2022 10:38:07 AM +01:00, setting type to BUG
+Successfully updated issue #4295
+Processing issue #4303
+Issue #4303: Found last label 'bug' at 1/31/2022 11:51:53 AM +01:00, setting type to BUG
+Successfully updated issue #4303
+Processing issue #4291
+Issue #4291: Found last label 'bug' at 1/21/2022 2:20:17 PM +01:00, setting type to BUG
+Successfully updated issue #4291
+Processing issue #4286
+Issue #4286: Found last label 'bug' at 1/20/2022 12:38:48 PM +01:00, setting type to BUG
+Successfully updated issue #4286
+Processing issue #4285
+Issue #4285: Found last label 'enhancement' at 1/20/2022 11:06:08 AM +01:00, setting type to FEATURE
+Successfully updated issue #4285
+Processing issue #4281
+Issue #4281: Found last label 'bug' at 1/18/2022 5:16:25 PM +01:00, setting type to BUG
+Successfully updated issue #4281
+Processing issue #4275
+Issue #4275: Found last label 'bug' at 1/11/2022 10:10:52 AM +01:00, setting type to BUG
+Successfully updated issue #4275
+Processing issue #4274
+Issue #4274: Found last label 'enhancement' at 1/10/2022 11:13:36 AM +01:00, setting type to FEATURE
+Successfully updated issue #4274
+Processing issue #4271
+Issue #4271: Found last label 'bug' at 1/9/2022 8:48:19 PM +01:00, setting type to BUG
+Successfully updated issue #4271
+Processing issue #4269
+Issue #4269: Found last label 'enhancement' at 1/9/2022 11:42:03 AM +01:00, setting type to FEATURE
+Successfully updated issue #4269
+Processing issue #4267
+Issue #4267: Found last label 'enhancement' at 1/10/2022 11:30:14 AM +01:00, setting type to FEATURE
+Successfully updated issue #4267
+Processing issue #4264
+Issue #4264: Found last label 'bug' at 1/9/2022 8:17:11 PM +01:00, setting type to BUG
+Successfully updated issue #4264
+Processing issue #4260
+Issue #4260: Found last label 'bug' at 1/1/2022 9:10:06 PM +01:00, setting type to BUG
+Successfully updated issue #4260
+Processing issue #4250
+Issue #4250: Found last label 'enhancement' at 12/28/2021 9:35:12 PM +01:00, setting type to FEATURE
+Successfully updated issue #4250
+Processing issue #4245
+Issue #4245: Found last label 'enhancement' at 12/28/2021 9:01:12 AM +01:00, setting type to FEATURE
+Successfully updated issue #4245
+Processing issue #4244
+Issue #4244: Found last label 'bug' at 12/28/2021 9:05:27 AM +01:00, setting type to BUG
+Successfully updated issue #4244
+Processing issue #4236
+Issue #4236: Found last label 'bug' at 12/23/2021 10:51:55 AM +01:00, setting type to BUG
+Successfully updated issue #4236
+Processing issue #4234
+Issue #4234: Found last label 'bug' at 12/29/2021 12:43:53 PM +01:00, setting type to BUG
+Successfully updated issue #4234
+Processing issue #4228
+Issue #4228: Found last label 'enhancement' at 12/20/2021 10:34:34 AM +01:00, setting type to FEATURE
+Successfully updated issue #4228
+Processing issue #4227
+Issue #4227: Found last label 'bug' at 12/20/2021 10:53:24 PM +01:00, setting type to BUG
+Successfully updated issue #4227
+Processing issue #4226
+Issue #4226: Found last label 'bug' at 12/18/2021 10:45:46 PM +01:00, setting type to BUG
+Successfully updated issue #4226
+Processing issue #4222
+Issue #4222: Found last label 'bug' at 12/17/2021 3:36:18 PM +01:00, setting type to BUG
+Successfully updated issue #4222
+Completed page 17. Total processed so far: 298
+Fetching page 18...
+Page 18: Found 28 issues without type to process
+Processing issue #4215
+Issue #4215: Found last label 'enhancement' at 12/15/2021 11:00:47 AM +01:00, setting type to FEATURE
+Successfully updated issue #4215
+Processing issue #4214
+Issue #4214: Found last label 'enhancement' at 12/15/2021 11:00:41 AM +01:00, setting type to FEATURE
+Successfully updated issue #4214
+Processing issue #4213
+Issue #4213: Found last label 'enhancement' at 12/15/2021 11:00:35 AM +01:00, setting type to FEATURE
+Successfully updated issue #4213
+Processing issue #4209
+Issue #4209: Found last label 'bug' at 12/19/2021 6:07:33 PM +01:00, setting type to BUG
+Successfully updated issue #4209
+Processing issue #4207
+Issue #4207: Found last label 'bug' at 12/13/2021 4:34:35 PM +01:00, setting type to BUG
+Successfully updated issue #4207
+Processing issue #4205
+Issue #4205: Found last label 'enhancement' at 12/9/2021 10:12:02 AM +01:00, setting type to FEATURE
+Successfully updated issue #4205
+Processing issue #4202
+Issue #4202: Found last label 'bug' at 12/6/2021 11:10:03 PM +01:00, setting type to BUG
+Successfully updated issue #4202
+Processing issue #4199
+Issue #4199: Found last label 'bug' at 12/29/2021 1:22:57 PM +01:00, setting type to BUG
+Successfully updated issue #4199
+Processing issue #4196
+Issue #4196: Found last label 'enhancement' at 12/6/2021 11:15:37 AM +01:00, setting type to FEATURE
+Successfully updated issue #4196
+Processing issue #4192
+Issue #4192: Found last label 'enhancement' at 12/3/2021 1:54:37 PM +01:00, setting type to FEATURE
+Successfully updated issue #4192
+Processing issue #4189
+Issue #4189: Found last label 'bug' at 12/2/2021 9:53:21 AM +01:00, setting type to BUG
+Successfully updated issue #4189
+Processing issue #4183
+Issue #4183: Found last label 'bug' at 11/29/2021 12:30:50 PM +01:00, setting type to BUG
+Successfully updated issue #4183
+Processing issue #4177
+Issue #4177: Found last label 'bug' at 11/26/2021 11:29:06 AM +01:00, setting type to BUG
+Successfully updated issue #4177
+Processing issue #4172
+Issue #4172: Found last label 'bug' at 11/25/2021 9:28:40 AM +01:00, setting type to BUG
+Successfully updated issue #4172
+Processing issue #4171
+Issue #4171: Found last label 'bug' at 11/24/2021 10:14:51 PM +01:00, setting type to BUG
+Successfully updated issue #4171
+Processing issue #4166
+Issue #4166: Found last label 'bug' at 11/23/2021 8:23:54 PM +01:00, setting type to BUG
+Successfully updated issue #4166
+Processing issue #4161
+Issue #4161: Found last label 'enhancement' at 11/22/2021 1:57:29 PM +01:00, setting type to FEATURE
+Successfully updated issue #4161
+Processing issue #4157
+Issue #4157: Found last label 'enhancement' at 11/21/2021 2:11:54 PM +01:00, setting type to FEATURE
+Successfully updated issue #4157
+Processing issue #4149
+Issue #4149: Found last label 'bug' at 11/24/2021 5:54:54 PM +01:00, setting type to BUG
+Successfully updated issue #4149
+Processing issue #4147
+Issue #4147: Found last label 'bug' at 11/17/2021 9:46:49 AM +01:00, setting type to BUG
+Successfully updated issue #4147
+Processing issue #4146
+Issue #4146: Found last label 'enhancement' at 11/16/2021 9:53:18 PM +01:00, setting type to FEATURE
+Successfully updated issue #4146
+Processing issue #4145
+Issue #4145: Found last label 'bug' at 12/29/2021 10:52:19 AM +01:00, setting type to BUG
+Successfully updated issue #4145
+Processing issue #4144
+Issue #4144: Found last label 'bug' at 11/15/2021 10:43:11 PM +01:00, setting type to BUG
+Successfully updated issue #4144
+Processing issue #4143
+Issue #4143: Found last label 'bug' at 11/15/2021 2:00:40 PM +01:00, setting type to BUG
+Successfully updated issue #4143
+Processing issue #4142
+Issue #4142: Found last label 'bug' at 11/15/2021 10:39:35 AM +01:00, setting type to BUG
+Successfully updated issue #4142
+Processing issue #4136
+Issue #4136: Found last label 'enhancement' at 11/13/2021 6:11:29 PM +01:00, setting type to FEATURE
+Successfully updated issue #4136
+Processing issue #4135
+Issue #4135: Found last label 'bug' at 11/13/2021 11:51:37 AM +01:00, setting type to BUG
+Successfully updated issue #4135
+Processing issue #4134
+Issue #4134: Found last label 'bug' at 12/29/2021 10:56:32 AM +01:00, setting type to BUG
+Successfully updated issue #4134
+Completed page 18. Total processed so far: 326
+Fetching page 19...
+Page 19: Found 25 issues without type to process
+Processing issue #4130
+Issue #4130: Found last label 'enhancement' at 11/11/2021 9:32:56 PM +01:00, setting type to FEATURE
+Successfully updated issue #4130
+Processing issue #4124
+Issue #4124: Found last label 'bug' at 11/10/2021 10:49:42 AM +01:00, setting type to BUG
+Successfully updated issue #4124
+Processing issue #4123
+Issue #4123: Found last label 'bug' at 11/10/2021 9:09:57 AM +01:00, setting type to BUG
+Successfully updated issue #4123
+Processing issue #4118
+Issue #4118: Found last label 'bug' at 11/9/2021 7:03:48 PM +01:00, setting type to BUG
+Successfully updated issue #4118
+Processing issue #4106
+Issue #4106: Found last label 'enhancement' at 11/8/2021 10:13:03 AM +01:00, setting type to FEATURE
+Successfully updated issue #4106
+Processing issue #4099
+Issue #4099: Found last label 'bug' at 11/4/2021 3:28:19 PM +01:00, setting type to BUG
+Successfully updated issue #4099
+Processing issue #4091
+Issue #4091: Found last label 'bug' at 11/3/2021 7:32:03 PM +01:00, setting type to BUG
+Successfully updated issue #4091
+Processing issue #4085
+Issue #4085: Found last label 'bug' at 10/30/2021 10:47:54 AM +02:00, setting type to BUG
+Successfully updated issue #4085
+Processing issue #4082
+Issue #4082: Found last label 'bug' at 11/4/2021 12:59:46 AM +01:00, setting type to BUG
+Successfully updated issue #4082
+Processing issue #4079
+Issue #4079: Found last label 'bug' at 10/27/2021 10:20:34 PM +02:00, setting type to BUG
+Successfully updated issue #4079
+Processing issue #4070
+Issue #4070: Found last label 'enhancement' at 10/25/2021 9:00:09 PM +02:00, setting type to FEATURE
+Successfully updated issue #4070
+Processing issue #4068
+Issue #4068: Found last label 'enhancement' at 10/25/2021 5:49:46 PM +02:00, setting type to FEATURE
+Successfully updated issue #4068
+Processing issue #4063
+Issue #4063: Found last label 'enhancement' at 10/24/2021 11:54:49 AM +02:00, setting type to FEATURE
+Successfully updated issue #4063
+Processing issue #4061
+Issue #4061: Found last label 'enhancement' at 10/24/2021 10:53:56 AM +02:00, setting type to FEATURE
+Successfully updated issue #4061
+Processing issue #4057
+Issue #4057: Found last label 'bug' at 10/21/2021 9:51:01 AM +02:00, setting type to BUG
+Successfully updated issue #4057
+Processing issue #4051
+Issue #4051: Found last label 'enhancement' at 10/18/2021 12:40:32 PM +02:00, setting type to FEATURE
+Successfully updated issue #4051
+Processing issue #4049
+Issue #4049: Found last label 'enhancement' at 10/18/2021 11:43:49 AM +02:00, setting type to FEATURE
+Successfully updated issue #4049
+Processing issue #4048
+Issue #4048: Found last label 'enhancement' at 10/18/2021 11:42:21 AM +02:00, setting type to FEATURE
+Successfully updated issue #4048
+Processing issue #4047
+Issue #4047: Found last label 'enhancement' at 10/18/2021 11:40:40 AM +02:00, setting type to FEATURE
+Successfully updated issue #4047
+Processing issue #4034
+Issue #4034: Found last label 'enhancement' at 10/13/2021 8:40:21 AM +02:00, setting type to FEATURE
+Successfully updated issue #4034
+Processing issue #4032
+Issue #4032: Found last label 'enhancement' at 10/10/2021 1:53:33 PM +02:00, setting type to FEATURE
+Successfully updated issue #4032
+Processing issue #4020
+Issue #4020: Found last label 'enhancement' at 10/6/2021 10:35:03 AM +02:00, setting type to FEATURE
+Successfully updated issue #4020
+Processing issue #4018
+Issue #4018: Found last label 'enhancement' at 10/6/2021 7:11:48 AM +02:00, setting type to FEATURE
+Successfully updated issue #4018
+Processing issue #4015
+Issue #4015: Found last label 'enhancement' at 10/5/2021 7:49:26 AM +02:00, setting type to FEATURE
+Successfully updated issue #4015
+Processing issue #4010
+Issue #4010: Found last label 'enhancement' at 10/4/2021 11:32:00 AM +02:00, setting type to FEATURE
+Successfully updated issue #4010
+Completed page 19. Total processed so far: 351
+Fetching page 20...
+Page 20: Found 23 issues without type to process
+Processing issue #4008
+Issue #4008: Found last label 'enhancement' at 10/4/2021 8:49:52 AM +02:00, setting type to FEATURE
+Successfully updated issue #4008
+Processing issue #4007
+Issue #4007: Found last label 'enhancement' at 10/3/2021 7:57:38 PM +02:00, setting type to FEATURE
+Successfully updated issue #4007
+Processing issue #4006
+Issue #4006: Found last label 'enhancement' at 10/3/2021 7:31:51 PM +02:00, setting type to FEATURE
+Successfully updated issue #4006
+Processing issue #4000
+Issue #4000: Found last label 'bug' at 9/28/2021 12:07:20 PM +02:00, setting type to BUG
+Successfully updated issue #4000
+Processing issue #3996
+Issue #3996: Found last label 'bug' at 10/26/2021 8:08:31 PM +02:00, setting type to BUG
+Successfully updated issue #3996
+Processing issue #3992
+Issue #3992: Found last label 'bug' at 9/26/2021 4:54:28 AM +02:00, setting type to BUG
+Successfully updated issue #3992
+Processing issue #3990
+Issue #3990: Found last label 'enhancement' at 9/24/2021 3:23:02 PM +02:00, setting type to FEATURE
+Successfully updated issue #3990
+Processing issue #3989
+Issue #3989: Found last label 'enhancement' at 9/24/2021 11:27:07 AM +02:00, setting type to FEATURE
+Successfully updated issue #3989
+Processing issue #3988
+Issue #3988: Found last label 'enhancement' at 9/23/2021 7:42:08 PM +02:00, setting type to FEATURE
+Successfully updated issue #3988
+Processing issue #3973
+Issue #3973: Found last label 'enhancement' at 9/15/2021 7:58:50 AM +02:00, setting type to FEATURE
+Successfully updated issue #3973
+Processing issue #3964
+Issue #3964: Found last label 'bug' at 9/5/2021 6:09:43 PM +02:00, setting type to BUG
+Successfully updated issue #3964
+Processing issue #3961
+Issue #3961: Found last label 'bug' at 9/3/2021 3:18:39 PM +02:00, setting type to BUG
+Successfully updated issue #3961
+Processing issue #3960
+Issue #3960: Found last label 'enhancement' at 9/3/2021 3:15:28 PM +02:00, setting type to FEATURE
+Successfully updated issue #3960
+Processing issue #3958
+Issue #3958: Found last label 'bug' at 9/2/2021 3:49:23 PM +02:00, setting type to BUG
+Successfully updated issue #3958
+Processing issue #3953
+Issue #3953: Found last label 'enhancement' at 8/30/2021 9:01:39 AM +02:00, setting type to FEATURE
+Successfully updated issue #3953
+Processing issue #3952
+Issue #3952: Found last label 'bug' at 8/28/2021 6:26:10 PM +02:00, setting type to BUG
+Successfully updated issue #3952
+Processing issue #3948
+Issue #3948: Found last label 'bug' at 8/26/2021 4:15:42 PM +02:00, setting type to BUG
+Successfully updated issue #3948
+Processing issue #3947
+Issue #3947: Found last label 'enhancement' at 8/26/2021 6:11:37 PM +02:00, setting type to FEATURE
+Successfully updated issue #3947
+Processing issue #3943
+Issue #3943: Found last label 'enhancement' at 8/26/2021 4:42:22 PM +02:00, setting type to FEATURE
+Successfully updated issue #3943
+Processing issue #3924
+Issue #3924: Found last label 'bug' at 8/17/2021 2:23:34 PM +02:00, setting type to BUG
+Successfully updated issue #3924
+Processing issue #3920
+Issue #3920: Found last label 'enhancement' at 8/16/2021 11:16:50 AM +02:00, setting type to FEATURE
+Successfully updated issue #3920
+Processing issue #3919
+Issue #3919: Found last label 'bug' at 8/18/2021 12:24:46 PM +02:00, setting type to BUG
+Successfully updated issue #3919
+Processing issue #3913
+Issue #3913: Found last label 'enhancement' at 9/10/2022 2:05:26 PM +02:00, setting type to FEATURE
+Successfully updated issue #3913
+Completed page 20. Total processed so far: 374
+Fetching page 21...
+Page 21: Found 24 issues without type to process
+Processing issue #3899
+Issue #3899: Found last label 'enhancement' at 8/2/2021 6:32:48 PM +02:00, setting type to FEATURE
+Successfully updated issue #3899
+Processing issue #3898
+Issue #3898: Found last label 'enhancement' at 8/2/2021 6:18:07 PM +02:00, setting type to FEATURE
+Successfully updated issue #3898
+Processing issue #3897
+Issue #3897: Found last label 'bug' at 8/2/2021 6:06:17 PM +02:00, setting type to BUG
+Successfully updated issue #3897
+Processing issue #3890
+Issue #3890: Found last label 'enhancement' at 7/29/2021 8:55:24 AM +02:00, setting type to FEATURE
+Successfully updated issue #3890
+Processing issue #3882
+Issue #3882: Found last label 'enhancement' at 7/17/2021 11:00:04 AM +02:00, setting type to FEATURE
+Successfully updated issue #3882
+Processing issue #3878
+Issue #3878: Found last label 'bug' at 7/12/2021 3:54:03 PM +02:00, setting type to BUG
+Successfully updated issue #3878
+Processing issue #3876
+Issue #3876: Found last label 'bug' at 7/12/2021 2:00:14 PM +02:00, setting type to BUG
+Successfully updated issue #3876
+Processing issue #3873
+Issue #3873: Found last label 'bug' at 7/6/2021 9:28:52 PM +02:00, setting type to BUG
+Successfully updated issue #3873
+Processing issue #3872
+Issue #3872: Found last label 'bug' at 7/7/2021 12:13:11 AM +02:00, setting type to BUG
+Successfully updated issue #3872
+Processing issue #3868
+Issue #3868: Found last label 'enhancement' at 7/1/2021 10:22:33 AM +02:00, setting type to FEATURE
+Successfully updated issue #3868
+Processing issue #3863
+Issue #3863: Found last label 'bug' at 6/30/2021 2:25:38 PM +02:00, setting type to BUG
+Successfully updated issue #3863
+Processing issue #3859
+Issue #3859: Found last label 'bug' at 6/30/2021 2:26:19 PM +02:00, setting type to BUG
+Successfully updated issue #3859
+Processing issue #3856
+Issue #3856: Found last label 'bug' at 6/18/2021 7:38:56 PM +02:00, setting type to BUG
+Successfully updated issue #3856
+Processing issue #3848
+Issue #3848: Found last label 'enhancement' at 6/16/2021 2:36:40 PM +02:00, setting type to FEATURE
+Successfully updated issue #3848
+Processing issue #3846
+Issue #3846: Found last label 'bug' at 6/16/2021 10:59:24 AM +02:00, setting type to BUG
+Successfully updated issue #3846
+Processing issue #3844
+Issue #3844: Found last label 'bug' at 6/16/2021 9:44:05 AM +02:00, setting type to BUG
+Successfully updated issue #3844
+Processing issue #3842
+Issue #3842: Found last label 'bug' at 6/15/2021 8:04:17 PM +02:00, setting type to BUG
+Successfully updated issue #3842
+Processing issue #3839
+Issue #3839: Found last label 'bug' at 6/15/2021 8:21:27 PM +02:00, setting type to BUG
+Successfully updated issue #3839
+Processing issue #3836
+Issue #3836: Found last label 'bug' at 6/13/2021 3:57:26 PM +02:00, setting type to BUG
+Successfully updated issue #3836
+Processing issue #3835
+Issue #3835: Found last label 'bug' at 6/13/2021 3:56:07 PM +02:00, setting type to BUG
+Successfully updated issue #3835
+Processing issue #3832
+Issue #3832: Found last label 'enhancement' at 6/12/2021 9:14:15 AM +02:00, setting type to FEATURE
+Successfully updated issue #3832
+Processing issue #3820
+Issue #3820: Found last label 'enhancement' at 6/7/2021 4:20:20 PM +02:00, setting type to FEATURE
+Successfully updated issue #3820
+Processing issue #3816
+Issue #3816: Found last label 'enhancement' at 6/6/2021 11:50:30 AM +02:00, setting type to FEATURE
+Successfully updated issue #3816
+Processing issue #3815
+Issue #3815: Found last label 'enhancement' at 6/6/2021 11:32:38 AM +02:00, setting type to FEATURE
+Successfully updated issue #3815
+Completed page 21. Total processed so far: 398
+Fetching page 22...
+Page 22: Found 30 issues without type to process
+Processing issue #3814
+Issue #3814: Found last label 'enhancement' at 6/7/2021 8:11:58 AM +02:00, setting type to FEATURE
+Successfully updated issue #3814
+Processing issue #3807
+Issue #3807: Found last label 'bug' at 6/3/2021 10:20:07 PM +02:00, setting type to BUG
+Successfully updated issue #3807
+Processing issue #3802
+Issue #3802: Found last label 'bug' at 6/7/2021 11:02:37 AM +02:00, setting type to BUG
+Successfully updated issue #3802
+Processing issue #3800
+Issue #3800: Found last label 'enhancement' at 8/28/2021 4:33:15 PM +02:00, setting type to FEATURE
+Successfully updated issue #3800
+Processing issue #3787
+Issue #3787: Found last label 'bug' at 5/31/2021 10:40:31 AM +02:00, setting type to BUG
+Successfully updated issue #3787
+Processing issue #3783
+Issue #3783: Found last label 'bug' at 5/24/2021 2:09:22 PM +02:00, setting type to BUG
+Successfully updated issue #3783
+Processing issue #3775
+Issue #3775: Found last label 'enhancement' at 12/29/2021 11:44:45 AM +01:00, setting type to FEATURE
+Successfully updated issue #3775
+Processing issue #3774
+Issue #3774: Found last label 'enhancement' at 5/22/2021 8:58:06 PM +02:00, setting type to FEATURE
+Successfully updated issue #3774
+Processing issue #3772
+Issue #3772: Found last label 'bug' at 5/22/2021 5:07:07 PM +02:00, setting type to BUG
+Successfully updated issue #3772
+Processing issue #3765
+Issue #3765: Found last label 'bug' at 5/21/2021 9:13:46 AM +02:00, setting type to BUG
+Successfully updated issue #3765
+Processing issue #3761
+Issue #3761: Found last label 'bug' at 5/20/2021 7:27:05 PM +02:00, setting type to BUG
+Successfully updated issue #3761
+Processing issue #3749
+Issue #3749: Found last label 'bug' at 5/18/2021 7:20:34 PM +02:00, setting type to BUG
+Successfully updated issue #3749
+Processing issue #3748
+Issue #3748: Found last label 'bug' at 5/18/2021 9:56:19 AM +02:00, setting type to BUG
+Successfully updated issue #3748
+Processing issue #3747
+Issue #3747: Found last label 'bug' at 5/17/2021 4:13:00 PM +02:00, setting type to BUG
+Successfully updated issue #3747
+Processing issue #3745
+Issue #3745: Found last label 'enhancement' at 12/29/2021 11:52:33 AM +01:00, setting type to FEATURE
+Successfully updated issue #3745
+Processing issue #3743
+Issue #3743: Found last label 'bug' at 5/17/2021 12:31:23 PM +02:00, setting type to BUG
+Successfully updated issue #3743
+Processing issue #3741
+Issue #3741: Found last label 'bug' at 5/17/2021 12:10:34 PM +02:00, setting type to BUG
+Successfully updated issue #3741
+Processing issue #3733
+Issue #3733: Found last label 'bug' at 5/29/2021 9:51:33 AM +02:00, setting type to BUG
+Successfully updated issue #3733
+Processing issue #3728
+Issue #3728: Found last label 'bug' at 5/13/2021 9:43:22 AM +02:00, setting type to BUG
+Successfully updated issue #3728
+Processing issue #3726
+Issue #3726: Found last label 'bug' at 5/12/2021 10:07:30 AM +02:00, setting type to BUG
+Successfully updated issue #3726
+Processing issue #3720
+Issue #3720: Found last label 'bug' at 5/11/2021 11:15:08 AM +02:00, setting type to BUG
+Successfully updated issue #3720
+Processing issue #3719
+Issue #3719: Found last label 'bug' at 5/11/2021 11:14:05 AM +02:00, setting type to BUG
+Successfully updated issue #3719
+Processing issue #3718
+Issue #3718: Found last label 'bug' at 5/21/2021 9:20:53 AM +02:00, setting type to BUG
+Successfully updated issue #3718
+Processing issue #3714
+Issue #3714: Found last label 'bug' at 5/9/2021 10:44:21 AM +02:00, setting type to BUG
+Successfully updated issue #3714
+Processing issue #3712
+Issue #3712: Found last label 'bug' at 5/8/2021 9:02:47 PM +02:00, setting type to BUG
+Successfully updated issue #3712
+Processing issue #3705
+Issue #3705: Found last label 'bug' at 6/10/2021 6:55:08 PM +02:00, setting type to BUG
+Successfully updated issue #3705
+Processing issue #3702
+Issue #3702: Found last label 'enhancement' at 5/4/2021 10:13:56 AM +02:00, setting type to FEATURE
+Successfully updated issue #3702
+Processing issue #3700
+Issue #3700: Found last label 'enhancement' at 4/30/2021 10:19:45 AM +02:00, setting type to FEATURE
+Successfully updated issue #3700
+Processing issue #3695
+Issue #3695: Found last label 'enhancement' at 4/29/2021 3:45:51 PM +02:00, setting type to FEATURE
+Successfully updated issue #3695
+Processing issue #3694
+Issue #3694: Found last label 'bug' at 4/29/2021 3:44:44 PM +02:00, setting type to BUG
+Successfully updated issue #3694
+Completed page 22. Total processed so far: 428
+Fetching page 23...
+Page 23: Found 25 issues without type to process
+Processing issue #3686
+Issue #3686: Found last label 'bug' at 4/28/2021 3:45:28 PM +02:00, setting type to BUG
+Successfully updated issue #3686
+Processing issue #3684
+Issue #3684: Found last label 'enhancement' at 4/26/2021 10:08:49 PM +02:00, setting type to FEATURE
+Successfully updated issue #3684
+Processing issue #3679
+Issue #3679: Found last label 'enhancement' at 4/22/2021 8:54:03 PM +02:00, setting type to FEATURE
+Successfully updated issue #3679
+Processing issue #3668
+Issue #3668: Found last label 'enhancement' at 4/15/2021 7:51:17 PM +02:00, setting type to FEATURE
+Successfully updated issue #3668
+Processing issue #3665
+Issue #3665: Found last label 'enhancement' at 4/14/2021 10:48:54 PM +02:00, setting type to FEATURE
+Successfully updated issue #3665
+Processing issue #3660
+Issue #3660: Found last label 'bug' at 4/12/2021 5:50:36 PM +02:00, setting type to BUG
+Successfully updated issue #3660
+Processing issue #3654
+Issue #3654: Found last label 'enhancement' at 4/10/2021 1:57:33 PM +02:00, setting type to FEATURE
+Successfully updated issue #3654
+Processing issue #3652
+Issue #3652: Found last label 'enhancement' at 4/10/2021 1:42:41 PM +02:00, setting type to FEATURE
+Successfully updated issue #3652
+Processing issue #3650
+Issue #3650: Found last label 'bug' at 4/10/2021 1:30:26 PM +02:00, setting type to BUG
+Successfully updated issue #3650
+Processing issue #3648
+Issue #3648: Found last label 'bug' at 4/10/2021 9:29:08 AM +02:00, setting type to BUG
+Successfully updated issue #3648
+Processing issue #3647
+Issue #3647: Found last label 'enhancement' at 4/10/2021 6:31:48 AM +02:00, setting type to FEATURE
+Successfully updated issue #3647
+Processing issue #3644
+Issue #3644: Found last label 'enhancement' at 4/9/2021 3:03:37 PM +02:00, setting type to FEATURE
+Successfully updated issue #3644
+Processing issue #3641
+Issue #3641: Found last label 'bug' at 4/9/2021 8:27:11 AM +02:00, setting type to BUG
+Successfully updated issue #3641
+Processing issue #3640
+Issue #3640: Found last label 'bug' at 4/9/2021 8:27:22 AM +02:00, setting type to BUG
+Successfully updated issue #3640
+Processing issue #3639
+Issue #3639: Found last label 'enhancement' at 4/8/2021 1:28:54 PM +02:00, setting type to FEATURE
+Successfully updated issue #3639
+Processing issue #3623
+Issue #3623: Found last label 'enhancement' at 3/31/2021 3:35:45 PM +02:00, setting type to FEATURE
+Successfully updated issue #3623
+Processing issue #3619
+Issue #3619: Found last label 'enhancement' at 3/28/2021 7:27:55 AM +02:00, setting type to FEATURE
+Successfully updated issue #3619
+Processing issue #3617
+Issue #3617: Found last label 'enhancement' at 3/25/2021 7:50:08 AM +01:00, setting type to FEATURE
+Successfully updated issue #3617
+Processing issue #3609
+Issue #3609: Found last label 'enhancement' at 3/21/2021 9:37:27 AM +01:00, setting type to FEATURE
+Successfully updated issue #3609
+Processing issue #3603
+Issue #3603: Found last label 'bug' at 5/30/2021 8:38:37 AM +02:00, setting type to BUG
+Successfully updated issue #3603
+Processing issue #3600
+Issue #3600: Found last label 'bug' at 3/25/2021 10:34:12 AM +01:00, setting type to BUG
+Successfully updated issue #3600
+Processing issue #3596
+Issue #3596: Found last label 'enhancement' at 3/13/2021 9:44:58 AM +01:00, setting type to FEATURE
+Successfully updated issue #3596
+Processing issue #3595
+Issue #3595: Found last label 'enhancement' at 4/10/2021 1:54:00 PM +02:00, setting type to FEATURE
+Successfully updated issue #3595
+Processing issue #3594
+Issue #3594: Found last label 'enhancement' at 3/12/2021 5:39:35 PM +01:00, setting type to FEATURE
+Successfully updated issue #3594
+Processing issue #3592
+Issue #3592: Found last label 'bug' at 3/11/2021 7:37:04 PM +01:00, setting type to BUG
+Successfully updated issue #3592
+Completed page 23. Total processed so far: 453
+Fetching page 24...
+Page 24: Found 14 issues without type to process
+Processing issue #3588
+Issue #3588: Found last label 'bug' at 3/10/2021 12:36:24 PM +01:00, setting type to BUG
+Successfully updated issue #3588
+Processing issue #3581
+Issue #3581: Found last label 'bug' at 3/6/2021 8:07:06 AM +01:00, setting type to BUG
+Successfully updated issue #3581
+Processing issue #3580
+Issue #3580: Found last label 'bug' at 3/5/2021 3:22:19 PM +01:00, setting type to BUG
+Successfully updated issue #3580
+Processing issue #3558
+Issue #3558: Found last label 'enhancement' at 2/22/2021 11:56:48 AM +01:00, setting type to FEATURE
+Successfully updated issue #3558
+Processing issue #3534
+Issue #3534: Found last label 'bug' at 2/24/2021 8:09:40 AM +01:00, setting type to BUG
+Successfully updated issue #3534
+Processing issue #3511
+Issue #3511: Found last label 'bug' at 2/6/2021 6:56:50 PM +01:00, setting type to BUG
+Successfully updated issue #3511
+Processing issue #3509
+Issue #3509: Found last label 'bug' at 2/6/2021 6:13:04 PM +01:00, setting type to BUG
+Successfully updated issue #3509
+Processing issue #3487
+Issue #3487: Found last label 'bug' at 1/29/2021 9:42:46 AM +01:00, setting type to BUG
+Successfully updated issue #3487
+Processing issue #3480
+Issue #3480: Found last label 'bug' at 1/26/2021 12:44:42 PM +01:00, setting type to BUG
+Successfully updated issue #3480
+Processing issue #3478
+Issue #3478: Found last label 'bug' at 1/26/2021 11:35:44 AM +01:00, setting type to BUG
+Successfully updated issue #3478
+Processing issue #3477
+Issue #3477: Found last label 'bug' at 1/26/2021 3:40:34 PM +01:00, setting type to BUG
+Successfully updated issue #3477
+Processing issue #3472
+Issue #3472: Found last label 'enhancement' at 1/20/2021 10:30:01 PM +01:00, setting type to FEATURE
+Successfully updated issue #3472
+Processing issue #3467
+Issue #3467: Found last label 'bug' at 1/20/2021 9:48:43 AM +01:00, setting type to BUG
+Successfully updated issue #3467
+Processing issue #3466
+Issue #3466: Found last label 'bug' at 1/22/2021 5:42:13 PM +01:00, setting type to BUG
+Successfully updated issue #3466
+Completed page 24. Total processed so far: 467
+Fetching page 25...
+Page 25: Found 14 issues without type to process
+Processing issue #3464
+Issue #3464: Found last label 'bug' at 1/19/2021 11:12:55 PM +01:00, setting type to BUG
+Successfully updated issue #3464
+Processing issue #3442
+Issue #3442: Found last label 'bug' at 1/10/2021 7:18:32 PM +01:00, setting type to BUG
+Successfully updated issue #3442
+Processing issue #3420
+Issue #3420: Found last label 'bug' at 12/21/2020 9:36:02 AM +01:00, setting type to BUG
+Successfully updated issue #3420
+Processing issue #3563
+Issue #3563: Found last label 'enhancement' at 2/22/2021 1:09:13 PM +01:00, setting type to FEATURE
+Successfully updated issue #3563
+Processing issue #3407
+Issue #3407: Found last label 'bug' at 12/14/2020 11:44:25 AM +01:00, setting type to BUG
+Successfully updated issue #3407
+Processing issue #3401
+Issue #3401: Found last label 'bug' at 12/11/2020 11:36:43 AM +01:00, setting type to BUG
+Successfully updated issue #3401
+Processing issue #3396
+Issue #3396: Found last label 'enhancement' at 12/8/2020 9:41:33 AM +01:00, setting type to FEATURE
+Successfully updated issue #3396
+Processing issue #3390
+Issue #3390: Found last label 'bug' at 12/4/2020 3:42:05 PM +01:00, setting type to BUG
+Successfully updated issue #3390
+Processing issue #3389
+Issue #3389: Found last label 'enhancement' at 12/4/2020 12:56:53 PM +01:00, setting type to FEATURE
+Successfully updated issue #3389
+Processing issue #3386
+Issue #3386: Found last label 'enhancement' at 12/2/2020 10:21:03 PM +01:00, setting type to FEATURE
+Successfully updated issue #3386
+Processing issue #3383
+Issue #3383: Found last label 'enhancement' at 11/29/2020 5:32:48 AM +01:00, setting type to FEATURE
+Successfully updated issue #3383
+Processing issue #3384
+Issue #3384: Found last label 'bug' at 11/29/2020 5:04:09 PM +01:00, setting type to BUG
+Successfully updated issue #3384
+Processing issue #3379
+Issue #3379: Found last label 'bug' at 11/22/2020 5:59:41 PM +01:00, setting type to BUG
+Successfully updated issue #3379
+Processing issue #3373
+Issue #3373: Found last label 'bug' at 11/21/2020 6:01:40 PM +01:00, setting type to BUG
+Successfully updated issue #3373
+Completed page 25. Total processed so far: 481
+Fetching page 26...
+Page 26: Found 23 issues without type to process
+Processing issue #3363
+Issue #3363: Found last label 'bug' at 11/19/2020 11:26:19 AM +01:00, setting type to BUG
+Successfully updated issue #3363
+Processing issue #3345
+Issue #3345: Found last label 'bug' at 11/15/2020 8:05:57 PM +01:00, setting type to BUG
+Successfully updated issue #3345
+Processing issue #3331
+Issue #3331: Found last label 'bug' at 11/13/2020 12:30:48 PM +01:00, setting type to BUG
+Successfully updated issue #3331
+Processing issue #3326
+Issue #3326: Found last label 'bug' at 11/12/2020 2:09:02 PM +01:00, setting type to BUG
+Successfully updated issue #3326
+Processing issue #3324
+Issue #3324: Found last label 'bug' at 11/12/2020 7:57:31 AM +01:00, setting type to BUG
+Successfully updated issue #3324
+Processing issue #3320
+Issue #3320: Found last label 'enhancement' at 11/10/2020 2:20:57 PM +01:00, setting type to FEATURE
+Successfully updated issue #3320
+Processing issue #3309
+Issue #3309: Found last label 'enhancement' at 11/9/2020 11:06:32 AM +01:00, setting type to FEATURE
+Successfully updated issue #3309
+Processing issue #3306
+Issue #3306: Found last label 'bug' at 11/9/2020 8:30:01 AM +01:00, setting type to BUG
+Successfully updated issue #3306
+Processing issue #3304
+Issue #3304: Found last label 'bug' at 11/9/2020 12:18:10 PM +01:00, setting type to BUG
+Successfully updated issue #3304
+Processing issue #3300
+Issue #3300: Found last label 'enhancement' at 11/7/2020 5:47:59 PM +01:00, setting type to FEATURE
+Successfully updated issue #3300
+Processing issue #3289
+Issue #3289: Found last label 'bug' at 10/31/2020 12:54:07 PM +01:00, setting type to BUG
+Successfully updated issue #3289
+Processing issue #3285
+Issue #3285: Found last label 'bug' at 10/30/2020 11:44:21 AM +01:00, setting type to BUG
+Successfully updated issue #3285
+Processing issue #3284
+Issue #3284: Found last label 'enhancement' at 10/29/2020 6:49:16 PM +01:00, setting type to FEATURE
+Successfully updated issue #3284
+Processing issue #3275
+Issue #3275: Found last label 'enhancement' at 10/26/2020 9:47:25 AM +01:00, setting type to FEATURE
+Successfully updated issue #3275
+Processing issue #3262
+Issue #3262: Found last label 'bug' at 10/23/2020 8:30:20 AM +02:00, setting type to BUG
+Successfully updated issue #3262
+Processing issue #3260
+Issue #3260: Found last label 'enhancement' at 10/22/2020 1:45:04 PM +02:00, setting type to FEATURE
+Successfully updated issue #3260
+Processing issue #3252
+Issue #3252: Found last label 'enhancement' at 10/21/2020 2:04:34 PM +02:00, setting type to FEATURE
+Successfully updated issue #3252
+Processing issue #3250
+Issue #3250: Found last label 'bug' at 10/21/2020 1:44:24 PM +02:00, setting type to BUG
+Successfully updated issue #3250
+Processing issue #3249
+Issue #3249: Found last label 'bug' at 10/22/2020 1:58:20 PM +02:00, setting type to BUG
+Successfully updated issue #3249
+Processing issue #3248
+Issue #3248: Found last label 'bug' at 10/25/2020 1:32:43 PM +01:00, setting type to BUG
+Successfully updated issue #3248
+Processing issue #3246
+Issue #3246: Found last label 'bug' at 10/22/2020 12:01:13 PM +02:00, setting type to BUG
+Successfully updated issue #3246
+Processing issue #3245
+Issue #3245: Found last label 'enhancement' at 10/20/2020 10:13:21 AM +02:00, setting type to FEATURE
+Successfully updated issue #3245
+Processing issue #3241
+Issue #3241: Found last label 'bug' at 10/21/2020 10:42:25 AM +02:00, setting type to BUG
+Successfully updated issue #3241
+Completed page 26. Total processed so far: 504
+Fetching page 27...
+Page 27: Found 19 issues without type to process
+Processing issue #3236
+Issue #3236: Found last label 'enhancement' at 10/13/2020 2:04:22 PM +02:00, setting type to FEATURE
+Successfully updated issue #3236
+Processing issue #3230
+Issue #3230: Found last label 'bug' at 11/17/2020 7:50:01 PM +01:00, setting type to BUG
+Successfully updated issue #3230
+Processing issue #3227
+Issue #3227: Found last label 'bug' at 10/10/2020 7:34:59 AM +02:00, setting type to BUG
+Successfully updated issue #3227
+Processing issue #3219
+Issue #3219: Found last label 'bug' at 10/7/2020 8:46:59 AM +02:00, setting type to BUG
+Successfully updated issue #3219
+Processing issue #3212
+Issue #3212: Found last label 'bug' at 10/4/2020 7:27:32 PM +02:00, setting type to BUG
+Successfully updated issue #3212
+Processing issue #3209
+Issue #3209: Found last label 'bug' at 10/3/2020 3:56:20 PM +02:00, setting type to BUG
+Successfully updated issue #3209
+Processing issue #3208
+Issue #3208: Found last label 'enhancement' at 10/3/2020 10:09:29 AM +02:00, setting type to FEATURE
+Successfully updated issue #3208
+Processing issue #3204
+Issue #3204: Found last label 'bug' at 10/3/2020 8:01:54 AM +02:00, setting type to BUG
+Successfully updated issue #3204
+Processing issue #3198
+Issue #3198: Found last label 'enhancement' at 9/29/2020 10:58:03 AM +02:00, setting type to FEATURE
+Successfully updated issue #3198
+Processing issue #3192
+Issue #3192: Found last label 'bug' at 9/27/2020 7:01:31 PM +02:00, setting type to BUG
+Successfully updated issue #3192
+Processing issue #3166
+Issue #3166: Found last label 'enhancement' at 9/20/2020 1:20:00 PM +02:00, setting type to FEATURE
+Successfully updated issue #3166
+Processing issue #3157
+Issue #3157: Found last label 'bug' at 9/18/2020 10:11:29 PM +02:00, setting type to BUG
+Successfully updated issue #3157
+Processing issue #3156
+Issue #3156: Found last label 'bug' at 9/18/2020 5:19:25 PM +02:00, setting type to BUG
+Successfully updated issue #3156
+Processing issue #3140
+Issue #3140: Found last label 'enhancement' at 9/12/2020 3:35:07 PM +02:00, setting type to FEATURE
+Successfully updated issue #3140
+Processing issue #3132
+Issue #3132: Found last label 'enhancement' at 9/12/2020 8:40:33 AM +02:00, setting type to FEATURE
+Successfully updated issue #3132
+Processing issue #3129
+Issue #3129: Found last label 'bug' at 9/8/2020 10:04:26 AM +02:00, setting type to BUG
+Successfully updated issue #3129
+Processing issue #3128
+Issue #3128: Found last label 'bug' at 9/8/2020 9:50:05 AM +02:00, setting type to BUG
+Successfully updated issue #3128
+Processing issue #3120
+Issue #3120: Found last label 'enhancement' at 8/31/2020 10:31:10 PM +02:00, setting type to FEATURE
+Successfully updated issue #3120
+Processing issue #3117
+Issue #3117: Found last label 'bug' at 9/9/2020 12:32:02 PM +02:00, setting type to BUG
+Successfully updated issue #3117
+Completed page 27. Total processed so far: 523
+Fetching page 28...
+Page 28: Found 15 issues without type to process
+Processing issue #3106
+Issue #3106: Found last label 'bug' at 8/14/2020 8:56:17 AM +02:00, setting type to BUG
+Successfully updated issue #3106
+Processing issue #3102
+Issue #3102: Found last label 'bug' at 8/7/2020 7:32:32 AM +02:00, setting type to BUG
+Successfully updated issue #3102
+Processing issue #3095
+Issue #3095: Found last label 'bug' at 8/2/2020 7:39:53 AM +02:00, setting type to BUG
+Successfully updated issue #3095
+Processing issue #3079
+Issue #3079: Found last label 'bug' at 7/18/2020 10:28:21 AM +02:00, setting type to BUG
+Successfully updated issue #3079
+Processing issue #3075
+Issue #3075: Found last label 'bug' at 7/17/2020 11:17:02 AM +02:00, setting type to BUG
+Successfully updated issue #3075
+Processing issue #3069
+Issue #3069: Found last label 'enhancement' at 7/15/2020 8:26:16 PM +02:00, setting type to FEATURE
+Successfully updated issue #3069
+Processing issue #3068
+Issue #3068: Found last label 'bug' at 7/14/2020 4:02:39 PM +02:00, setting type to BUG
+Successfully updated issue #3068
+Processing issue #3066
+Issue #3066: Found last label 'bug' at 7/14/2020 3:07:28 PM +02:00, setting type to BUG
+Successfully updated issue #3066
+Processing issue #3065
+Issue #3065: Found last label 'bug' at 7/13/2020 1:56:22 PM +02:00, setting type to BUG
+Successfully updated issue #3065
+Processing issue #3058
+Issue #3058: Found last label 'enhancement' at 7/12/2020 7:43:14 PM +02:00, setting type to FEATURE
+Successfully updated issue #3058
+Processing issue #3045
+Issue #3045: Found last label 'bug' at 6/27/2020 9:22:02 AM +02:00, setting type to BUG
+Successfully updated issue #3045
+Processing issue #3044
+Issue #3044: Found last label 'bug' at 6/26/2020 5:03:29 PM +02:00, setting type to BUG
+Successfully updated issue #3044
+Processing issue #3043
+Issue #3043: Found last label 'enhancement' at 6/26/2020 11:36:44 AM +02:00, setting type to FEATURE
+Successfully updated issue #3043
+Processing issue #3040
+Issue #3040: Found last label 'enhancement' at 1/17/2021 2:40:36 PM +01:00, setting type to FEATURE
+Successfully updated issue #3040
+Processing issue #3032
+Issue #3032: Found last label 'enhancement' at 6/19/2020 12:26:09 AM +02:00, setting type to FEATURE
+Successfully updated issue #3032
+Completed page 28. Total processed so far: 538
+Fetching page 29...
+Page 29: Found 15 issues without type to process
+Processing issue #3030
+Issue #3030: Found last label 'bug' at 6/19/2020 12:06:25 AM +02:00, setting type to BUG
+Successfully updated issue #3030
+Processing issue #3024
+Issue #3024: Found last label 'enhancement' at 6/16/2020 5:17:23 PM +02:00, setting type to FEATURE
+Successfully updated issue #3024
+Processing issue #3019
+Issue #3019: Found last label 'bug' at 6/19/2020 11:57:13 AM +02:00, setting type to BUG
+Successfully updated issue #3019
+Processing issue #3018
+Issue #3018: Found last label 'enhancement' at 9/13/2020 3:58:30 PM +02:00, setting type to FEATURE
+Successfully updated issue #3018
+Processing issue #3004
+Issue #3004: Found last label 'bug' at 6/11/2020 9:59:00 AM +02:00, setting type to BUG
+Successfully updated issue #3004
+Processing issue #3002
+Issue #3002: Found last label 'bug' at 6/18/2020 8:30:34 PM +02:00, setting type to BUG
+Successfully updated issue #3002
+Processing issue #2987
+Issue #2987: Found last label 'bug' at 5/28/2020 5:57:12 PM +02:00, setting type to BUG
+Successfully updated issue #2987
+Processing issue #2978
+Issue #2978: Found last label 'bug' at 5/27/2020 9:40:46 AM +02:00, setting type to BUG
+Successfully updated issue #2978
+Processing issue #2976
+Issue #2976: Found last label 'enhancement' at 5/23/2020 10:38:21 PM +02:00, setting type to FEATURE
+Successfully updated issue #2976
+Processing issue #2964
+Issue #2964: Found last label 'bug' at 5/22/2020 5:51:56 PM +02:00, setting type to BUG
+Successfully updated issue #2964
+Processing issue #2960
+Issue #2960: Found last label 'bug' at 5/22/2020 7:57:49 PM +02:00, setting type to BUG
+Successfully updated issue #2960
+Processing issue #2958
+Issue #2958: Found last label 'bug' at 5/13/2020 9:59:54 AM +02:00, setting type to BUG
+Successfully updated issue #2958
+Processing issue #2943
+Issue #2943: Found last label 'enhancement' at 5/2/2020 12:37:04 PM +02:00, setting type to FEATURE
+Successfully updated issue #2943
+Processing issue #2942
+Issue #2942: Found last label 'enhancement' at 5/1/2020 4:01:44 PM +02:00, setting type to FEATURE
+Successfully updated issue #2942
+Processing issue #2940
+Issue #2940: Found last label 'enhancement' at 4/30/2020 9:09:49 AM +02:00, setting type to FEATURE
+Successfully updated issue #2940
+Completed page 29. Total processed so far: 553
+Fetching page 30...
+Page 30: Found 14 issues without type to process
+Processing issue #2938
+Issue #2938: Found last label 'enhancement' at 4/29/2020 11:46:10 AM +02:00, setting type to FEATURE
+Successfully updated issue #2938
+Processing issue #2932
+Issue #2932: Found last label 'enhancement' at 4/27/2020 8:00:19 AM +02:00, setting type to FEATURE
+Successfully updated issue #2932
+Processing issue #2928
+Issue #2928: Found last label 'bug' at 4/24/2020 5:27:41 PM +02:00, setting type to BUG
+Successfully updated issue #2928
+Processing issue #2926
+Issue #2926: Found last label 'enhancement' at 5/21/2020 9:29:09 PM +02:00, setting type to FEATURE
+Successfully updated issue #2926
+Processing issue #2925
+Issue #2925: Found last label 'bug' at 5/31/2020 6:18:04 PM +02:00, setting type to BUG
+Successfully updated issue #2925
+Processing issue #2923
+Issue #2923: Found last label 'bug' at 5/26/2020 2:04:15 PM +02:00, setting type to BUG
+Successfully updated issue #2923
+Processing issue #2913
+Issue #2913: Found last label 'bug' at 5/14/2020 5:46:59 PM +02:00, setting type to BUG
+Successfully updated issue #2913
+Processing issue #2912
+Issue #2912: Found last label 'bug' at 5/31/2020 6:17:37 PM +02:00, setting type to BUG
+Successfully updated issue #2912
+Processing issue #2896
+Issue #2896: Found last label 'bug' at 5/31/2020 6:17:19 PM +02:00, setting type to BUG
+Successfully updated issue #2896
+Processing issue #2892
+Issue #2892: Found last label 'enhancement' at 3/9/2020 8:41:35 PM +01:00, setting type to FEATURE
+Successfully updated issue #2892
+Processing issue #2873
+Issue #2873: Found last label 'bug' at 3/1/2020 7:20:10 AM +01:00, setting type to BUG
+Successfully updated issue #2873
+Processing issue #2867
+Issue #2867: Found last label 'bug' at 2/27/2020 8:29:45 AM +01:00, setting type to BUG
+Successfully updated issue #2867
+Processing issue #2864
+Issue #2864: Found last label 'enhancement' at 2/25/2020 12:16:49 PM +01:00, setting type to FEATURE
+Successfully updated issue #2864
+Processing issue #2860
+Issue #2860: Found last label 'bug' at 2/21/2020 12:13:22 AM +01:00, setting type to BUG
+Successfully updated issue #2860
+Completed page 30. Total processed so far: 567
+Fetching page 31...
+Page 31: Found 19 issues without type to process
+Processing issue #2849
+Issue #2849: Found last label 'bug' at 2/17/2020 1:33:28 PM +01:00, setting type to BUG
+Successfully updated issue #2849
+Processing issue #2846
+Issue #2846: Found last label 'bug' at 2/11/2020 1:01:34 PM +01:00, setting type to BUG
+Successfully updated issue #2846
+Processing issue #2842
+Issue #2842: Found last label 'enhancement' at 2/9/2020 10:49:45 AM +01:00, setting type to FEATURE
+Successfully updated issue #2842
+Processing issue #2834
+Issue #2834: Found last label 'enhancement' at 2/6/2020 12:13:39 PM +01:00, setting type to FEATURE
+Successfully updated issue #2834
+Processing issue #2831
+Issue #2831: Found last label 'bug' at 2/3/2020 8:34:07 PM +01:00, setting type to BUG
+Successfully updated issue #2831
+Processing issue #2827
+Issue #2827: Found last label 'bug' at 3/1/2020 7:26:26 AM +01:00, setting type to BUG
+Successfully updated issue #2827
+Processing issue #2822
+Issue #2822: Found last label 'enhancement' at 1/31/2020 9:06:06 AM +01:00, setting type to FEATURE
+Successfully updated issue #2822
+Processing issue #2820
+Issue #2820: Found last label 'bug' at 1/30/2020 2:57:00 PM +01:00, setting type to BUG
+Successfully updated issue #2820
+Processing issue #2815
+Issue #2815: Found last label 'bug' at 1/29/2020 10:59:17 PM +01:00, setting type to BUG
+Successfully updated issue #2815
+Processing issue #2814
+Issue #2814: Found last label 'enhancement' at 1/30/2020 3:55:47 PM +01:00, setting type to FEATURE
+Successfully updated issue #2814
+Processing issue #2811
+Issue #2811: Found last label 'bug' at 1/30/2020 1:28:57 PM +01:00, setting type to BUG
+Successfully updated issue #2811
+Processing issue #2807
+Issue #2807: Found last label 'bug' at 2/6/2020 8:04:54 PM +01:00, setting type to BUG
+Successfully updated issue #2807
+Processing issue #2805
+Issue #2805: Found last label 'bug' at 1/23/2020 12:45:13 PM +01:00, setting type to BUG
+Successfully updated issue #2805
+Processing issue #2797
+Issue #2797: Found last label 'bug' at 1/19/2020 1:37:08 PM +01:00, setting type to BUG
+Successfully updated issue #2797
+Processing issue #2795
+Issue #2795: Found last label 'bug' at 1/17/2020 12:03:57 PM +01:00, setting type to BUG
+Successfully updated issue #2795
+Processing issue #2793
+Issue #2793: Found last label 'enhancement' at 5/13/2020 10:33:09 PM +02:00, setting type to FEATURE
+Successfully updated issue #2793
+Processing issue #2791
+Issue #2791: Found last label 'bug' at 1/15/2020 9:10:03 PM +01:00, setting type to BUG
+Successfully updated issue #2791
+Processing issue #2775
+Issue #2775: Found last label 'enhancement' at 1/4/2020 9:53:08 AM +01:00, setting type to FEATURE
+Successfully updated issue #2775
+Processing issue #2773
+Issue #2773: Found last label 'bug' at 5/13/2020 10:31:21 PM +02:00, setting type to BUG
+Successfully updated issue #2773
+Completed page 31. Total processed so far: 586
+Fetching page 32...
+Page 32: Found 19 issues without type to process
+Processing issue #2766
+Issue #2766: Found last label 'bug' at 1/19/2020 6:12:25 PM +01:00, setting type to BUG
+Successfully updated issue #2766
+Processing issue #2763
+Issue #2763: Found last label 'bug' at 12/9/2019 1:50:38 PM +01:00, setting type to BUG
+Successfully updated issue #2763
+Processing issue #2761
+Issue #2761: Found last label 'bug' at 12/9/2019 1:42:48 PM +01:00, setting type to BUG
+Successfully updated issue #2761
+Processing issue #2757
+Issue #2757: Found last label 'bug' at 12/27/2019 3:39:49 PM +01:00, setting type to BUG
+Successfully updated issue #2757
+Processing issue #2756
+Issue #2756: Found last label 'enhancement' at 12/4/2019 7:55:06 AM +01:00, setting type to FEATURE
+Successfully updated issue #2756
+Processing issue #2746
+Issue #2746: Found last label 'enhancement' at 11/22/2019 2:00:59 PM +01:00, setting type to FEATURE
+Successfully updated issue #2746
+Processing issue #2740
+Issue #2740: Found last label 'enhancement' at 1/6/2020 3:20:08 PM +01:00, setting type to FEATURE
+Successfully updated issue #2740
+Processing issue #2735
+Issue #2735: Found last label 'enhancement' at 11/14/2019 3:41:05 AM +01:00, setting type to FEATURE
+Successfully updated issue #2735
+Processing issue #2725
+Issue #2725: Found last label 'bug' at 11/5/2019 11:30:11 AM +01:00, setting type to BUG
+Successfully updated issue #2725
+Processing issue #2720
+Issue #2720: Found last label 'enhancement' at 10/31/2019 10:07:41 PM +01:00, setting type to FEATURE
+Successfully updated issue #2720
+Processing issue #2708
+Issue #2708: Found last label 'bug' at 11/8/2019 5:01:23 PM +01:00, setting type to BUG
+Successfully updated issue #2708
+Processing issue #2703
+Issue #2703: Found last label 'bug' at 10/21/2019 1:08:42 PM +02:00, setting type to BUG
+Successfully updated issue #2703
+Processing issue #2699
+Issue #2699: Found last label 'enhancement' at 10/17/2019 8:43:12 PM +02:00, setting type to FEATURE
+Successfully updated issue #2699
+Processing issue #2698
+Issue #2698: Found last label 'bug' at 10/17/2019 1:58:31 PM +02:00, setting type to BUG
+Successfully updated issue #2698
+Processing issue #2695
+Issue #2695: Found last label 'bug' at 10/16/2019 11:18:52 AM +02:00, setting type to BUG
+Successfully updated issue #2695
+Processing issue #2694
+Issue #2694: Found last label 'bug' at 10/16/2019 9:10:41 AM +02:00, setting type to BUG
+Successfully updated issue #2694
+Processing issue #2690
+Issue #2690: Found last label 'enhancement' at 10/15/2019 1:34:11 PM +02:00, setting type to FEATURE
+Successfully updated issue #2690
+Processing issue #2689
+Issue #2689: Found last label 'enhancement' at 10/15/2019 1:06:24 PM +02:00, setting type to FEATURE
+Successfully updated issue #2689
+Processing issue #2684
+Issue #2684: Found last label 'bug' at 10/11/2019 10:52:44 AM +02:00, setting type to BUG
+Successfully updated issue #2684
+Completed page 32. Total processed so far: 605
+Fetching page 33...
+Page 33: Found 27 issues without type to process
+Processing issue #2681
+Issue #2681: Found last label 'bug' at 10/8/2019 12:41:40 PM +02:00, setting type to BUG
+Successfully updated issue #2681
+Processing issue #2677
+Issue #2677: Found last label 'bug' at 3/21/2020 6:37:28 PM +01:00, setting type to BUG
+Successfully updated issue #2677
+Processing issue #2674
+Issue #2674: Found last label 'bug' at 10/4/2019 2:35:05 PM +02:00, setting type to BUG
+Successfully updated issue #2674
+Processing issue #2670
+Issue #2670: Found last label 'bug' at 10/4/2019 11:54:41 AM +02:00, setting type to BUG
+Successfully updated issue #2670
+Processing issue #2668
+Issue #2668: Found last label 'bug' at 1/27/2020 5:54:46 PM +01:00, setting type to BUG
+Successfully updated issue #2668
+Processing issue #2665
+Issue #2665: Found last label 'bug' at 10/14/2019 12:23:46 PM +02:00, setting type to BUG
+Successfully updated issue #2665
+Processing issue #2662
+Issue #2662: Found last label 'enhancement' at 9/30/2019 7:31:38 PM +02:00, setting type to FEATURE
+Successfully updated issue #2662
+Processing issue #2660
+Issue #2660: Found last label 'bug' at 9/30/2019 4:16:21 PM +02:00, setting type to BUG
+Successfully updated issue #2660
+Processing issue #2656
+Issue #2656: Found last label 'bug' at 9/30/2019 4:16:27 PM +02:00, setting type to BUG
+Successfully updated issue #2656
+Processing issue #2644
+Issue #2644: Found last label 'bug' at 9/30/2019 12:04:28 PM +02:00, setting type to BUG
+Successfully updated issue #2644
+Processing issue #2642
+Issue #2642: Found last label 'bug' at 9/30/2019 3:24:40 PM +02:00, setting type to BUG
+Successfully updated issue #2642
+Processing issue #2655
+Issue #2655: Found last label 'bug' at 9/30/2019 12:13:19 PM +02:00, setting type to BUG
+Successfully updated issue #2655
+Processing issue #2641
+Issue #2641: Found last label 'bug' at 9/26/2019 7:15:55 PM +02:00, setting type to BUG
+Successfully updated issue #2641
+Processing issue #2640
+Issue #2640: Found last label 'enhancement' at 9/26/2019 9:24:44 AM +02:00, setting type to FEATURE
+Successfully updated issue #2640
+Processing issue #2639
+Issue #2639: Found last label 'enhancement' at 9/25/2019 4:07:10 PM +02:00, setting type to FEATURE
+Successfully updated issue #2639
+Processing issue #2638
+Issue #2638: Found last label 'enhancement' at 9/25/2019 4:03:08 PM +02:00, setting type to FEATURE
+Successfully updated issue #2638
+Processing issue #2635
+Issue #2635: Found last label 'bug' at 9/24/2019 9:07:36 PM +02:00, setting type to BUG
+Successfully updated issue #2635
+Processing issue #2626
+Issue #2626: Found last label 'bug' at 9/30/2019 1:34:35 PM +02:00, setting type to BUG
+Successfully updated issue #2626
+Processing issue #2624
+Issue #2624: Found last label 'enhancement' at 9/21/2019 6:06:24 PM +02:00, setting type to FEATURE
+Successfully updated issue #2624
+Processing issue #2623
+Issue #2623: Found last label 'bug' at 10/14/2019 12:17:22 PM +02:00, setting type to BUG
+Successfully updated issue #2623
+Processing issue #2621
+Issue #2621: Found last label 'bug' at 9/16/2019 11:36:28 AM +02:00, setting type to BUG
+Successfully updated issue #2621
+Processing issue #2616
+Issue #2616: Found last label 'bug' at 9/11/2019 10:30:37 AM +02:00, setting type to BUG
+Successfully updated issue #2616
+Processing issue #2615
+Issue #2615: Found last label 'bug' at 9/11/2019 8:29:20 AM +02:00, setting type to BUG
+Successfully updated issue #2615
+Processing issue #2612
+Issue #2612: Found last label 'bug' at 9/8/2019 11:27:29 AM +02:00, setting type to BUG
+Successfully updated issue #2612
+Processing issue #2607
+Issue #2607: Found last label 'bug' at 9/7/2019 9:15:49 AM +02:00, setting type to BUG
+Successfully updated issue #2607
+Processing issue #2597
+Issue #2597: Found last label 'enhancement' at 8/30/2019 6:41:24 PM +02:00, setting type to FEATURE
+Successfully updated issue #2597
+Processing issue #2587
+Issue #2587: Found last label 'enhancement' at 8/26/2019 1:47:42 PM +02:00, setting type to FEATURE
+Successfully updated issue #2587
+Completed page 33. Total processed so far: 632
+Fetching page 34...
+Page 34: Found 22 issues without type to process
+Processing issue #2579
+Issue #2579: Found last label 'bug' at 8/20/2019 11:25:28 AM +02:00, setting type to BUG
+Successfully updated issue #2579
+Processing issue #2576
+Issue #2576: Found last label 'enhancement' at 8/19/2019 3:13:08 PM +02:00, setting type to FEATURE
+Successfully updated issue #2576
+Processing issue #2572
+Issue #2572: Found last label 'enhancement' at 8/15/2019 12:48:07 AM +02:00, setting type to FEATURE
+Successfully updated issue #2572
+Processing issue #2568
+Issue #2568: Found last label 'enhancement' at 8/14/2019 9:14:57 PM +02:00, setting type to FEATURE
+Successfully updated issue #2568
+Processing issue #2564
+Issue #2564: Found last label 'enhancement' at 8/12/2019 11:51:23 PM +02:00, setting type to FEATURE
+Successfully updated issue #2564
+Processing issue #2562
+Issue #2562: Found last label 'bug' at 8/21/2019 10:10:54 AM +02:00, setting type to BUG
+Successfully updated issue #2562
+Processing issue #2560
+Issue #2560: Found last label 'bug' at 8/19/2019 4:06:13 PM +02:00, setting type to BUG
+Successfully updated issue #2560
+Processing issue #2556
+Issue #2556: Found last label 'bug' at 8/7/2019 11:15:47 PM +02:00, setting type to BUG
+Successfully updated issue #2556
+Processing issue #2552
+Issue #2552: Found last label 'bug' at 7/31/2019 6:02:17 AM +02:00, setting type to BUG
+Successfully updated issue #2552
+Processing issue #2546
+Issue #2546: Found last label 'bug' at 7/24/2019 3:21:04 PM +02:00, setting type to BUG
+Successfully updated issue #2546
+Processing issue #2542
+Issue #2542: Found last label 'enhancement' at 7/22/2019 6:42:02 PM +02:00, setting type to FEATURE
+Successfully updated issue #2542
+Processing issue #2540
+Issue #2540: Found last label 'bug' at 7/22/2019 2:40:33 PM +02:00, setting type to BUG
+Successfully updated issue #2540
+Processing issue #2529
+Issue #2529: Found last label 'bug' at 7/16/2019 9:44:31 AM +02:00, setting type to BUG
+Successfully updated issue #2529
+Processing issue #2527
+Issue #2527: Found last label 'enhancement' at 7/15/2019 11:25:02 AM +02:00, setting type to FEATURE
+Successfully updated issue #2527
+Processing issue #2520
+Issue #2520: Found last label 'enhancement' at 7/11/2019 12:18:37 AM +02:00, setting type to FEATURE
+Successfully updated issue #2520
+Processing issue #2506
+Issue #2506: Found last label 'bug' at 6/26/2019 5:20:58 PM +02:00, setting type to BUG
+Successfully updated issue #2506
+Processing issue #2505
+Issue #2505: Found last label 'bug' at 6/26/2019 7:55:26 AM +02:00, setting type to BUG
+Successfully updated issue #2505
+Processing issue #2504
+Issue #2504: Found last label 'enhancement' at 6/21/2019 10:34:53 AM +02:00, setting type to FEATURE
+Successfully updated issue #2504
+Processing issue #2503
+Issue #2503: Found last label 'bug' at 5/21/2020 8:14:01 PM +02:00, setting type to BUG
+Successfully updated issue #2503
+Processing issue #2501
+Issue #2501: Found last label 'enhancement' at 6/24/2019 9:11:28 AM +02:00, setting type to FEATURE
+Successfully updated issue #2501
+Processing issue #2500
+Issue #2500: Found last label 'enhancement' at 6/19/2019 10:10:30 AM +02:00, setting type to FEATURE
+Successfully updated issue #2500
+Processing issue #2495
+Issue #2495: Found last label 'enhancement' at 10/14/2019 11:47:12 AM +02:00, setting type to FEATURE
+Successfully updated issue #2495
+Completed page 34. Total processed so far: 654
+Fetching page 35...
+Page 35: Found 25 issues without type to process
+Processing issue #2485
+Issue #2485: Found last label 'bug' at 5/30/2019 5:56:27 PM +02:00, setting type to BUG
+Successfully updated issue #2485
+Processing issue #2482
+Issue #2482: Found last label 'bug' at 5/23/2019 1:00:55 PM +02:00, setting type to BUG
+Successfully updated issue #2482
+Processing issue #2481
+Issue #2481: Found last label 'enhancement' at 5/22/2019 7:19:56 PM +02:00, setting type to FEATURE
+Successfully updated issue #2481
+Processing issue #2464
+Issue #2464: Found last label 'enhancement' at 5/7/2019 6:31:51 AM +02:00, setting type to FEATURE
+Successfully updated issue #2464
+Processing issue #2459
+Issue #2459: Found last label 'bug' at 5/21/2019 5:41:02 AM +02:00, setting type to BUG
+Successfully updated issue #2459
+Processing issue #2457
+Issue #2457: Found last label 'enhancement' at 10/14/2019 11:33:44 AM +02:00, setting type to FEATURE
+Successfully updated issue #2457
+Processing issue #2448
+Issue #2448: Found last label 'enhancement' at 4/22/2019 3:28:05 PM +02:00, setting type to FEATURE
+Successfully updated issue #2448
+Processing issue #2446
+Issue #2446: Found last label 'enhancement' at 4/18/2019 1:48:03 PM +02:00, setting type to FEATURE
+Successfully updated issue #2446
+Processing issue #2444
+Issue #2444: Found last label 'enhancement' at 4/18/2019 12:25:34 PM +02:00, setting type to FEATURE
+Successfully updated issue #2444
+Processing issue #2442
+Issue #2442: Found last label 'bug' at 4/18/2019 12:28:32 PM +02:00, setting type to BUG
+Successfully updated issue #2442
+Processing issue #2441
+Issue #2441: Found last label 'enhancement' at 4/17/2019 11:06:40 PM +02:00, setting type to FEATURE
+Successfully updated issue #2441
+Processing issue #2439
+Issue #2439: Found last label 'enhancement' at 9/5/2020 8:18:58 PM +02:00, setting type to FEATURE
+Successfully updated issue #2439
+Processing issue #2437
+Issue #2437: Found last label 'enhancement' at 4/24/2019 1:22:21 PM +02:00, setting type to FEATURE
+Successfully updated issue #2437
+Processing issue #2436
+Issue #2436: Found last label 'enhancement' at 4/16/2019 12:41:11 PM +02:00, setting type to FEATURE
+Successfully updated issue #2436
+Processing issue #2435
+Issue #2435: Found last label 'enhancement' at 4/16/2019 11:03:20 AM +02:00, setting type to FEATURE
+Successfully updated issue #2435
+Processing issue #2434
+Issue #2434: Found last label 'enhancement' at 4/15/2019 3:15:42 PM +02:00, setting type to FEATURE
+Successfully updated issue #2434
+Processing issue #2433
+Issue #2433: Found last label 'bug' at 10/14/2019 10:33:09 AM +02:00, setting type to BUG
+Successfully updated issue #2433
+Processing issue #2431
+Issue #2431: Found last label 'bug' at 4/13/2019 1:17:57 PM +02:00, setting type to BUG
+Successfully updated issue #2431
+Processing issue #2429
+Issue #2429: Found last label 'bug' at 4/11/2019 8:01:51 PM +02:00, setting type to BUG
+Successfully updated issue #2429
+Processing issue #2424
+Issue #2424: Found last label 'bug' at 4/8/2019 12:44:12 PM +02:00, setting type to BUG
+Successfully updated issue #2424
+Processing issue #2423
+Issue #2423: Found last label 'bug' at 4/24/2019 1:18:04 PM +02:00, setting type to BUG
+Successfully updated issue #2423
+Processing issue #2422
+Issue #2422: Found last label 'bug' at 4/7/2019 6:04:53 PM +02:00, setting type to BUG
+Successfully updated issue #2422
+Processing issue #2419
+Issue #2419: Found last label 'bug' at 4/7/2019 9:47:54 AM +02:00, setting type to BUG
+Successfully updated issue #2419
+Processing issue #2417
+Issue #2417: Found last label 'bug' at 4/4/2019 12:48:45 PM +02:00, setting type to BUG
+Successfully updated issue #2417
+Processing issue #2415
+Issue #2415: Found last label 'bug' at 4/24/2019 1:18:33 PM +02:00, setting type to BUG
+Successfully updated issue #2415
+Completed page 35. Total processed so far: 679
+Fetching page 36...
+Page 36: Found 14 issues without type to process
+Processing issue #2408
+Issue #2408: Found last label 'bug' at 3/30/2019 2:01:52 PM +01:00, setting type to BUG
+Successfully updated issue #2408
+Processing issue #2406
+Issue #2406: Found last label 'bug' at 3/29/2019 2:23:03 PM +01:00, setting type to BUG
+Successfully updated issue #2406
+Processing issue #2386
+Issue #2386: Found last label 'bug' at 3/22/2019 4:57:37 PM +01:00, setting type to BUG
+Successfully updated issue #2386
+Processing issue #2377
+Issue #2377: Found last label 'enhancement' at 3/20/2019 8:42:31 PM +01:00, setting type to FEATURE
+Successfully updated issue #2377
+Processing issue #2372
+Issue #2372: Found last label 'enhancement' at 4/24/2019 1:23:24 PM +02:00, setting type to FEATURE
+Successfully updated issue #2372
+Processing issue #2371
+Issue #2371: Found last label 'bug' at 10/14/2019 10:27:28 AM +02:00, setting type to BUG
+Successfully updated issue #2371
+Processing issue #2367
+Issue #2367: Found last label 'bug' at 3/15/2019 10:06:00 AM +01:00, setting type to BUG
+Successfully updated issue #2367
+Processing issue #2360
+Issue #2360: Found last label 'bug' at 3/7/2019 4:06:23 PM +01:00, setting type to BUG
+Successfully updated issue #2360
+Processing issue #2358
+Issue #2358: Found last label 'enhancement' at 3/6/2019 8:23:16 PM +01:00, setting type to FEATURE
+Successfully updated issue #2358
+Processing issue #2356
+Issue #2356: Found last label 'bug' at 3/8/2019 1:57:25 PM +01:00, setting type to BUG
+Successfully updated issue #2356
+Processing issue #2355
+Issue #2355: Found last label 'enhancement' at 3/5/2019 7:35:12 AM +01:00, setting type to FEATURE
+Successfully updated issue #2355
+Processing issue #2347
+Issue #2347: Found last label 'enhancement' at 3/1/2019 8:51:05 PM +01:00, setting type to FEATURE
+Successfully updated issue #2347
+Processing issue #2330
+Issue #2330: Found last label 'enhancement' at 2/14/2019 3:10:23 PM +01:00, setting type to FEATURE
+Successfully updated issue #2330
+Processing issue #2329
+Issue #2329: Found last label 'bug' at 2/12/2019 2:43:07 PM +01:00, setting type to BUG
+Successfully updated issue #2329
+Completed page 36. Total processed so far: 693
+Fetching page 37...
+Page 37: Found 17 issues without type to process
+Processing issue #2323
+Issue #2323: Found last label 'bug' at 2/11/2019 2:47:10 PM +01:00, setting type to BUG
+Successfully updated issue #2323
+Processing issue #2321
+Issue #2321: Found last label 'bug' at 2/10/2019 3:00:13 PM +01:00, setting type to BUG
+Successfully updated issue #2321
+Processing issue #2317
+Issue #2317: Found last label 'enhancement' at 2/8/2019 3:54:08 PM +01:00, setting type to FEATURE
+Successfully updated issue #2317
+Processing issue #2306
+Issue #2306: Found last label 'enhancement' at 1/29/2019 6:22:51 PM +01:00, setting type to FEATURE
+Successfully updated issue #2306
+Processing issue #2305
+Issue #2305: Found last label 'enhancement' at 1/29/2019 6:20:25 PM +01:00, setting type to FEATURE
+Successfully updated issue #2305
+Processing issue #2319
+Issue #2319: Found last label 'bug' at 2/9/2019 7:24:07 PM +01:00, setting type to BUG
+Successfully updated issue #2319
+Processing issue #2300
+Issue #2300: Found last label 'bug' at 1/21/2019 11:42:28 PM +01:00, setting type to BUG
+Successfully updated issue #2300
+Processing issue #2296
+Issue #2296: Found last label 'bug' at 1/21/2019 2:14:21 PM +01:00, setting type to BUG
+Successfully updated issue #2296
+Processing issue #2288
+Issue #2288: Found last label 'bug' at 1/11/2019 4:36:45 PM +01:00, setting type to BUG
+Successfully updated issue #2288
+Processing issue #2282
+Issue #2282: Found last label 'enhancement' at 1/4/2019 10:59:30 PM +01:00, setting type to FEATURE
+Successfully updated issue #2282
+Processing issue #2278
+Issue #2278: Found last label 'bug' at 1/20/2019 10:42:24 AM +01:00, setting type to BUG
+Successfully updated issue #2278
+Processing issue #2274
+Issue #2274: Found last label 'bug' at 12/27/2018 6:57:48 AM +01:00, setting type to BUG
+Successfully updated issue #2274
+Processing issue #2267
+Issue #2267: Found last label 'bug' at 12/18/2018 8:17:28 AM +01:00, setting type to BUG
+Successfully updated issue #2267
+Processing issue #2266
+Issue #2266: Found last label 'bug' at 12/17/2018 7:50:31 AM +01:00, setting type to BUG
+Successfully updated issue #2266
+Processing issue #2257
+Issue #2257: Found last label 'bug' at 3/27/2019 4:53:19 AM +01:00, setting type to BUG
+Successfully updated issue #2257
+Processing issue #2244
+Issue #2244: Found last label 'enhancement' at 12/2/2018 8:07:58 AM +01:00, setting type to FEATURE
+Successfully updated issue #2244
+Processing issue #2242
+Issue #2242: Found last label 'bug' at 8/27/2019 10:35:16 AM +02:00, setting type to BUG
+Successfully updated issue #2242
+Completed page 37. Total processed so far: 710
+Fetching page 38...
+Page 38: Found 2 issues without type to process
+Processing issue #2231
+Issue #2231: Found last label 'enhancement' at 11/18/2018 10:24:34 PM +01:00, setting type to FEATURE
+Successfully updated issue #2231
+Processing issue #2178
+Issue #2178: Found last label 'bug' at 5/23/2019 9:32:47 AM +02:00, setting type to BUG
+Successfully updated issue #2178
+Completed page 38. Total processed so far: 712
+Fetching page 39...
+Page 39: Found 10 issues without type to process
+Processing issue #2154
+Issue #2154: Found last label 'enhancement' at 9/13/2018 8:46:43 PM +02:00, setting type to FEATURE
+Successfully updated issue #2154
+Processing issue #2152
+Issue #2152: Found last label 'bug' at 1/9/2019 6:26:59 AM +01:00, setting type to BUG
+Successfully updated issue #2152
+Processing issue #2151
+Issue #2151: Found last label 'enhancement' at 1/2/2021 11:14:55 AM +01:00, setting type to FEATURE
+Successfully updated issue #2151
+Processing issue #2129
+Issue #2129: Found last label 'enhancement' at 8/25/2018 6:02:02 AM +02:00, setting type to FEATURE
+Successfully updated issue #2129
+Processing issue #2121
+Issue #2121: Found last label 'enhancement' at 8/25/2018 6:32:33 PM +02:00, setting type to FEATURE
+Successfully updated issue #2121
+Processing issue #2118
+Issue #2118: Found last label 'enhancement' at 8/17/2018 8:48:27 PM +02:00, setting type to FEATURE
+Successfully updated issue #2118
+Processing issue #2117
+Issue #2117: Found last label 'enhancement' at 8/16/2018 4:37:24 PM +02:00, setting type to FEATURE
+Successfully updated issue #2117
+Processing issue #2112
+Issue #2112: Found last label 'enhancement' at 8/15/2018 9:44:31 PM +02:00, setting type to FEATURE
+Successfully updated issue #2112
+Processing issue #2103
+Issue #2103: Found last label 'enhancement' at 8/8/2018 9:16:13 PM +02:00, setting type to FEATURE
+Successfully updated issue #2103
+Processing issue #2097
+Issue #2097: Found last label 'enhancement' at 8/5/2018 11:18:02 PM +02:00, setting type to FEATURE
+Successfully updated issue #2097
+Completed page 39. Total processed so far: 722
+Fetching page 40...
+Page 40: Found 4 issues without type to process
+Processing issue #2069
+Issue #2069: Found last label 'enhancement' at 7/20/2018 5:32:45 AM +02:00, setting type to FEATURE
+Successfully updated issue #2069
+Processing issue #2035
+Issue #2035: Found last label 'enhancement' at 7/3/2018 9:09:03 PM +02:00, setting type to FEATURE
+Successfully updated issue #2035
+Processing issue #2013
+Issue #2013: Found last label 'enhancement' at 8/26/2019 7:47:29 PM +02:00, setting type to FEATURE
+Successfully updated issue #2013
+Processing issue #2009
+Issue #2009: Found last label 'enhancement' at 10/6/2021 10:35:09 AM +02:00, setting type to FEATURE
+Successfully updated issue #2009
+Completed page 40. Total processed so far: 726
+Fetching page 41...
+Page 41: Found 6 issues without type to process
+Processing issue #1982
+Issue #1982: Found last label 'enhancement' at 6/7/2018 7:52:23 AM +02:00, setting type to FEATURE
+Successfully updated issue #1982
+Processing issue #1942
+Issue #1942: Found last label 'enhancement' at 5/21/2018 5:34:39 PM +02:00, setting type to FEATURE
+Successfully updated issue #1942
+Processing issue #1936
+Issue #1936: Found last label 'enhancement' at 5/17/2018 2:53:07 PM +02:00, setting type to FEATURE
+Successfully updated issue #1936
+Processing issue #1922
+Issue #1922: Found last label 'enhancement' at 5/9/2018 7:53:36 AM +02:00, setting type to FEATURE
+Successfully updated issue #1922
+Processing issue #1921
+Issue #1921: Found last label 'enhancement' at 5/9/2018 10:46:36 PM +02:00, setting type to FEATURE
+Successfully updated issue #1921
+Processing issue #1919
+Issue #1919: Found last label 'enhancement' at 5/7/2018 6:52:59 AM +02:00, setting type to FEATURE
+Successfully updated issue #1919
+Completed page 41. Total processed so far: 732
+Fetching page 42...
+Page 42: Found 6 issues without type to process
+Processing issue #1893
+Issue #1893: Found last label 'enhancement' at 4/21/2018 8:33:35 PM +02:00, setting type to FEATURE
+Successfully updated issue #1893
+Processing issue #1891
+Issue #1891: Found last label 'enhancement' at 4/18/2018 8:00:20 AM +02:00, setting type to FEATURE
+Successfully updated issue #1891
+Processing issue #1886
+Issue #1886: Found last label 'bug' at 6/12/2020 11:53:44 AM +02:00, setting type to BUG
+Successfully updated issue #1886
+Processing issue #1876
+Issue #1876: Found last label 'enhancement' at 4/1/2018 2:34:06 PM +02:00, setting type to FEATURE
+Successfully updated issue #1876
+Processing issue #1874
+Issue #1874: Found last label 'enhancement' at 3/30/2018 7:05:46 AM +02:00, setting type to FEATURE
+Successfully updated issue #1874
+Processing issue #1862
+Issue #1862: Found last label 'bug' at 10/14/2019 9:59:34 AM +02:00, setting type to BUG
+Successfully updated issue #1862
+Completed page 42. Total processed so far: 738
+Fetching page 43...
+Page 43: Found 6 issues without type to process
+Processing issue #1828
+Issue #1828: Found last label 'bug' at 3/6/2018 2:54:14 PM +01:00, setting type to BUG
+Successfully updated issue #1828
+Processing issue #1827
+Issue #1827: Found last label 'bug' at 3/4/2018 7:06:53 PM +01:00, setting type to BUG
+Successfully updated issue #1827
+Processing issue #1815
+Issue #1815: Found last label 'bug' at 3/5/2018 4:15:46 AM +01:00, setting type to BUG
+Successfully updated issue #1815
+Processing issue #1812
+Issue #1812: Found last label 'bug' at 3/8/2018 7:25:22 PM +01:00, setting type to BUG
+Successfully updated issue #1812
+Processing issue #1788
+Issue #1788: Found last label 'bug' at 2/5/2018 12:14:17 AM +01:00, setting type to BUG
+Successfully updated issue #1788
+Processing issue #1776
+Issue #1776: Found last label 'bug' at 5/26/2020 8:53:38 AM +02:00, setting type to BUG
+Successfully updated issue #1776
+Completed page 43. Total processed so far: 744
+Fetching page 44...
+Page 44: Found 7 issues without type to process
+Processing issue #1760
+Issue #1760: Found last label 'bug' at 12/21/2017 6:57:40 PM +01:00, setting type to BUG
+Successfully updated issue #1760
+Processing issue #1756
+Issue #1756: Found last label 'bug' at 10/14/2019 9:59:03 AM +02:00, setting type to BUG
+Successfully updated issue #1756
+Processing issue #1739
+Issue #1739: Found last label 'bug' at 12/4/2017 4:07:08 PM +01:00, setting type to BUG
+Successfully updated issue #1739
+Processing issue #1737
+Issue #1737: Found last label 'bug' at 12/3/2017 4:50:44 AM +01:00, setting type to BUG
+Successfully updated issue #1737
+Processing issue #1736
+Issue #1736: Found last label 'bug' at 12/2/2017 5:00:03 AM +01:00, setting type to BUG
+Successfully updated issue #1736
+Processing issue #1730
+Issue #1730: Found last label 'bug' at 11/28/2017 7:31:47 PM +01:00, setting type to BUG
+Successfully updated issue #1730
+Processing issue #1718
+Issue #1718: Found last label 'bug' at 11/20/2017 7:16:38 PM +01:00, setting type to BUG
+Successfully updated issue #1718
+Completed page 44. Total processed so far: 751
+Fetching page 45...
+Page 45: Found 10 issues without type to process
+Processing issue #1700
+Issue #1700: Found last label 'bug' at 11/12/2017 10:38:31 AM +01:00, setting type to BUG
+Successfully updated issue #1700
+Processing issue #1695
+Issue #1695: Found last label 'bug' at 10/29/2017 1:17:20 PM +01:00, setting type to BUG
+Successfully updated issue #1695
+Processing issue #1693
+Issue #1693: Found last label 'bug' at 10/27/2017 12:58:44 PM +02:00, setting type to BUG
+Successfully updated issue #1693
+Processing issue #1684
+Issue #1684: Found last label 'bug' at 10/25/2017 4:37:24 AM +02:00, setting type to BUG
+Successfully updated issue #1684
+Processing issue #1677
+Issue #1677: Found last label 'enhancement' at 2/12/2019 12:15:47 AM +01:00, setting type to FEATURE
+Successfully updated issue #1677
+Processing issue #1676
+Issue #1676: Found last label 'bug' at 10/8/2017 10:17:51 AM +02:00, setting type to BUG
+Successfully updated issue #1676
+Processing issue #1673
+Issue #1673: Found last label 'bug' at 10/8/2017 10:54:40 AM +02:00, setting type to BUG
+Successfully updated issue #1673
+Processing issue #1661
+Issue #1661: Found last label 'bug' at 8/11/2017 7:42:02 PM +02:00, setting type to BUG
+Successfully updated issue #1661
+Processing issue #1657
+Issue #1657: Found last label 'bug' at 8/13/2017 2:16:02 PM +02:00, setting type to BUG
+Successfully updated issue #1657
+Processing issue #1645
+Issue #1645: Found last label 'bug' at 7/19/2017 9:43:35 PM +02:00, setting type to BUG
+Successfully updated issue #1645
+Completed page 45. Total processed so far: 761
+Fetching page 46...
+Page 46: Found 13 issues without type to process
+Processing issue #1636
+Issue #1636: Found last label 'bug' at 7/11/2017 3:35:38 PM +02:00, setting type to BUG
+Successfully updated issue #1636
+Processing issue #1627
+Issue #1627: Found last label 'bug' at 6/29/2017 8:15:14 AM +02:00, setting type to BUG
+Successfully updated issue #1627
+Processing issue #1618
+Issue #1618: Found last label 'bug' at 6/24/2017 6:43:24 AM +02:00, setting type to BUG
+Successfully updated issue #1618
+Processing issue #1614
+Issue #1614: Found last label 'bug' at 6/21/2017 1:13:31 PM +02:00, setting type to BUG
+Successfully updated issue #1614
+Processing issue #1612
+Issue #1612: Found last label 'bug' at 6/20/2017 10:00:53 AM +02:00, setting type to BUG
+Successfully updated issue #1612
+Processing issue #1608
+Issue #1608: Found last label 'bug' at 6/21/2017 1:45:36 PM +02:00, setting type to BUG
+Successfully updated issue #1608
+Processing issue #1604
+Issue #1604: Found last label 'bug' at 6/15/2017 4:00:21 PM +02:00, setting type to BUG
+Successfully updated issue #1604
+Processing issue #1599
+Issue #1599: Found last label 'bug' at 6/13/2017 10:35:54 PM +02:00, setting type to BUG
+Successfully updated issue #1599
+Processing issue #1597
+Issue #1597: Found last label 'bug' at 6/11/2017 10:27:05 AM +02:00, setting type to BUG
+Successfully updated issue #1597
+Processing issue #1594
+Issue #1594: Found last label 'bug' at 6/7/2017 7:07:10 AM +02:00, setting type to BUG
+Successfully updated issue #1594
+Processing issue #1593
+Issue #1593: Found last label 'bug' at 6/8/2017 2:15:50 PM +02:00, setting type to BUG
+Successfully updated issue #1593
+Processing issue #1588
+Issue #1588: Found last label 'bug' at 6/1/2017 9:17:20 AM +02:00, setting type to BUG
+Successfully updated issue #1588
+Processing issue #1585
+Issue #1585: Found last label 'bug' at 5/31/2017 9:11:17 AM +02:00, setting type to BUG
+Successfully updated issue #1585
+Completed page 46. Total processed so far: 774
+Fetching page 47...
+Page 47: Found 10 issues without type to process
+Processing issue #1579
+Issue #1579: Found last label 'bug' at 5/24/2017 9:11:23 AM +02:00, setting type to BUG
+Successfully updated issue #1579
+Processing issue #1578
+Issue #1578: Found last label 'bug' at 5/24/2017 9:08:25 AM +02:00, setting type to BUG
+Successfully updated issue #1578
+Processing issue #1571
+Issue #1571: Found last label 'bug' at 6/15/2017 9:05:01 AM +02:00, setting type to BUG
+Successfully updated issue #1571
+Processing issue #1569
+Issue #1569: Found last label 'bug' at 5/21/2017 9:39:57 AM +02:00, setting type to BUG
+Successfully updated issue #1569
+Processing issue #1568
+Issue #1568: Found last label 'bug' at 5/21/2017 7:35:33 AM +02:00, setting type to BUG
+Successfully updated issue #1568
+Processing issue #1558
+Issue #1558: Found last label 'bug' at 5/17/2017 8:27:19 PM +02:00, setting type to BUG
+Successfully updated issue #1558
+Processing issue #1557
+Issue #1557: Found last label 'bug' at 5/20/2017 1:51:07 PM +02:00, setting type to BUG
+Successfully updated issue #1557
+Processing issue #1553
+Issue #1553: Found last label 'bug' at 5/21/2017 9:45:08 AM +02:00, setting type to BUG
+Successfully updated issue #1553
+Processing issue #1546
+Issue #1546: Found last label 'bug' at 5/20/2017 3:29:51 PM +02:00, setting type to BUG
+Successfully updated issue #1546
+Processing issue #1541
+Issue #1541: Found last label 'bug' at 4/30/2017 6:44:35 AM +02:00, setting type to BUG
+Successfully updated issue #1541
+Completed page 47. Total processed so far: 784
+Fetching page 48...
+Page 48: Found 13 issues without type to process
+Processing issue #1515
+Issue #1515: Found last label 'bug' at 4/9/2017 9:28:31 AM +02:00, setting type to BUG
+Successfully updated issue #1515
+Processing issue #1503
+Issue #1503: Found last label 'bug' at 3/20/2017 4:43:31 PM +01:00, setting type to BUG
+Successfully updated issue #1503
+Processing issue #1501
+Issue #1501: Found last label 'bug' at 3/19/2017 9:40:01 AM +01:00, setting type to BUG
+Successfully updated issue #1501
+Processing issue #1499
+Issue #1499: Found last label 'bug' at 3/19/2017 9:15:01 AM +01:00, setting type to BUG
+Successfully updated issue #1499
+Processing issue #1497
+Issue #1497: Found last label 'bug' at 4/30/2017 3:42:52 PM +02:00, setting type to BUG
+Successfully updated issue #1497
+Processing issue #1496
+Issue #1496: Found last label 'bug' at 3/25/2017 1:25:46 AM +01:00, setting type to BUG
+Successfully updated issue #1496
+Processing issue #1491
+Issue #1491: Found last label 'bug' at 3/14/2017 3:47:30 PM +01:00, setting type to BUG
+Successfully updated issue #1491
+Processing issue #1490
+Issue #1490: Found last label 'bug' at 3/16/2017 9:17:03 PM +01:00, setting type to BUG
+Successfully updated issue #1490
+Processing issue #1485
+Issue #1485: Found last label 'bug' at 3/9/2017 8:21:54 AM +01:00, setting type to BUG
+Successfully updated issue #1485
+Processing issue #1480
+Issue #1480: Found last label 'bug' at 3/6/2017 8:44:49 PM +01:00, setting type to BUG
+Successfully updated issue #1480
+Processing issue #1478
+Issue #1478: Found last label 'bug' at 3/7/2017 7:53:58 AM +01:00, setting type to BUG
+Successfully updated issue #1478
+Processing issue #1465
+Issue #1465: Found last label 'bug' at 3/1/2017 3:19:04 PM +01:00, setting type to BUG
+Successfully updated issue #1465
+Processing issue #1462
+Issue #1462: Found last label 'bug' at 2/28/2017 2:11:54 PM +01:00, setting type to BUG
+Successfully updated issue #1462
+Completed page 48. Total processed so far: 797
+Fetching page 49...
+Page 49: Found 17 issues without type to process
+Processing issue #1456
+Issue #1456: Found last label 'bug' at 3/1/2017 3:58:56 PM +01:00, setting type to BUG
+Successfully updated issue #1456
+Processing issue #1454
+Issue #1454: Found last label 'bug' at 2/28/2017 1:28:19 PM +01:00, setting type to BUG
+Successfully updated issue #1454
+Processing issue #1450
+Issue #1450: Found last label 'bug' at 2/19/2017 5:59:45 PM +01:00, setting type to BUG
+Successfully updated issue #1450
+Processing issue #1446
+Issue #1446: Found last label 'bug' at 2/28/2017 1:45:25 PM +01:00, setting type to BUG
+Successfully updated issue #1446
+Processing issue #1445
+Issue #1445: Found last label 'bug' at 2/15/2017 7:50:26 AM +01:00, setting type to BUG
+Successfully updated issue #1445
+Processing issue #1440
+Issue #1440: Found last label 'bug' at 2/14/2017 1:23:49 PM +01:00, setting type to BUG
+Successfully updated issue #1440
+Processing issue #1431
+Issue #1431: Found last label 'bug' at 2/6/2017 10:05:44 PM +01:00, setting type to BUG
+Successfully updated issue #1431
+Processing issue #1429
+Issue #1429: Found last label 'bug' at 2/5/2017 10:22:10 PM +01:00, setting type to BUG
+Successfully updated issue #1429
+Processing issue #1428
+Issue #1428: Found last label 'bug' at 2/10/2017 1:42:06 PM +01:00, setting type to BUG
+Successfully updated issue #1428
+Processing issue #1426
+Issue #1426: Found last label 'bug' at 2/4/2017 7:47:08 PM +01:00, setting type to BUG
+Successfully updated issue #1426
+Processing issue #1425
+Issue #1425: Found last label 'bug' at 2/2/2017 8:39:31 AM +01:00, setting type to BUG
+Successfully updated issue #1425
+Processing issue #1424
+Issue #1424: Found last label 'bug' at 2/2/2017 8:33:55 AM +01:00, setting type to BUG
+Successfully updated issue #1424
+Processing issue #1420
+Issue #1420: Found last label 'bug' at 1/31/2017 1:54:34 PM +01:00, setting type to BUG
+Successfully updated issue #1420
+Processing issue #1418
+Issue #1418: Found last label 'bug' at 1/30/2017 11:24:58 AM +01:00, setting type to BUG
+Successfully updated issue #1418
+Processing issue #1417
+Issue #1417: Found last label 'bug' at 1/27/2017 10:38:37 AM +01:00, setting type to BUG
+Successfully updated issue #1417
+Processing issue #1412
+Issue #1412: Found last label 'bug' at 1/25/2017 6:47:24 PM +01:00, setting type to BUG
+Successfully updated issue #1412
+Processing issue #1408
+Issue #1408: Found last label 'bug' at 1/21/2017 11:19:25 AM +01:00, setting type to BUG
+Successfully updated issue #1408
+Completed page 49. Total processed so far: 814
+Fetching page 50...
+Page 50: Found 8 issues without type to process
+Processing issue #1398
+Issue #1398: Found last label 'bug' at 1/22/2017 1:28:55 PM +01:00, setting type to BUG
+Successfully updated issue #1398
+Processing issue #1392
+Issue #1392: Found last label 'bug' at 1/5/2017 9:46:05 PM +01:00, setting type to BUG
+Successfully updated issue #1392
+Processing issue #1381
+Issue #1381: Found last label 'bug' at 12/16/2016 8:48:55 AM +01:00, setting type to BUG
+Successfully updated issue #1381
+Processing issue #1374
+Issue #1374: Found last label 'bug' at 12/7/2016 8:52:14 AM +01:00, setting type to BUG
+Successfully updated issue #1374
+Processing issue #1373
+Issue #1373: Found last label 'bug' at 2/2/2017 9:04:14 AM +01:00, setting type to BUG
+Successfully updated issue #1373
+Processing issue #1365
+Issue #1365: Found last label 'bug' at 11/20/2016 8:34:10 AM +01:00, setting type to BUG
+Successfully updated issue #1365
+Processing issue #1364
+Issue #1364: Found last label 'bug' at 11/17/2016 8:45:57 AM +01:00, setting type to BUG
+Successfully updated issue #1364
+Processing issue #1362
+Issue #1362: Found last label 'bug' at 11/17/2016 8:34:10 AM +01:00, setting type to BUG
+Successfully updated issue #1362
+Completed page 50. Total processed so far: 822
+Fetching page 51...
+Page 51: Found 13 issues without type to process
+Processing issue #1350
+Issue #1350: Found last label 'bug' at 11/4/2016 11:07:19 PM +01:00, setting type to BUG
+Successfully updated issue #1350
+Processing issue #1346
+Issue #1346: Found last label 'bug' at 10/30/2016 4:39:07 PM +01:00, setting type to BUG
+Successfully updated issue #1346
+Processing issue #1343
+Issue #1343: Found last label 'bug' at 10/30/2016 4:22:45 PM +01:00, setting type to BUG
+Successfully updated issue #1343
+Processing issue #1334
+Issue #1334: Found last label 'bug' at 10/21/2016 10:13:04 PM +02:00, setting type to BUG
+Successfully updated issue #1334
+Processing issue #1331
+Issue #1331: Found last label 'bug' at 10/19/2016 6:30:00 AM +02:00, setting type to BUG
+Successfully updated issue #1331
+Processing issue #1330
+Issue #1330: Found last label 'bug' at 10/19/2016 6:13:10 AM +02:00, setting type to BUG
+Successfully updated issue #1330
+Processing issue #1327
+Issue #1327: Found last label 'bug' at 10/17/2016 7:14:13 PM +02:00, setting type to BUG
+Successfully updated issue #1327
+Processing issue #1325
+Issue #1325: Found last label 'bug' at 10/16/2016 11:45:50 PM +02:00, setting type to BUG
+Successfully updated issue #1325
+Processing issue #1320
+Issue #1320: Found last label 'bug' at 2/1/2017 3:32:26 PM +01:00, setting type to BUG
+Successfully updated issue #1320
+Processing issue #1306
+Issue #1306: Found last label 'bug' at 10/18/2016 3:35:08 PM +02:00, setting type to BUG
+Successfully updated issue #1306
+Processing issue #1305
+Issue #1305: Found last label 'bug' at 10/18/2016 4:51:47 PM +02:00, setting type to BUG
+Successfully updated issue #1305
+Processing issue #1303
+Issue #1303: Found last label 'bug' at 9/27/2016 3:58:37 PM +02:00, setting type to BUG
+Successfully updated issue #1303
+Processing issue #1300
+Issue #1300: Found last label 'enhancement' at 11/15/2018 4:54:35 PM +01:00, setting type to FEATURE
+Successfully updated issue #1300
+Completed page 51. Total processed so far: 835
+Fetching page 52...
+Page 52: Found 12 issues without type to process
+Processing issue #1285
+Issue #1285: Found last label 'bug' at 9/19/2016 12:07:45 PM +02:00, setting type to BUG
+Successfully updated issue #1285
+Processing issue #1284
+Issue #1284: Found last label 'bug' at 1/16/2019 4:32:43 PM +01:00, setting type to BUG
+Successfully updated issue #1284
+Processing issue #1275
+Issue #1275: Found last label 'bug' at 9/11/2016 8:16:29 AM +02:00, setting type to BUG
+Successfully updated issue #1275
+Processing issue #1267
+Issue #1267: Found last label 'bug' at 9/7/2016 7:25:43 AM +02:00, setting type to BUG
+Successfully updated issue #1267
+Processing issue #1265
+Issue #1265: Found last label 'bug' at 9/6/2016 2:05:23 PM +02:00, setting type to BUG
+Successfully updated issue #1265
+Processing issue #1262
+Issue #1262: Found last label 'bug' at 9/1/2016 10:12:49 AM +02:00, setting type to BUG
+Successfully updated issue #1262
+Processing issue #1260
+Issue #1260: Found last label 'bug' at 8/29/2016 5:18:40 PM +02:00, setting type to BUG
+Successfully updated issue #1260
+Processing issue #1256
+Issue #1256: Found last label 'bug' at 8/29/2016 10:22:50 AM +02:00, setting type to BUG
+Successfully updated issue #1256
+Processing issue #1255
+Issue #1255: Found last label 'bug' at 8/29/2016 12:10:30 AM +02:00, setting type to BUG
+Successfully updated issue #1255
+Processing issue #1240
+Issue #1240: Found last label 'bug' at 9/15/2016 9:56:08 AM +02:00, setting type to BUG
+Successfully updated issue #1240
+Processing issue #1238
+Issue #1238: Found last label 'bug' at 8/13/2016 6:13:30 PM +02:00, setting type to BUG
+Successfully updated issue #1238
+Processing issue #1234
+Issue #1234: Found last label 'bug' at 8/6/2016 10:33:03 AM +02:00, setting type to BUG
+Successfully updated issue #1234
+Completed page 52. Total processed so far: 847
+Fetching page 53...
+Page 53: Found 20 issues without type to process
+Processing issue #1232
+Issue #1232: Found last label 'bug' at 8/26/2016 12:13:21 PM +02:00, setting type to BUG
+Successfully updated issue #1232
+Processing issue #1228
+Issue #1228: Found last label 'bug' at 8/1/2016 6:59:44 PM +02:00, setting type to BUG
+Successfully updated issue #1228
+Processing issue #1226
+Issue #1226: Found last label 'bug' at 3/9/2018 7:16:58 AM +01:00, setting type to BUG
+Successfully updated issue #1226
+Processing issue #1217
+Issue #1217: Found last label 'bug' at 7/29/2016 2:10:01 PM +02:00, setting type to BUG
+Successfully updated issue #1217
+Processing issue #1214
+Issue #1214: Found last label 'bug' at 7/27/2016 4:21:01 PM +02:00, setting type to BUG
+Successfully updated issue #1214
+Processing issue #1212
+Issue #1212: Found last label 'bug' at 7/28/2016 9:19:27 AM +02:00, setting type to BUG
+Successfully updated issue #1212
+Processing issue #1210
+Issue #1210: Found last label 'bug' at 7/24/2016 7:24:30 PM +02:00, setting type to BUG
+Successfully updated issue #1210
+Processing issue #1209
+Issue #1209: Found last label 'bug' at 7/24/2016 6:25:47 PM +02:00, setting type to BUG
+Successfully updated issue #1209
+Processing issue #1208
+Issue #1208: Found last label 'bug' at 7/22/2016 1:42:19 PM +02:00, setting type to BUG
+Successfully updated issue #1208
+Processing issue #1207
+Issue #1207: Found last label 'bug' at 7/18/2016 10:54:21 PM +02:00, setting type to BUG
+Successfully updated issue #1207
+Processing issue #1206
+Issue #1206: Found last label 'bug' at 7/17/2016 8:30:00 PM +02:00, setting type to BUG
+Successfully updated issue #1206
+Processing issue #1203
+Issue #1203: Found last label 'bug' at 7/16/2016 6:56:30 PM +02:00, setting type to BUG
+Successfully updated issue #1203
+Processing issue #1199
+Issue #1199: Found last label 'bug' at 7/12/2016 10:19:44 PM +02:00, setting type to BUG
+Successfully updated issue #1199
+Processing issue #1197
+Issue #1197: Found last label 'bug' at 9/15/2016 10:04:34 AM +02:00, setting type to BUG
+Successfully updated issue #1197
+Processing issue #1194
+Issue #1194: Found last label 'bug' at 7/10/2016 11:52:26 PM +02:00, setting type to BUG
+Successfully updated issue #1194
+Processing issue #1188
+Issue #1188: Found last label 'bug' at 7/4/2016 9:48:46 PM +02:00, setting type to BUG
+Successfully updated issue #1188
+Processing issue #1185
+Issue #1185: Found last label 'bug' at 7/3/2016 2:39:41 PM +02:00, setting type to BUG
+Successfully updated issue #1185
+Processing issue #1182
+Issue #1182: Found last label 'bug' at 6/28/2016 7:15:04 PM +02:00, setting type to BUG
+Successfully updated issue #1182
+Processing issue #1180
+Issue #1180: Found last label 'bug' at 6/26/2016 5:37:05 PM +02:00, setting type to BUG
+Successfully updated issue #1180
+Processing issue #1177
+Issue #1177: Found last label 'bug' at 6/23/2016 7:19:27 AM +02:00, setting type to BUG
+Successfully updated issue #1177
+Completed page 53. Total processed so far: 867
+Fetching page 54...
+Page 54: Found 21 issues without type to process
+Processing issue #1168
+Issue #1168: Found last label 'bug' at 6/16/2016 5:46:00 PM +02:00, setting type to BUG
+Successfully updated issue #1168
+Processing issue #1163
+Issue #1163: Found last label 'bug' at 12/11/2016 10:36:02 AM +01:00, setting type to BUG
+Successfully updated issue #1163
+Processing issue #1161
+Issue #1161: Found last label 'bug' at 7/2/2016 2:18:41 PM +02:00, setting type to BUG
+Successfully updated issue #1161
+Processing issue #1158
+Issue #1158: Found last label 'bug' at 7/19/2016 8:15:36 PM +02:00, setting type to BUG
+Successfully updated issue #1158
+Processing issue #1155
+Issue #1155: Found last label 'bug' at 6/9/2016 10:20:48 AM +02:00, setting type to BUG
+Successfully updated issue #1155
+Processing issue #1151
+Issue #1151: Found last label 'bug' at 6/8/2016 8:41:15 AM +02:00, setting type to BUG
+Successfully updated issue #1151
+Processing issue #1147
+Issue #1147: Found last label 'bug' at 6/7/2016 5:44:27 AM +02:00, setting type to BUG
+Successfully updated issue #1147
+Processing issue #1146
+Issue #1146: Found last label 'bug' at 11/6/2017 8:54:34 AM +01:00, setting type to BUG
+Successfully updated issue #1146
+Processing issue #1143
+Issue #1143: Found last label 'bug' at 6/4/2016 9:06:27 AM +02:00, setting type to BUG
+Successfully updated issue #1143
+Processing issue #1142
+Issue #1142: Found last label 'bug' at 6/4/2016 8:56:23 AM +02:00, setting type to BUG
+Successfully updated issue #1142
+Processing issue #1141
+Issue #1141: Found last label 'bug' at 6/2/2016 8:23:40 AM +02:00, setting type to BUG
+Successfully updated issue #1141
+Processing issue #1139
+Issue #1139: Found last label 'bug' at 6/1/2016 6:33:59 AM +02:00, setting type to BUG
+Successfully updated issue #1139
+Processing issue #1136
+Issue #1136: Found last label 'bug' at 5/29/2016 10:30:07 PM +02:00, setting type to BUG
+Successfully updated issue #1136
+Processing issue #1135
+Issue #1135: Found last label 'bug' at 5/29/2016 6:31:02 AM +02:00, setting type to BUG
+Successfully updated issue #1135
+Processing issue #1134
+Issue #1134: Found last label 'bug' at 5/29/2016 5:56:27 AM +02:00, setting type to BUG
+Successfully updated issue #1134
+Processing issue #1131
+Issue #1131: Found last label 'bug' at 5/27/2016 9:49:42 AM +02:00, setting type to BUG
+Successfully updated issue #1131
+Processing issue #1130
+Issue #1130: Found last label 'bug' at 5/27/2016 11:56:06 AM +02:00, setting type to BUG
+Successfully updated issue #1130
+Processing issue #1125
+Issue #1125: Found last label 'bug' at 5/25/2016 3:07:02 PM +02:00, setting type to BUG
+Successfully updated issue #1125
+Processing issue #1124
+Issue #1124: Found last label 'bug' at 5/25/2016 1:54:59 PM +02:00, setting type to BUG
+Successfully updated issue #1124
+Processing issue #1118
+Issue #1118: Found last label 'bug' at 5/24/2016 7:28:51 PM +02:00, setting type to BUG
+Successfully updated issue #1118
+Processing issue #1117
+Issue #1117: Found last label 'bug' at 5/24/2016 1:01:20 PM +02:00, setting type to BUG
+Successfully updated issue #1117
+Completed page 54. Total processed so far: 888
+Fetching page 55...
+Page 55: Found 20 issues without type to process
+Processing issue #1110
+Issue #1110: Found last label 'bug' at 5/21/2016 4:45:25 PM +02:00, setting type to BUG
+Successfully updated issue #1110
+Processing issue #1108
+Issue #1108: Found last label 'bug' at 5/21/2016 5:35:06 AM +02:00, setting type to BUG
+Successfully updated issue #1108
+Processing issue #1105
+Issue #1105: Found last label 'bug' at 5/19/2016 1:48:35 PM +02:00, setting type to BUG
+Successfully updated issue #1105
+Processing issue #1100
+Issue #1100: Found last label 'bug' at 5/17/2016 7:06:07 PM +02:00, setting type to BUG
+Successfully updated issue #1100
+Processing issue #1099
+Issue #1099: Found last label 'bug' at 5/17/2016 6:48:56 PM +02:00, setting type to BUG
+Successfully updated issue #1099
+Processing issue #1096
+Issue #1096: Found last label 'bug' at 5/17/2016 1:38:15 PM +02:00, setting type to BUG
+Successfully updated issue #1096
+Processing issue #1095
+Issue #1095: Found last label 'bug' at 5/17/2016 1:50:00 PM +02:00, setting type to BUG
+Successfully updated issue #1095
+Processing issue #1093
+Issue #1093: Found last label 'bug' at 5/17/2016 10:17:31 AM +02:00, setting type to BUG
+Successfully updated issue #1093
+Processing issue #1092
+Issue #1092: Found last label 'bug' at 5/17/2016 9:54:47 AM +02:00, setting type to BUG
+Successfully updated issue #1092
+Processing issue #1089
+Issue #1089: Found last label 'bug' at 5/16/2016 8:35:10 PM +02:00, setting type to BUG
+Successfully updated issue #1089
+Processing issue #1088
+Issue #1088: Found last label 'bug' at 5/14/2016 4:42:03 PM +02:00, setting type to BUG
+Successfully updated issue #1088
+Processing issue #1086
+Issue #1086: Found last label 'bug' at 5/13/2016 7:30:08 AM +02:00, setting type to BUG
+Successfully updated issue #1086
+Processing issue #1080
+Issue #1080: Found last label 'bug' at 5/11/2016 12:29:48 PM +02:00, setting type to BUG
+Successfully updated issue #1080
+Processing issue #1076
+Issue #1076: Found last label 'bug' at 5/9/2016 5:19:15 AM +02:00, setting type to BUG
+Successfully updated issue #1076
+Processing issue #1075
+Issue #1075: Found last label 'bug' at 5/9/2016 5:07:20 AM +02:00, setting type to BUG
+Successfully updated issue #1075
+Processing issue #1074
+Issue #1074: Found last label 'bug' at 5/8/2016 8:41:51 PM +02:00, setting type to BUG
+Successfully updated issue #1074
+Processing issue #1069
+Issue #1069: Found last label 'bug' at 7/20/2016 5:54:52 PM +02:00, setting type to BUG
+Successfully updated issue #1069
+Processing issue #1068
+Issue #1068: Found last label 'bug' at 5/5/2016 9:55:41 AM +02:00, setting type to BUG
+Successfully updated issue #1068
+Processing issue #1064
+Issue #1064: Found last label 'bug' at 5/9/2016 8:15:36 AM +02:00, setting type to BUG
+Successfully updated issue #1064
+Processing issue #1060
+Issue #1060: Found last label 'bug' at 5/3/2016 6:34:46 PM +02:00, setting type to BUG
+Successfully updated issue #1060
+Completed page 55. Total processed so far: 908
+Fetching page 56...
+Page 56: Found 19 issues without type to process
+Processing issue #1056
+Issue #1056: Found last label 'bug' at 5/3/2016 6:25:04 AM +02:00, setting type to BUG
+Successfully updated issue #1056
+Processing issue #1050
+Issue #1050: Found last label 'bug' at 4/27/2016 6:25:23 AM +02:00, setting type to BUG
+Successfully updated issue #1050
+Processing issue #1047
+Issue #1047: Found last label 'bug' at 4/27/2016 1:36:07 PM +02:00, setting type to BUG
+Successfully updated issue #1047
+Processing issue #1046
+Issue #1046: Found last label 'bug' at 4/27/2016 3:25:45 PM +02:00, setting type to BUG
+Successfully updated issue #1046
+Processing issue #1044
+Issue #1044: Found last label 'bug' at 5/8/2016 2:46:34 PM +02:00, setting type to BUG
+Successfully updated issue #1044
+Processing issue #1043
+Issue #1043: Found last label 'bug' at 4/24/2016 1:17:01 PM +02:00, setting type to BUG
+Successfully updated issue #1043
+Processing issue #1038
+Issue #1038: Found last label 'bug' at 5/8/2016 2:44:48 PM +02:00, setting type to BUG
+Successfully updated issue #1038
+Processing issue #1034
+Issue #1034: Found last label 'bug' at 4/20/2016 4:15:03 PM +02:00, setting type to BUG
+Successfully updated issue #1034
+Processing issue #1032
+Issue #1032: Found last label 'bug' at 4/19/2016 6:58:41 AM +02:00, setting type to BUG
+Successfully updated issue #1032
+Processing issue #1027
+Issue #1027: Found last label 'bug' at 4/14/2016 9:05:46 AM +02:00, setting type to BUG
+Successfully updated issue #1027
+Processing issue #1022
+Issue #1022: Found last label 'bug' at 4/11/2016 5:59:30 AM +02:00, setting type to BUG
+Successfully updated issue #1022
+Processing issue #1020
+Issue #1020: Found last label 'bug' at 4/10/2016 8:39:41 AM +02:00, setting type to BUG
+Successfully updated issue #1020
+Processing issue #1019
+Issue #1019: Found last label 'bug' at 4/10/2016 8:27:36 AM +02:00, setting type to BUG
+Successfully updated issue #1019
+Processing issue #1017
+Issue #1017: Found last label 'bug' at 4/26/2016 5:26:30 PM +02:00, setting type to BUG
+Successfully updated issue #1017
+Processing issue #1013
+Issue #1013: Found last label 'bug' at 4/8/2016 8:19:19 PM +02:00, setting type to BUG
+Successfully updated issue #1013
+Processing issue #1010
+Issue #1010: Found last label 'bug' at 3/31/2016 9:32:24 AM +02:00, setting type to BUG
+Successfully updated issue #1010
+Processing issue #1004
+Issue #1004: Found last label 'bug' at 5/8/2016 2:37:49 PM +02:00, setting type to BUG
+Successfully updated issue #1004
+Processing issue #994
+Issue #994: Found last label 'bug' at 3/20/2016 1:17:00 PM +01:00, setting type to BUG
+Successfully updated issue #994
+Processing issue #990
+Issue #990: Found last label 'bug' at 5/8/2016 2:23:57 PM +02:00, setting type to BUG
+Successfully updated issue #990
+Completed page 56. Total processed so far: 927
+Fetching page 57...
+Page 57: Found 13 issues without type to process
+Processing issue #987
+Issue #987: Found last label 'bug' at 3/31/2016 3:59:48 PM +02:00, setting type to BUG
+Successfully updated issue #987
+Processing issue #979
+Issue #979: Found last label 'bug' at 3/21/2016 2:53:03 PM +01:00, setting type to BUG
+Successfully updated issue #979
+Processing issue #977
+Issue #977: Found last label 'bug' at 3/30/2016 6:16:41 PM +02:00, setting type to BUG
+Successfully updated issue #977
+Processing issue #972
+Issue #972: Found last label 'bug' at 5/8/2016 2:15:43 PM +02:00, setting type to BUG
+Successfully updated issue #972
+Processing issue #964
+Issue #964: Found last label 'bug' at 5/8/2016 2:11:48 PM +02:00, setting type to BUG
+Successfully updated issue #964
+Processing issue #962
+Issue #962: Found last label 'bug' at 5/8/2016 2:01:43 PM +02:00, setting type to BUG
+Successfully updated issue #962
+Processing issue #960
+Issue #960: Found last label 'bug' at 4/2/2016 9:40:03 AM +02:00, setting type to BUG
+Successfully updated issue #960
+Processing issue #949
+Issue #949: Found last label 'bug' at 3/21/2016 2:47:04 PM +01:00, setting type to BUG
+Successfully updated issue #949
+Processing issue #946
+Issue #946: Found last label 'bug' at 4/2/2016 9:38:08 AM +02:00, setting type to BUG
+Successfully updated issue #946
+Processing issue #945
+Issue #945: Found last label 'bug' at 5/4/2016 7:29:11 AM +02:00, setting type to BUG
+Successfully updated issue #945
+Processing issue #942
+Issue #942: Found last label 'bug' at 4/4/2016 8:38:35 AM +02:00, setting type to BUG
+Successfully updated issue #942
+Processing issue #938
+Issue #938: Found last label 'bug' at 5/3/2016 6:44:51 PM +02:00, setting type to BUG
+Successfully updated issue #938
+Processing issue #937
+Issue #937: Found last label 'bug' at 5/3/2016 6:42:59 PM +02:00, setting type to BUG
+Successfully updated issue #937
+Completed page 57. Total processed so far: 940
+Fetching page 58...
+Page 58: Found 12 issues without type to process
+Processing issue #927
+Issue #927: Found last label 'bug' at 12/30/2015 6:42:04 AM +01:00, setting type to BUG
+Successfully updated issue #927
+Processing issue #926
+Issue #926: Found last label 'bug' at 12/29/2015 4:07:06 PM +01:00, setting type to BUG
+Successfully updated issue #926
+Processing issue #918
+Issue #918: Found last label 'bug' at 12/27/2015 4:42:44 PM +01:00, setting type to BUG
+Successfully updated issue #918
+Processing issue #917
+Issue #917: Found last label 'bug' at 12/29/2015 11:51:26 AM +01:00, setting type to BUG
+Successfully updated issue #917
+Processing issue #903
+Issue #903: Found last label 'bug' at 12/14/2015 3:42:09 PM +01:00, setting type to BUG
+Successfully updated issue #903
+Processing issue #893
+Issue #893: Found last label 'bug' at 12/6/2015 10:30:39 AM +01:00, setting type to BUG
+Successfully updated issue #893
+Processing issue #892
+Issue #892: Found last label 'bug' at 12/5/2015 8:33:46 PM +01:00, setting type to BUG
+Successfully updated issue #892
+Processing issue #889
+Issue #889: Found last label 'bug' at 12/4/2015 1:15:01 PM +01:00, setting type to BUG
+Successfully updated issue #889
+Processing issue #885
+Issue #885: Found last label 'bug' at 12/1/2015 3:08:30 PM +01:00, setting type to BUG
+Successfully updated issue #885
+Processing issue #874
+Issue #874: Found last label 'bug' at 11/19/2015 1:26:28 PM +01:00, setting type to BUG
+Successfully updated issue #874
+Processing issue #870
+Issue #870: Found last label 'bug' at 5/4/2016 7:39:31 AM +02:00, setting type to BUG
+Successfully updated issue #870
+Processing issue #869
+Issue #869: Found last label 'bug' at 11/16/2015 8:51:36 PM +01:00, setting type to BUG
+Successfully updated issue #869
+Completed page 58. Total processed so far: 952
+Fetching page 59...
+Page 59: Found 16 issues without type to process
+Processing issue #860
+Issue #860: Found last label 'bug' at 11/8/2015 1:13:18 PM +01:00, setting type to BUG
+Successfully updated issue #860
+Processing issue #858
+Issue #858: Found last label 'bug' at 11/8/2015 9:51:20 AM +01:00, setting type to BUG
+Successfully updated issue #858
+Processing issue #853
+Issue #853: Found last label 'bug' at 12/4/2015 7:38:15 AM +01:00, setting type to BUG
+Successfully updated issue #853
+Processing issue #852
+Issue #852: Found last label 'bug' at 12/4/2015 12:47:02 PM +01:00, setting type to BUG
+Successfully updated issue #852
+Processing issue #850
+Issue #850: Found last label 'bug' at 10/31/2015 8:43:09 PM +01:00, setting type to BUG
+Successfully updated issue #850
+Processing issue #845
+Issue #845: Found last label 'bug' at 10/30/2015 3:54:05 PM +01:00, setting type to BUG
+Successfully updated issue #845
+Processing issue #841
+Issue #841: Found last label 'bug' at 10/28/2015 5:34:10 PM +01:00, setting type to BUG
+Successfully updated issue #841
+Processing issue #840
+Issue #840: Found last label 'bug' at 10/28/2015 7:59:39 AM +01:00, setting type to BUG
+Successfully updated issue #840
+Processing issue #838
+Issue #838: Found last label 'bug' at 11/8/2015 2:33:48 PM +01:00, setting type to BUG
+Successfully updated issue #838
+Processing issue #837
+Issue #837: Found last label 'bug' at 10/27/2015 8:56:57 PM +01:00, setting type to BUG
+Successfully updated issue #837
+Processing issue #835
+Issue #835: Found last label 'bug' at 10/27/2015 10:18:13 PM +01:00, setting type to BUG
+Successfully updated issue #835
+Processing issue #831
+Issue #831: Found last label 'bug' at 11/8/2015 3:38:13 PM +01:00, setting type to BUG
+Successfully updated issue #831
+Processing issue #829
+Issue #829: Found last label 'bug' at 5/4/2016 7:52:18 AM +02:00, setting type to BUG
+Successfully updated issue #829
+Processing issue #821
+Issue #821: Found last label 'bug' at 10/14/2015 4:46:53 AM +02:00, setting type to BUG
+Successfully updated issue #821
+Processing issue #816
+Issue #816: Found last label 'bug' at 10/10/2015 6:21:18 PM +02:00, setting type to BUG
+Successfully updated issue #816
+Processing issue #812
+Issue #812: Found last label 'bug' at 10/5/2015 10:31:47 AM +02:00, setting type to BUG
+Successfully updated issue #812
+Completed page 59. Total processed so far: 968
+Fetching page 60...
+Page 60: Found 15 issues without type to process
+Processing issue #805
+Issue #805: Found last label 'bug' at 9/25/2015 10:52:53 PM +02:00, setting type to BUG
+Successfully updated issue #805
+Processing issue #800
+Issue #800: Found last label 'bug' at 9/24/2015 11:33:48 AM +02:00, setting type to BUG
+Successfully updated issue #800
+Processing issue #796
+Issue #796: Found last label 'bug' at 9/22/2015 3:45:16 PM +02:00, setting type to BUG
+Successfully updated issue #796
+Processing issue #795
+Issue #795: Found last label 'bug' at 9/22/2015 3:44:24 PM +02:00, setting type to BUG
+Successfully updated issue #795
+Processing issue #794
+Issue #794: Found last label 'bug' at 9/20/2015 10:14:59 AM +02:00, setting type to BUG
+Successfully updated issue #794
+Processing issue #788
+Issue #788: Found last label 'bug' at 9/17/2015 8:34:31 AM +02:00, setting type to BUG
+Successfully updated issue #788
+Processing issue #787
+Issue #787: Found last label 'bug' at 9/17/2015 8:50:54 AM +02:00, setting type to BUG
+Successfully updated issue #787
+Processing issue #785
+Issue #785: Found last label 'bug' at 9/15/2015 8:11:08 AM +02:00, setting type to BUG
+Successfully updated issue #785
+Processing issue #782
+Issue #782: Found last label 'bug' at 9/14/2015 9:41:41 AM +02:00, setting type to BUG
+Successfully updated issue #782
+Processing issue #778
+Issue #778: Found last label 'bug' at 9/12/2015 10:09:00 AM +02:00, setting type to BUG
+Successfully updated issue #778
+Processing issue #777
+Issue #777: Found last label 'bug' at 9/12/2015 1:43:27 PM +02:00, setting type to BUG
+Successfully updated issue #777
+Processing issue #776
+Issue #776: Found last label 'bug' at 9/9/2015 3:58:07 PM +02:00, setting type to BUG
+Successfully updated issue #776
+Processing issue #765
+Issue #765: Found last label 'bug' at 9/7/2015 1:37:01 PM +02:00, setting type to BUG
+Successfully updated issue #765
+Processing issue #764
+Issue #764: Found last label 'bug' at 9/7/2015 12:55:28 PM +02:00, setting type to BUG
+Successfully updated issue #764
+Processing issue #762
+Issue #762: Found last label 'bug' at 9/7/2015 1:11:41 PM +02:00, setting type to BUG
+Successfully updated issue #762
+Completed page 60. Total processed so far: 983
+Fetching page 61...
+Page 61: Found 27 issues without type to process
+Processing issue #754
+Issue #754: Found last label 'bug' at 9/4/2015 2:49:24 PM +02:00, setting type to BUG
+Successfully updated issue #754
+Processing issue #750
+Issue #750: Found last label 'bug' at 9/3/2015 8:15:51 PM +02:00, setting type to BUG
+Successfully updated issue #750
+Processing issue #747
+Issue #747: Found last label 'bug' at 9/3/2015 2:14:58 PM +02:00, setting type to BUG
+Successfully updated issue #747
+Processing issue #746
+Issue #746: Found last label 'bug' at 9/3/2015 10:52:00 AM +02:00, setting type to BUG
+Successfully updated issue #746
+Processing issue #744
+Issue #744: Found last label 'bug' at 9/14/2015 12:50:13 PM +02:00, setting type to BUG
+Successfully updated issue #744
+Processing issue #743
+Issue #743: Found last label 'bug' at 8/28/2015 9:38:26 AM +02:00, setting type to BUG
+Successfully updated issue #743
+Processing issue #742
+Issue #742: Found last label 'bug' at 8/28/2015 9:03:11 AM +02:00, setting type to BUG
+Successfully updated issue #742
+Processing issue #741
+Issue #741: Found last label 'bug' at 8/28/2015 9:07:55 AM +02:00, setting type to BUG
+Successfully updated issue #741
+Processing issue #737
+Issue #737: Found last label 'bug' at 9/1/2015 11:08:34 AM +02:00, setting type to BUG
+Successfully updated issue #737
+Processing issue #736
+Issue #736: Found last label 'bug' at 8/26/2015 12:20:29 PM +02:00, setting type to BUG
+Successfully updated issue #736
+Processing issue #734
+Issue #734: Found last label 'bug' at 8/27/2015 8:39:32 AM +02:00, setting type to BUG
+Successfully updated issue #734
+Processing issue #733
+Issue #733: Found last label 'bug' at 8/26/2015 7:08:26 AM +02:00, setting type to BUG
+Successfully updated issue #733
+Processing issue #731
+Issue #731: Found last label 'bug' at 5/8/2016 12:44:57 PM +02:00, setting type to BUG
+Successfully updated issue #731
+Processing issue #730
+Issue #730: Found last label 'bug' at 8/25/2015 8:41:40 AM +02:00, setting type to BUG
+Successfully updated issue #730
+Processing issue #729
+Issue #729: Found last label 'bug' at 8/24/2015 8:16:29 PM +02:00, setting type to BUG
+Successfully updated issue #729
+Processing issue #728
+Issue #728: Found last label 'bug' at 8/24/2015 7:17:31 PM +02:00, setting type to BUG
+Successfully updated issue #728
+Processing issue #727
+Issue #727: Found last label 'bug' at 8/24/2015 8:05:39 PM +02:00, setting type to BUG
+Successfully updated issue #727
+Processing issue #722
+Issue #722: Found last label 'bug' at 8/18/2015 3:08:22 PM +02:00, setting type to BUG
+Successfully updated issue #722
+Processing issue #719
+Issue #719: Found last label 'bug' at 8/18/2015 4:01:07 PM +02:00, setting type to BUG
+Successfully updated issue #719
+Processing issue #717
+Issue #717: Found last label 'bug' at 8/17/2015 11:29:46 AM +02:00, setting type to BUG
+Successfully updated issue #717
+Processing issue #716
+Issue #716: Found last label 'bug' at 8/17/2015 11:19:10 AM +02:00, setting type to BUG
+Successfully updated issue #716
+Processing issue #715
+Issue #715: Found last label 'bug' at 8/17/2015 11:18:37 AM +02:00, setting type to BUG
+Successfully updated issue #715
+Processing issue #714
+Issue #714: Found last label 'bug' at 8/16/2015 11:57:06 PM +02:00, setting type to BUG
+Successfully updated issue #714
+Processing issue #711
+Issue #711: Found last label 'bug' at 8/13/2015 10:16:55 PM +02:00, setting type to BUG
+Successfully updated issue #711
+Processing issue #710
+Issue #710: Found last label 'bug' at 8/13/2015 9:39:35 PM +02:00, setting type to BUG
+Successfully updated issue #710
+Processing issue #707
+Issue #707: Found last label 'bug' at 8/13/2015 1:07:00 PM +02:00, setting type to BUG
+Successfully updated issue #707
+Processing issue #706
+Issue #706: Found last label 'bug' at 8/13/2015 11:42:45 AM +02:00, setting type to BUG
+Successfully updated issue #706
+Completed page 61. Total processed so far: 1010
+Fetching page 62...
+Page 62: Found 23 issues without type to process
+Processing issue #703
+Issue #703: Found last label 'bug' at 8/13/2015 11:33:47 AM +02:00, setting type to BUG
+Successfully updated issue #703
+Processing issue #700
+Issue #700: Found last label 'bug' at 8/12/2015 12:35:47 AM +02:00, setting type to BUG
+Successfully updated issue #700
+Processing issue #695
+Issue #695: Found last label 'bug' at 8/10/2015 2:25:24 PM +02:00, setting type to BUG
+Successfully updated issue #695
+Processing issue #694
+Issue #694: Found last label 'bug' at 8/10/2015 2:28:22 PM +02:00, setting type to BUG
+Successfully updated issue #694
+Processing issue #693
+Issue #693: Found last label 'bug' at 8/10/2015 9:56:28 AM +02:00, setting type to BUG
+Successfully updated issue #693
+Processing issue #691
+Issue #691: Found last label 'bug' at 8/9/2015 7:37:00 PM +02:00, setting type to BUG
+Successfully updated issue #691
+Processing issue #690
+Issue #690: Found last label 'bug' at 8/9/2015 6:37:03 PM +02:00, setting type to BUG
+Successfully updated issue #690
+Processing issue #681
+Issue #681: Found last label 'bug' at 7/31/2015 1:08:34 PM +02:00, setting type to BUG
+Successfully updated issue #681
+Processing issue #674
+Issue #674: Found last label 'bug' at 7/23/2015 6:14:32 AM +02:00, setting type to BUG
+Successfully updated issue #674
+Processing issue #673
+Issue #673: Found last label 'bug' at 7/22/2015 3:31:05 PM +02:00, setting type to BUG
+Successfully updated issue #673
+Processing issue #672
+Issue #672: Found last label 'bug' at 7/21/2015 5:51:44 AM +02:00, setting type to BUG
+Successfully updated issue #672
+Processing issue #670
+Issue #670: Found last label 'bug' at 7/20/2015 4:43:04 PM +02:00, setting type to BUG
+Successfully updated issue #670
+Processing issue #668
+Issue #668: Found last label 'bug' at 7/17/2015 11:44:29 AM +02:00, setting type to BUG
+Successfully updated issue #668
+Processing issue #666
+Issue #666: Found last label 'bug' at 7/14/2015 5:21:27 PM +02:00, setting type to BUG
+Successfully updated issue #666
+Processing issue #662
+Issue #662: Found last label 'bug' at 7/10/2015 10:10:31 AM +02:00, setting type to BUG
+Successfully updated issue #662
+Processing issue #661
+Issue #661: Found last label 'bug' at 7/10/2015 7:47:18 AM +02:00, setting type to BUG
+Successfully updated issue #661
+Processing issue #658
+Issue #658: Found last label 'bug' at 5/8/2016 12:37:05 PM +02:00, setting type to BUG
+Successfully updated issue #658
+Processing issue #654
+Issue #654: Found last label 'bug' at 7/1/2015 8:35:40 AM +02:00, setting type to BUG
+Successfully updated issue #654
+Processing issue #645
+Issue #645: Found last label 'bug' at 6/17/2015 1:10:04 PM +02:00, setting type to BUG
+Successfully updated issue #645
+Processing issue #643
+Issue #643: Found last label 'bug' at 6/12/2015 6:37:59 PM +02:00, setting type to BUG
+Successfully updated issue #643
+Processing issue #642
+Issue #642: Found last label 'bug' at 6/11/2015 6:41:55 AM +02:00, setting type to BUG
+Successfully updated issue #642
+Processing issue #641
+Issue #641: Found last label 'bug' at 6/11/2015 8:08:54 PM +02:00, setting type to BUG
+Successfully updated issue #641
+Processing issue #639
+Issue #639: Found last label 'bug' at 6/9/2015 5:42:57 PM +02:00, setting type to BUG
+Successfully updated issue #639
+Completed page 62. Total processed so far: 1033
+Fetching page 63...
+Page 63: Found 7 issues without type to process
+Processing issue #638
+Issue #638: Found last label 'bug' at 6/8/2015 11:34:28 AM +02:00, setting type to BUG
+Successfully updated issue #638
+Processing issue #637
+Issue #637: Found last label 'bug' at 6/7/2015 9:02:30 PM +02:00, setting type to BUG
+Successfully updated issue #637
+Processing issue #633
+Issue #633: Found last label 'bug' at 6/7/2015 3:45:31 PM +02:00, setting type to BUG
+Successfully updated issue #633
+Processing issue #621
+Issue #621: Found last label 'bug' at 5/25/2015 9:58:27 AM +02:00, setting type to BUG
+Successfully updated issue #621
+Processing issue #615
+Issue #615: Found last label 'bug' at 6/17/2015 6:41:14 PM +02:00, setting type to BUG
+Successfully updated issue #615
+Processing issue #613
+Issue #613: Found last label 'bug' at 5/21/2015 11:17:32 PM +02:00, setting type to BUG
+Successfully updated issue #613
+Processing issue #596
+Issue #596: Found last label 'bug' at 5/7/2015 12:15:16 PM +02:00, setting type to BUG
+Successfully updated issue #596
+Completed page 63. Total processed so far: 1040
+Fetching page 64...
+Page 64: Found 12 issues without type to process
+Processing issue #578
+Issue #578: Found last label 'bug' at 4/15/2015 8:06:23 AM +02:00, setting type to BUG
+Successfully updated issue #578
+Processing issue #576
+Issue #576: Found last label 'bug' at 8/5/2017 9:37:16 AM +02:00, setting type to BUG
+Successfully updated issue #576
+Processing issue #565
+Issue #565: Found last label 'bug' at 3/31/2015 1:35:51 PM +02:00, setting type to BUG
+Successfully updated issue #565
+Processing issue #563
+Issue #563: Found last label 'bug' at 3/31/2015 8:17:58 AM +02:00, setting type to BUG
+Successfully updated issue #563
+Processing issue #559
+Issue #559: Found last label 'bug' at 3/30/2015 11:15:21 PM +02:00, setting type to BUG
+Successfully updated issue #559
+Processing issue #555
+Issue #555: Found last label 'bug' at 3/25/2015 9:43:27 AM +01:00, setting type to BUG
+Successfully updated issue #555
+Processing issue #554
+Issue #554: Found last label 'bug' at 3/30/2015 11:16:07 PM +02:00, setting type to BUG
+Successfully updated issue #554
+Processing issue #551
+Issue #551: Found last label 'bug' at 3/23/2015 10:45:32 AM +01:00, setting type to BUG
+Successfully updated issue #551
+Processing issue #549
+Issue #549: Found last label 'bug' at 5/8/2016 12:19:47 PM +02:00, setting type to BUG
+Successfully updated issue #549
+Processing issue #543
+Issue #543: Found last label 'bug' at 3/19/2015 2:47:19 PM +01:00, setting type to BUG
+Successfully updated issue #543
+Processing issue #534
+Issue #534: Found last label 'bug' at 3/16/2015 6:15:21 AM +01:00, setting type to BUG
+Successfully updated issue #534
+Processing issue #523
+Issue #523: Found last label 'bug' at 3/9/2015 10:15:33 AM +01:00, setting type to BUG
+Successfully updated issue #523
+Completed page 64. Total processed so far: 1052
+Fetching page 65...
+Page 65: Found 14 issues without type to process
+Processing issue #515
+Issue #515: Found last label 'bug' at 3/3/2015 7:10:47 AM +01:00, setting type to BUG
+Successfully updated issue #515
+Processing issue #514
+Issue #514: Found last label 'bug' at 3/2/2015 9:55:28 PM +01:00, setting type to BUG
+Successfully updated issue #514
+Processing issue #513
+Issue #513: Found last label 'bug' at 3/2/2015 9:31:02 AM +01:00, setting type to BUG
+Successfully updated issue #513
+Processing issue #511
+Issue #511: Found last label 'bug' at 3/2/2015 4:07:39 AM +01:00, setting type to BUG
+Successfully updated issue #511
+Processing issue #505
+Issue #505: Found last label 'bug' at 2/27/2015 11:51:11 PM +01:00, setting type to BUG
+Successfully updated issue #505
+Processing issue #504
+Issue #504: Found last label 'bug' at 2/27/2015 2:55:00 PM +01:00, setting type to BUG
+Successfully updated issue #504
+Processing issue #497
+Issue #497: Found last label 'bug' at 9/25/2015 10:23:53 PM +02:00, setting type to BUG
+Successfully updated issue #497
+Processing issue #492
+Issue #492: Found last label 'bug' at 2/19/2015 8:20:07 AM +01:00, setting type to BUG
+Successfully updated issue #492
+Processing issue #491
+Issue #491: Found last label 'bug' at 2/18/2015 4:17:01 PM +01:00, setting type to BUG
+Successfully updated issue #491
+Processing issue #488
+Issue #488: Found last label 'bug' at 2/18/2015 9:35:57 AM +01:00, setting type to BUG
+Successfully updated issue #488
+Processing issue #472
+Issue #472: Found last label 'bug' at 2/5/2015 11:45:55 PM +01:00, setting type to BUG
+Successfully updated issue #472
+Processing issue #461
+Issue #461: Found last label 'bug' at 1/22/2015 10:06:54 AM +01:00, setting type to BUG
+Successfully updated issue #461
+Processing issue #460
+Issue #460: Found last label 'bug' at 10/5/2015 4:16:18 PM +02:00, setting type to BUG
+Successfully updated issue #460
+Processing issue #457
+Issue #457: Found last label 'bug' at 1/14/2015 5:03:15 PM +01:00, setting type to BUG
+Successfully updated issue #457
+Completed page 65. Total processed so far: 1066
+Fetching page 66...
+Page 66: Found 11 issues without type to process
+Processing issue #426
+Issue #426: Found last label 'bug' at 12/5/2014 10:03:43 AM +01:00, setting type to BUG
+Successfully updated issue #426
+Processing issue #417
+Issue #417: Found last label 'bug' at 11/26/2014 2:53:09 PM +01:00, setting type to BUG
+Successfully updated issue #417
+Processing issue #416
+Issue #416: Found last label 'bug' at 11/21/2014 11:38:53 AM +01:00, setting type to BUG
+Successfully updated issue #416
+Processing issue #415
+Issue #415: Found last label 'bug' at 11/26/2014 3:02:34 PM +01:00, setting type to BUG
+Successfully updated issue #415
+Processing issue #406
+Issue #406: Found last label 'bug' at 10/30/2014 10:47:52 AM +01:00, setting type to BUG
+Successfully updated issue #406
+Processing issue #403
+Issue #403: Found last label 'bug' at 10/27/2014 2:21:52 PM +01:00, setting type to BUG
+Successfully updated issue #403
+Processing issue #400
+Issue #400: Found last label 'bug' at 10/23/2015 7:41:21 AM +02:00, setting type to BUG
+Successfully updated issue #400
+Processing issue #399
+Issue #399: Found last label 'bug' at 5/8/2016 11:31:37 AM +02:00, setting type to BUG
+Successfully updated issue #399
+Processing issue #397
+Issue #397: Found last label 'bug' at 8/23/2015 4:25:25 PM +02:00, setting type to BUG
+Successfully updated issue #397
+Processing issue #395
+Issue #395: Found last label 'bug' at 10/22/2014 11:26:22 PM +02:00, setting type to BUG
+Successfully updated issue #395
+Processing issue #393
+Issue #393: Found last label 'bug' at 10/21/2014 11:14:54 PM +02:00, setting type to BUG
+Successfully updated issue #393
+Completed page 66. Total processed so far: 1077
+Fetching page 67...
+Page 67: Found 11 issues without type to process
+Processing issue #372
+Issue #372: Found last label 'bug' at 10/8/2014 4:56:31 PM +02:00, setting type to BUG
+Successfully updated issue #372
+Processing issue #371
+Issue #371: Found last label 'bug' at 10/8/2014 4:06:15 PM +02:00, setting type to BUG
+Successfully updated issue #371
+Processing issue #363
+Issue #363: Found last label 'bug' at 9/22/2014 4:47:03 AM +02:00, setting type to BUG
+Successfully updated issue #363
+Processing issue #361
+Issue #361: Found last label 'bug' at 9/20/2014 9:30:21 PM +02:00, setting type to BUG
+Successfully updated issue #361
+Processing issue #360
+Issue #360: Found last label 'bug' at 9/20/2014 6:57:33 AM +02:00, setting type to BUG
+Successfully updated issue #360
+Processing issue #357
+Issue #357: Found last label 'bug' at 9/19/2014 7:02:33 AM +02:00, setting type to BUG
+Successfully updated issue #357
+Processing issue #346
+Issue #346: Found last label 'bug' at 9/15/2014 4:17:42 PM +02:00, setting type to BUG
+Successfully updated issue #346
+Processing issue #340
+Issue #340: Found last label 'bug' at 9/12/2014 3:49:54 PM +02:00, setting type to BUG
+Successfully updated issue #340
+Processing issue #337
+Issue #337: Found last label 'bug' at 9/10/2014 10:59:42 PM +02:00, setting type to BUG
+Successfully updated issue #337
+Processing issue #335
+Issue #335: Found last label 'bug' at 9/7/2014 4:24:18 PM +02:00, setting type to BUG
+Successfully updated issue #335
+Processing issue #323
+Issue #323: Found last label 'bug' at 8/17/2014 7:14:11 PM +02:00, setting type to BUG
+Successfully updated issue #323
+Completed page 67. Total processed so far: 1088
+Fetching page 68...
+Page 68: Found 21 issues without type to process
+Processing issue #304
+Issue #304: Found last label 'bug' at 8/5/2014 3:16:06 PM +02:00, setting type to BUG
+Successfully updated issue #304
+Processing issue #296
+Issue #296: Found last label 'bug' at 7/26/2014 2:07:11 PM +02:00, setting type to BUG
+Successfully updated issue #296
+Processing issue #295
+Issue #295: Found last label 'bug' at 9/4/2014 6:02:58 AM +02:00, setting type to BUG
+Successfully updated issue #295
+Processing issue #289
+Issue #289: Found last label 'bug' at 7/20/2014 1:03:13 PM +02:00, setting type to BUG
+Successfully updated issue #289
+Processing issue #288
+Issue #288: Found last label 'bug' at 7/20/2014 1:03:31 PM +02:00, setting type to BUG
+Successfully updated issue #288
+Processing issue #284
+Issue #284: Found last label 'bug' at 7/20/2014 12:57:25 AM +02:00, setting type to BUG
+Successfully updated issue #284
+Processing issue #282
+Issue #282: Found last label 'bug' at 7/18/2014 5:59:07 AM +02:00, setting type to BUG
+Successfully updated issue #282
+Processing issue #280
+Issue #280: Found last label 'bug' at 7/18/2014 5:59:54 AM +02:00, setting type to BUG
+Successfully updated issue #280
+Processing issue #276
+Issue #276: Found last label 'bug' at 7/18/2014 6:08:08 AM +02:00, setting type to BUG
+Successfully updated issue #276
+Processing issue #266
+Issue #266: Found last label 'bug' at 1/13/2015 9:48:42 AM +01:00, setting type to BUG
+Successfully updated issue #266
+Processing issue #265
+Issue #265: Found last label 'bug' at 4/10/2015 5:43:34 AM +02:00, setting type to BUG
+Successfully updated issue #265
+Processing issue #264
+Issue #264: Found last label 'bug' at 7/1/2014 5:29:37 PM +02:00, setting type to BUG
+Successfully updated issue #264
+Processing issue #262
+Issue #262: Found last label 'bug' at 6/27/2014 12:06:15 AM +02:00, setting type to BUG
+Successfully updated issue #262
+Processing issue #252
+Issue #252: Found last label 'bug' at 8/4/2014 9:50:09 PM +02:00, setting type to BUG
+Successfully updated issue #252
+Processing issue #251
+Issue #251: Found last label 'bug' at 7/26/2014 8:18:29 AM +02:00, setting type to BUG
+Successfully updated issue #251
+Processing issue #246
+Issue #246: Found last label 'bug' at 7/1/2014 5:13:35 PM +02:00, setting type to BUG
+Successfully updated issue #246
+Processing issue #244
+Issue #244: Found last label 'bug' at 6/22/2015 12:39:32 PM +02:00, setting type to BUG
+Successfully updated issue #244
+Processing issue #241
+Issue #241: Found last label 'bug' at 7/25/2014 2:40:49 PM +02:00, setting type to BUG
+Successfully updated issue #241
+Processing issue #240
+Issue #240: Found last label 'bug' at 8/3/2014 1:40:21 AM +02:00, setting type to BUG
+Successfully updated issue #240
+Processing issue #233
+Issue #233: Found last label 'bug' at 8/4/2014 3:08:00 PM +02:00, setting type to BUG
+Successfully updated issue #233
+Processing issue #231
+Issue #231: Found last label 'bug' at 5/8/2014 11:55:29 AM +02:00, setting type to BUG
+Successfully updated issue #231
+Completed page 68. Total processed so far: 1109
+Fetching page 69...
+Page 69: Found 19 issues without type to process
+Processing issue #223
+Issue #223: Found last label 'bug' at 5/3/2014 11:26:32 PM +02:00, setting type to BUG
+Successfully updated issue #223
+Processing issue #222
+Issue #222: Found last label 'bug' at 5/3/2014 11:25:30 PM +02:00, setting type to BUG
+Successfully updated issue #222
+Processing issue #221
+Issue #221: Found last label 'bug' at 7/15/2014 4:35:29 PM +02:00, setting type to BUG
+Successfully updated issue #221
+Processing issue #219
+Issue #219: Found last label 'bug' at 4/17/2014 9:39:00 PM +02:00, setting type to BUG
+Successfully updated issue #219
+Processing issue #217
+Issue #217: Found last label 'bug' at 4/17/2014 2:52:04 PM +02:00, setting type to BUG
+Successfully updated issue #217
+Processing issue #216
+Issue #216: Found last label 'bug' at 8/17/2014 6:59:23 PM +02:00, setting type to BUG
+Successfully updated issue #216
+Processing issue #208
+Issue #208: Found last label 'bug' at 4/9/2014 10:35:32 PM +02:00, setting type to BUG
+Successfully updated issue #208
+Processing issue #201
+Issue #201: Found last label 'bug' at 6/9/2014 7:43:49 PM +02:00, setting type to BUG
+Successfully updated issue #201
+Processing issue #191
+Issue #191: Found last label 'bug' at 3/25/2014 8:33:52 PM +01:00, setting type to BUG
+Successfully updated issue #191
+Processing issue #184
+Issue #184: Found last label 'bug' at 3/12/2014 9:57:52 PM +01:00, setting type to BUG
+Successfully updated issue #184
+Processing issue #179
+Issue #179: Found last label 'bug' at 4/8/2014 4:53:28 PM +02:00, setting type to BUG
+Successfully updated issue #179
+Processing issue #177
+Issue #177: Found last label 'bug' at 7/22/2014 7:43:25 PM +02:00, setting type to BUG
+Successfully updated issue #177
+Processing issue #176
+Issue #176: Found last label 'bug' at 3/12/2014 10:01:42 PM +01:00, setting type to BUG
+Successfully updated issue #176
+Processing issue #165
+Issue #165: Found last label 'bug' at 2/17/2014 9:38:38 PM +01:00, setting type to BUG
+Successfully updated issue #165
+Processing issue #163
+Issue #163: Found last label 'bug' at 2/12/2014 8:37:53 PM +01:00, setting type to BUG
+Successfully updated issue #163
+Processing issue #162
+Issue #162: Found last label 'bug' at 2/11/2014 7:23:53 PM +01:00, setting type to BUG
+Successfully updated issue #162
+Processing issue #158
+Issue #158: Found last label 'bug' at 7/28/2014 9:31:59 PM +02:00, setting type to BUG
+Successfully updated issue #158
+Processing issue #147
+Issue #147: Found last label 'bug' at 9/3/2015 8:12:09 AM +02:00, setting type to BUG
+Successfully updated issue #147
+Processing issue #146
+Issue #146: Found last label 'bug' at 3/12/2014 10:04:12 PM +01:00, setting type to BUG
+Successfully updated issue #146
+Completed page 69. Total processed so far: 1128
+Fetching page 70...
+Page 70: Found 0 issues without type to process
+Completed page 70. Total processed so far: 1128
+All pages processed. Total issues processed: 1128
+Fetching issue type node IDs...
+Found BUG issue type ID: IT_kwDOAFf9Yc4ABwMb
+Found FEATURE issue type ID: IT_kwDOAFf9Yc4ABwMe
+Production mode: Processing all issues without type
+Processing closed issues with full details (page by page)...
+Fetching page 1...
+Page 1: Found 0 issues without type to process
+Completed page 1. Total processed so far: 0
+Fetching page 2...
+Page 2: Found 0 issues without type to process
+Completed page 2. Total processed so far: 0
+Fetching page 3...
+Page 3: Found 0 issues without type to process
+Completed page 3. Total processed so far: 0
+Fetching page 4...
+Page 4: Found 0 issues without type to process
+Completed page 4. Total processed so far: 0
+Fetching page 5...
+Page 5: Found 0 issues without type to process
+Completed page 5. Total processed so far: 0
+Fetching page 6...
+Page 6: Found 0 issues without type to process
+Completed page 6. Total processed so far: 0
+Fetching page 7...
+Page 7: Found 0 issues without type to process
+Completed page 7. Total processed so far: 0
+Fetching page 8...
+Page 8: Found 0 issues without type to process
+Completed page 8. Total processed so far: 0
+Fetching page 9...
+Page 9: Found 0 issues without type to process
+Completed page 9. Total processed so far: 0
+Fetching page 10...
+Page 10: Found 0 issues without type to process
+Completed page 10. Total processed so far: 0
+Fetching page 11...
+Page 11: Found 0 issues without type to process
+Completed page 11. Total processed so far: 0
+Fetching page 12...
+Page 12: Found 0 issues without type to process
+Completed page 12. Total processed so far: 0
+Fetching page 13...
+Page 13: Found 0 issues without type to process
+Completed page 13. Total processed so far: 0
+Fetching page 14...
+Page 14: Found 0 issues without type to process
+Completed page 14. Total processed so far: 0
+Fetching page 15...
+Page 15: Found 0 issues without type to process
+Completed page 15. Total processed so far: 0
+Fetching page 16...
+Page 16: Found 0 issues without type to process
+Completed page 16. Total processed so far: 0
+Fetching page 17...
+Page 17: Found 0 issues without type to process
+Completed page 17. Total processed so far: 0
+Fetching page 18...
+Page 18: Found 0 issues without type to process
+Completed page 18. Total processed so far: 0
+Fetching page 19...
+Page 19: Found 0 issues without type to process
+Completed page 19. Total processed so far: 0
+Fetching page 20...
+Page 20: Found 0 issues without type to process
+Completed page 20. Total processed so far: 0
+Fetching page 21...
+Page 21: Found 0 issues without type to process
+Completed page 21. Total processed so far: 0
+Fetching page 22...
+Page 22: Found 0 issues without type to process
+Completed page 22. Total processed so far: 0
+Fetching page 23...
+Page 23: Found 0 issues without type to process
+Completed page 23. Total processed so far: 0
+Fetching page 24...
+Page 24: Found 0 issues without type to process
+Completed page 24. Total processed so far: 0
+Fetching page 25...
+Page 25: Found 0 issues without type to process
+Completed page 25. Total processed so far: 0
+Fetching page 26...
+Page 26: Found 0 issues without type to process
+Completed page 26. Total processed so far: 0
+Fetching page 27...
+Page 27: Found 0 issues without type to process
+Completed page 27. Total processed so far: 0
+Fetching page 28...
+Page 28: Found 0 issues without type to process
+Completed page 28. Total processed so far: 0
+Fetching page 29...
+Page 29: Found 0 issues without type to process
+Completed page 29. Total processed so far: 0
+Fetching page 30...
+Page 30: Found 0 issues without type to process
+Completed page 30. Total processed so far: 0
+Fetching page 31...
+Page 31: Found 0 issues without type to process
+Completed page 31. Total processed so far: 0
+Fetching page 32...
+Page 32: Found 0 issues without type to process
+Completed page 32. Total processed so far: 0
+Fetching page 33...
+Page 33: Found 0 issues without type to process
+Completed page 33. Total processed so far: 0
+Fetching page 34...
+Page 34: Found 0 issues without type to process
+Completed page 34. Total processed so far: 0
+Fetching page 35...
+Page 35: Found 0 issues without type to process
+Completed page 35. Total processed so far: 0
+Fetching page 36...
+Page 36: Found 0 issues without type to process
+Completed page 36. Total processed so far: 0
+Fetching page 37...
+Page 37: Found 0 issues without type to process
+Completed page 37. Total processed so far: 0
+Fetching page 38...
+Page 38: Found 0 issues without type to process
+Completed page 38. Total processed so far: 0
+Fetching page 39...
+Page 39: Found 0 issues without type to process
+Completed page 39. Total processed so far: 0
+Fetching page 40...
+Page 40: Found 0 issues without type to process
+Completed page 40. Total processed so far: 0
+Fetching page 41...
+Page 41: Found 0 issues without type to process
+Completed page 41. Total processed so far: 0
+Fetching page 42...
+Page 42: Found 0 issues without type to process
+Completed page 42. Total processed so far: 0
+Fetching page 43...
+Page 43: Found 0 issues without type to process
+Completed page 43. Total processed so far: 0
+Fetching page 44...
+Page 44: Found 0 issues without type to process
+Completed page 44. Total processed so far: 0
+Fetching page 45...
+Page 45: Found 0 issues without type to process
+Completed page 45. Total processed so far: 0
+Fetching page 46...
+Page 46: Found 0 issues without type to process
+Completed page 46. Total processed so far: 0
+Fetching page 47...
+Page 47: Found 0 issues without type to process
+Completed page 47. Total processed so far: 0
+All pages processed. Total issues processed: 0
