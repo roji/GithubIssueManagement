@@ -6,17 +6,17 @@
       <LangVersion>latest</LangVersion>
       <Nullable>enable</Nullable>
 
-<!--      <EfCoreVersion>6.0.36</EfCoreVersion>-->
-<!--      <MicrosoftExtensionsVersion>6.0.0</MicrosoftExtensionsVersion>-->
-<!--      <NpgsqlVersion>6.0.7</NpgsqlVersion>-->
+      <!-- <EfCoreVersion>6.0.36</EfCoreVersion>
+      <MicrosoftExtensionsVersion>6.0.0</MicrosoftExtensionsVersion>
+      <NpgsqlVersion>6.0.7</NpgsqlVersion> -->
 
-<!--      <EfCoreVersion>7.0.8</EfCoreVersion>-->
-<!--      <MicrosoftExtensionsVersion>7.0.0</MicrosoftExtensionsVersion>-->
-<!--      <NpgsqlVersion>7.0.4</NpgsqlVersion>-->
+      <!-- <EfCoreVersion>7.0.8</EfCoreVersion>
+      <MicrosoftExtensionsVersion>7.0.0</MicrosoftExtensionsVersion>
+      <NpgsqlVersion>7.0.4</NpgsqlVersion> -->
 
-<!--      <EfCoreVersion>8.0.8</EfCoreVersion>-->
-<!--      <MicrosoftExtensionsVersion>8.0.0</MicrosoftExtensionsVersion>-->
-<!--      <NpgsqlVersion>8.0.4</NpgsqlVersion>-->
+      <!-- <EfCoreVersion>8.0.8</EfCoreVersion>
+      <MicrosoftExtensionsVersion>8.0.0</MicrosoftExtensionsVersion>
+      <NpgsqlVersion>8.0.4</NpgsqlVersion> -->
 
       <EfCoreVersion>9.0.5</EfCoreVersion>
       <MicrosoftExtensionsVersion>9.0.5</MicrosoftExtensionsVersion>
