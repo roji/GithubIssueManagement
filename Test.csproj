@@ -41,6 +41,7 @@
 
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="$(EfCoreVersion)" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="$(EfCoreVersion)" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Cosmos" Version="$(EfCoreVersion)" />
       <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="$(NpgsqlVersion)" />
 
 <!--      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime" Version="$(NpgsqlVersion)" />-->

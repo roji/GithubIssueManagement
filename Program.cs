@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Diagnostics;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
+using Microsoft.Azure.Cosmos;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
@@ -17,8 +19,17 @@ public class BlogContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder
-            .UseSqlServer(Environment.GetEnvironmentVariable("Test__SqlServer__DefaultConnection"))
-            // .UseNpgsql(Environment.GetEnvironmentVariable("Test__Npgsql__DefaultConnection"))
+            .UseCosmos(
+                Environment.GetEnvironmentVariable("CosmosNoSql__ConnectionString")!,
+                databaseName: "test",
+                o => o
+                    .ConnectionMode(ConnectionMode.Gateway)
+                    .HttpClientFactory(() => new HttpClient(
+                        new HttpClientHandler
+                        {
+                            ServerCertificateCustomValidationCallback =
+                                HttpClientHandler.DangerousAcceptAnyServerCertificateValidator
+                        })))
             .LogTo(Console.WriteLine, LogLevel.Information)
             .EnableSensitiveDataLogging();
 
