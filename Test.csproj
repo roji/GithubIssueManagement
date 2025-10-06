@@ -24,7 +24,7 @@
 
       <EfCoreVersion>10.0.0-rc.1.25451.107</EfCoreVersion>
       <MicrosoftExtensionsVersion>10.0.0-rc.1.25451.107</MicrosoftExtensionsVersion>
-      <NpgsqlVersion>9.0.4</NpgsqlVersion>
+      <NpgsqlVersion>10.0.0-rc.1</NpgsqlVersion>
 
   </PropertyGroup>
 
